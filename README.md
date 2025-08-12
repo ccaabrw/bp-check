@@ -1,2 +1,2 @@
-# bp_check
+# bp-check
 Bootptab check
