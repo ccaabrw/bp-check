@@ -1,0 +1,8 @@
+*** /tmp/d_Danya	Thu Oct 16 15:04:46 2014
+--- /tmp/bp_check.auto.3342478	Thu Oct 16 15:04:46 2014
+***************
+*** 242,244 ****
+  HELP  128.40.37.30    -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.37.78    -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.44.245   -> 144.82.104.8    uclinst-gw8.uclinst
+--- 242,243 ----

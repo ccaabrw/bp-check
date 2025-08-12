@@ -1,0 +1,8 @@
+*** /tmp/d4nigia	Thu Jan 13 16:17:08 2011
+--- /tmp/bp_check.auto.1151016	Thu Jan 13 16:17:08 2011
+***************
+*** 251,253 ****
+  HELP  128.40.253.245  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.28.245   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.28.245   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 251,252 ----

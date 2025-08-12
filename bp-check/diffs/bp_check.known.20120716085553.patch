@@ -1,0 +1,8 @@
+*** /tmp/dP-7eya	Mon Jul 16 08:55:50 2012
+--- /tmp/bp_check.auto.721056	Mon Jul 16 08:55:50 2012
+***************
+*** 95,97 ****
+  HELP  128.40.163.206  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.163.30   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.163.30   -> 144.82.104.20   uclinst-gw20.uclinst
+--- 95,96 ----

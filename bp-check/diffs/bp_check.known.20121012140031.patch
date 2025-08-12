@@ -1,0 +1,8 @@
+*** /tmp/dh-ElEa	Fri Oct 12 13:59:30 2012
+--- /tmp/bp_check.auto.770160	Fri Oct 12 13:59:30 2012
+***************
+*** 267,268 ****
+--- 267,269 ----
+  HELP  128.40.34.245   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.35.245   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.35.245   -> 144.82.104.23   uclinst-gw23.uclinst

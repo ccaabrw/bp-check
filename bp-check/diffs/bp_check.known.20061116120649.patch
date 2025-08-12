@@ -1,0 +1,16 @@
+*** /tmp/d9Lyh7a	Thu Nov 16 12:06:44 2006
+--- /tmp/bp_check.auto.471140	Thu Nov 16 12:06:44 2006
+***************
+*** 21,23 ****
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
+- MAC   XXXXXXXXXXXX  careers-ws1.careers     128.40.184.162  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws27.cloist      128.40.170.202  uclinst-gw10.uclinst
+--- 21,22 ----
+***************
+*** 33,35 ****
+--- 32,36 ----
+  MAC   XXXXXXXXXXXX  ellt-ws1.ellt           128.40.169.33   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  epd-ws10.epd            128.40.98.160   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  epd-ws44.epd            128.40.98.210   uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  epd-ws45.epd            128.40.98.211   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  exam-ws1.exam           128.40.181.1    uclinst-gw20.uclinst

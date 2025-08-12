@@ -1,0 +1,8 @@
+*** /tmp/d9PYaia	Wed Aug 31 19:54:54 2011
+--- /tmp/bp_check.auto.532728	Wed Aug 31 19:54:54 2011
+***************
+*** 186,188 ****
+  HELP  128.40.207.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.207.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.207.245  -> 144.82.103.130  uclusers-slp3.uclusers
+--- 186,187 ----

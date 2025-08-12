@@ -1,0 +1,8 @@
+*** /tmp/d-2amia	Thu Feb  5 12:26:19 2015
+--- /tmp/bp_check.auto.14942334	Thu Feb  5 12:26:18 2015
+***************
+*** 292,293 ****
+--- 292,294 ----
+  HELP  128.40.84.142   -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.84.142   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.85.245   -> 144.82.104.21   uclinst-gw21.uclinst

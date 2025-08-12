@@ -1,0 +1,11 @@
+*** /tmp/dHSQd7a	Fri Jan 26 10:13:44 2007
+--- /tmp/bp_check.auto.798926	Fri Jan 26 10:13:44 2007
+***************
+*** 132,137 ****
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl31-ws63.ucl31        128.40.131.213  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl31-ws64.ucl31        128.40.131.214  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl31-ws65.ucl31        128.40.131.215  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl31-ws66.ucl31        128.40.131.216  uclinst-gw7.uclinst
+  MAC   XXXXXXXXXXXX  ucl42-ws10.ucl42        128.40.142.10   uclinst-gw5.uclinst
+--- 132,133 ----

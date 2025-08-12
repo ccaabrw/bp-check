@@ -1,0 +1,17 @@
+*** /tmp/dGWMeMa	Mon Feb 26 10:13:46 2007
+--- /tmp/bp_check.auto.1101876	Mon Feb 26 10:13:46 2007
+***************
+*** 65,66 ****
+--- 65,67 ----
+  MAC   XXXXXXXXXXXX  iseisd-ws232.is-eisd    128.40.223.135  uclinst-gw1.uclinst
++ MAC   XXXXXXXXXXXX  iseisd-ws33.is-eisd     128.40.223.134  uclinst-gw1.uclinst
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+***************
+*** 120,125 ****
+  MAC   XXXXXXXXXXXX  psychiat-ws125.psychiat 128.40.204.45   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws13.reg            128.40.87.163   uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws15.reg            128.40.87.165   uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws19.reg            128.40.87.169   uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws4.reg             128.40.87.154   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+--- 121,122 ----

@@ -1,0 +1,18 @@
+*** /tmp/dATUcia	Tue Oct 31 17:20:48 2006
+--- /tmp/bp_check.auto.819252	Tue Oct 31 17:20:48 2006
+***************
+*** 18,19 ****
+--- 23,25 ----
+  MAC   XXXXXXXXXXXX  anat-ws34.anat          128.40.152.168  uclinst-gw15.uclinst
++ MAC   XXXXXXXXXXXX  arts-ws35.arts          128.40.29.135   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  arts-ws48.arts          128.40.29.148   uclinst-gw23.uclinst
+***************
+*** 60,61 ****
+--- 66,72 ----
+  MAC   XXXXXXXXXXXX  german-ws24.german      128.40.191.190  uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  hist-ws16.hist          128.40.88.105   uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  hist-ws2.hist           128.40.88.52    uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  hist-ws23.hist          128.40.88.112   uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  hist-ws25.hist          128.40.88.115   uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  hist-ws6.hist           128.40.88.75    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  hist-ws8.hist           128.40.88.95    uclinst-gw14.uclinst

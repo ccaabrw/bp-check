@@ -1,0 +1,8 @@
+*** /tmp/d-kacia	Wed Jan  9 10:56:58 2008
+--- /tmp/bp_check.auto.9748552	Wed Jan  9 10:56:58 2008
+***************
+*** 223,225 ****
+  HELP  128.40.211.134  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.211.134  -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.211.206  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 223,224 ----

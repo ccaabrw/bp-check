@@ -1,0 +1,10 @@
+*** /tmp/dxZak7a	Tue Apr 20 08:55:59 2010
+--- /tmp/bp_check.auto.794658	Tue Apr 20 08:55:59 2010
+***************
+*** 37,41 ****
+  HELP  128.40.137.245  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.138.245  -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.138.245  -> 144.82.103.2    uclclust-lp2.uclclust
+- HELP  128.40.138.245  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.139.245  -> 144.82.103.2    uclclust-lp2.uclclust
+--- 38,39 ----

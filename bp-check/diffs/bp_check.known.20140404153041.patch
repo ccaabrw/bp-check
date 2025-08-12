@@ -1,0 +1,17 @@
+*** /tmp/dP-aeUa	Fri Apr  4 15:30:22 2014
+--- /tmp/bp_check.auto.19071208	Fri Apr  4 15:30:22 2014
+***************
+*** 66,70 ****
+  HELP  128.40.154.78   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.155.158  -> 144.82.103.130  uclusers-slp3.uclusers
+- HELP  128.40.155.158  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.155.158  -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.156.254  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 66,67 ----
+***************
+*** 75,78 ****
+  HELP  128.40.157.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.161.126  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.161.126  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.161.190  -> 144.82.103.130  uclusers-slp3.uclusers
+--- 72,73 ----

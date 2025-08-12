@@ -1,0 +1,8 @@
+*** /tmp/dpLUaia	Fri Nov 16 15:33:26 2007
+--- /tmp/bp_check.auto.848050	Fri Nov 16 15:33:26 2007
+***************
+*** 184,185 ****
+--- 184,186 ----
+  HELP  128.40.186.94   -> 144.82.104.1    uclinst-gw1.uclinst
++ HELP  128.40.187.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.187.245  -> 144.82.104.16   uclinst-gw16.uclinst

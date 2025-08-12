@@ -1,0 +1,15 @@
+*** /tmp/dk_UjUa	Fri Mar 23 13:10:29 2007
+--- /tmp/bp_check.auto.2105558	Fri Mar 23 13:10:29 2007
+***************
+*** 79,82 ****
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  maps-ws4.maps           128.40.154.184  uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  maps-ws5.maps           128.40.154.185  uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  maps-ws7.maps           128.40.154.187  uclinst-gw19.uclinst
+--- 79,80 ----
+***************
+*** 567,568 ****
+--- 565,567 ----
+  HELP  144.82.25.245   -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  144.82.52.245   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  144.82.60.245   -> 144.82.103.130  uclusers-slp3.uclusers

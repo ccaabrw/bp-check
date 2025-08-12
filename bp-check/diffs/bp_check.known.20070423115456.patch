@@ -1,0 +1,8 @@
+*** /tmp/dhLAcqa	Mon Apr 23 11:54:38 2007
+--- /tmp/bp_check.auto.598144	Mon Apr 23 11:54:38 2007
+***************
+*** 15,16 ****
+--- 15,17 ----
+  MAC   XXXXXXXXXXXX  anat-ws34.anat          128.40.152.168  uclinst-gw15.uclinst
++ MAC   XXXXXXXXXXXX  arts-ws20.arts          128.40.29.120   uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  arts-ws48.arts          128.40.29.148   uclinst-gw23.uclinst

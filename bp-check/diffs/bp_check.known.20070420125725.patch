@@ -1,0 +1,9 @@
+*** /tmp/dXVUcya	Fri Apr 20 12:51:16 2007
+--- /tmp/bp_check.auto.1122442	Fri Apr 20 12:51:16 2007
+***************
+*** 49,50 ****
+--- 51,54 ----
+  MAC   XXXXXXXXXXXX  exam-ws9.exam           128.40.181.9    uclinst-gw20.uclinst
++ MAC   XXXXXXXXXXXX  fclt-ws1.fclt           128.40.211.77   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  garwoodlt-ws1.garwoodlt 128.40.169.26   uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  geog-ws158.geog         128.40.32.31    uclinst-gw19.uclinst

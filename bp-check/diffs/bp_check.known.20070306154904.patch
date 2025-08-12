@@ -1,0 +1,15 @@
+*** /tmp/dL6YkEa	Tue Mar  6 15:48:57 2007
+--- /tmp/bp_check.auto.1777806	Tue Mar  6 15:48:57 2007
+***************
+*** 1,4 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- MAC   0001E6A0B687  npsi.studuni            193.60.230.50   uclusers-slp2.uclusers
+- MAC   0001E6A0B687  npsm.studuni            193.60.230.55   uclusers-slp2.uclusers
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+--- 1,2 ----
+***************
+*** 114,115 ****
+--- 112,114 ----
+  MAC   XXXXXXXXXXXX  npsl.cloist             128.40.170.47   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npsm.studuni            193.60.230.55   uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npsn.med                128.40.253.165  uclusers-slp3.uclusers

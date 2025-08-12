@@ -1,0 +1,8 @@
+*** /tmp/d4Z7pia	Tue Oct 17 09:41:32 2006
+--- /tmp/bp_check.auto.397316	Tue Oct 17 09:41:32 2006
+***************
+*** 128,130 ****
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  studuni-ws81.studuni    193.60.230.226  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  ucl12-ws22.ucl12        128.40.161.22   uclinst-gw22.uclinst
+--- 128,129 ----

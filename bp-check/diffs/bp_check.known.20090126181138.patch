@@ -1,0 +1,14 @@
+*** /tmp/dJ-eoMa	Mon Jan 26 18:11:34 2009
+--- /tmp/bp_check.auto.950390	Mon Jan 26 18:11:34 2009
+***************
+*** 81,83 ****
+  HELP  128.40.157.245  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.157.245  -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.161.126  -> 144.82.103.2    uclclust-lp2.uclclust
+--- 81,82 ----
+***************
+*** 356,358 ****
+  HELP  128.40.89.46    -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.89.46    -> 144.82.104.6    uclinst-gw6.uclinst
+  HELP  128.40.89.62    -> 144.82.104.22   uclinst-gw22.uclinst
+--- 355,356 ----

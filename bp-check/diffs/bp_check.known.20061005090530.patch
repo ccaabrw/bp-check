@@ -1,0 +1,20 @@
+*** -	2006-10-05 09:04:39.415401563 +0100
+--- /tmp/bp_check.auto.20754	2006-10-05 09:04:39.000000000 +0100
+***************
+*** 3,6 ****
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+- NAME  psychiat-ws135.psychiat <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
+- NAME  psychiat-ws136.psychiat <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+--- 3,4 ----
+***************
+*** 123,126 ****
+  MAC   XXXXXXXXXXXX  psychiat-ws125.psychiat 128.40.204.45   uclinst-gw8.uclinst
+! MAC   XXXXXXXXXXXX  psychiat-ws135.psychiat <not in DNS>    uclinst-gw21.uclinst
+! MAC   XXXXXXXXXXXX  psychiat-ws136.psychiat <not in DNS>    uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  psychiat-ws38.psychiat  128.40.240.98   uclinst-gw21.uclinst
+--- 121,124 ----
+  MAC   XXXXXXXXXXXX  psychiat-ws125.psychiat 128.40.204.45   uclinst-gw8.uclinst
+! MAC   XXXXXXXXXXXX  psychiat-ws135.psychiat 128.40.240.125  uclinst-gw21.uclinst
+! MAC   XXXXXXXXXXXX  psychiat-ws136.psychiat 128.40.240.126  uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  psychiat-ws38.psychiat  128.40.240.98   uclinst-gw21.uclinst

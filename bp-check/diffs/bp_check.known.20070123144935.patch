@@ -1,0 +1,8 @@
+*** -	2007-01-23 14:49:28.106489739 +0000
+--- /tmp/bp_check.auto.1294	2007-01-23 14:49:28.000000000 +0000
+***************
+*** 120,121 ****
+--- 120,122 ----
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  sopps-ws18.sopps        128.40.176.171  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  sopps-ws8.sopps         128.40.176.158  uclinst-gw23.uclinst

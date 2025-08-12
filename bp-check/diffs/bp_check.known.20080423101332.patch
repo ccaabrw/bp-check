@@ -1,0 +1,8 @@
+*** /tmp/dMPIjMa	Wed Apr 23 10:13:28 2008
+--- /tmp/bp_check.auto.5357584	Wed Apr 23 10:13:28 2008
+***************
+*** 62,63 ****
+--- 62,64 ----
+  HELP  128.40.137.245  -> 144.82.104.1    uclinst-gw1.uclinst
++ HELP  128.40.138.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.138.245  -> 144.82.103.2    uclclust-lp2.uclclust

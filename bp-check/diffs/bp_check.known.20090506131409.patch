@@ -1,0 +1,11 @@
+*** /tmp/dsxAb7a	Wed May  6 13:13:45 2009
+--- /tmp/bp_check.auto.381132	Wed May  6 13:13:44 2009
+***************
+*** 356,358 ****
+  HELP  128.40.89.30    -> 144.82.103.1    uclclust-lp1.uclclust
+! HELP  128.40.89.30    -> 144.82.104.1    uclinst-gw1.uclinst
+  HELP  128.40.89.46    -> 144.82.103.1    uclclust-lp1.uclclust
+--- 366,368 ----
+  HELP  128.40.89.30    -> 144.82.103.1    uclclust-lp1.uclclust
+! HELP  128.40.89.30    -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.89.46    -> 144.82.103.1    uclclust-lp1.uclclust

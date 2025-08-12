@@ -1,0 +1,15 @@
+*** /tmp/djZQmqa	Fri Dec 19 13:37:54 2008
+--- /tmp/bp_check.auto.299196	Fri Dec 19 13:37:54 2008
+***************
+*** 8,10 ****
+  HELP  128.40.114.245  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.115.245  -> 144.82.103.3    uclclust-lp3.uclclust
+  HELP  128.40.116.126  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 8,9 ----
+***************
+*** 133,136 ****
+  HELP  128.40.180.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.181.245  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.181.245  -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.183.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 132,133 ----

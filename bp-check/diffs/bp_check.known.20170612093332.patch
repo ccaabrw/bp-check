@@ -1,0 +1,10 @@
+*** /tmp/d--aiaa	Mon Jun 12 09:33:26 2017
+--- /tmp/bp_check.auto.8978654	Mon Jun 12 09:33:26 2017
+***************
+*** 23,27 ****
+  HELP  128.40.139.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.140.245  -> 144.82.104.14   uclinst-gw14.uclinst
+- HELP  128.40.141.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.141.245  -> 144.82.104.12   uclinst-gw12.uclinst
+  HELP  128.40.142.30   -> 144.82.103.1    uclclust-lp1.uclclust
+--- 23,24 ----

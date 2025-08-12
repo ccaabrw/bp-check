@@ -1,0 +1,28 @@
+*** /tmp/dj5Ac7a	Thu May 17 10:00:28 2007
+--- /tmp/bp_check.auto.1892506	Thu May 17 10:00:28 2007
+***************
+*** 1 ****
+--- 1,2 ----
++ NAME  slade-ws17.slade        <not in DNS>    XXXXXXXXXXXX  uclinst-gw20.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 116,117 ****
+--- 117,119 ----
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  slade-ws17.slade        <not in DNS>    uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+***************
+*** 398,403 ****
+  HELP  128.40.247.245  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.248.245  -> 144.82.103.130  uclusers-slp3.uclusers
+- HELP  128.40.248.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.248.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.248.245  -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.250.245  -> 144.82.104.22   uclinst-gw22.uclinst
+--- 400,402 ----
+***************
+*** 510,511 ****
+--- 509,511 ----
+  HELP  128.40.89.222   -> 144.82.103.3    uclclust-lp3.uclclust
++ HELP  128.40.89.222   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.89.222   -> 144.82.104.22   uclinst-gw22.uclinst

@@ -1,0 +1,15 @@
+*** /tmp/dW4Eiaa	Fri Mar  2 12:44:26 2007
+--- /tmp/bp_check.auto.250048	Fri Mar  2 12:44:25 2007
+***************
+*** 123,125 ****
+  MAC   XXXXXXXXXXXX  reg-ws85.reg            128.40.87.242   uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  sopps-ws18.sopps        128.40.176.171  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 123,124 ----
+***************
+*** 126,129 ****
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  surg-ws12.surg          128.40.251.77   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  surg-ws13.surg          128.40.251.78   uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  surg-ws14.surg          128.40.251.79   uclinst-gw8.uclinst
+--- 125,126 ----

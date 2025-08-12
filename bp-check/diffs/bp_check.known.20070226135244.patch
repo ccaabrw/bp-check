@@ -1,0 +1,16 @@
+*** /tmp/dcW7lEa	Mon Feb 26 13:51:06 2007
+--- /tmp/bp_check.auto.655500	Mon Feb 26 13:51:06 2007
+***************
+*** 115,117 ****
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+- MAC   XXXXXXXXXXXX  nursery-ws1.nursery     128.40.211.209  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+--- 118,119 ----
+***************
+*** 127,128 ****
+--- 129,133 ----
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  surg-ws12.surg          128.40.251.77   uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  surg-ws13.surg          128.40.251.78   uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  surg-ws14.surg          128.40.251.79   uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  ucl12-ws22.ucl12        128.40.161.22   uclinst-gw22.uclinst

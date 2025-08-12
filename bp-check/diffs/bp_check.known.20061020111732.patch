@@ -1,0 +1,8 @@
+*** /tmp/dj4Ucqa	Fri Oct 20 11:17:28 2006
+--- /tmp/bp_check.auto.815120	Fri Oct 20 11:17:27 2006
+***************
+*** 60,62 ****
+  MAC   XXXXXXXXXXXX  iseisd-ws136.is-eisd    128.40.222.86   uclinst-gw20.uclinst
+- MAC   XXXXXXXXXXXX  iseisd-ws167.is-eisd    128.40.222.117  uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws20.is-eisd     128.40.223.132  uclinst-gw1.uclinst
+--- 60,61 ----

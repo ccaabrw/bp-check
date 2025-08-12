@@ -1,0 +1,8 @@
+*** /tmp/d863iia	Mon Dec  1 13:50:23 2008
+--- /tmp/bp_check.auto.4542662	Mon Dec  1 13:50:23 2008
+***************
+*** 288,289 ****
+--- 292,294 ----
+  HELP  128.40.48.222   -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  128.40.48.222   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.48.254   -> 144.82.103.128  uclusers-slp1.uclusers

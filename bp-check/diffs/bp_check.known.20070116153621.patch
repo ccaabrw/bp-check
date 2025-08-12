@@ -1,0 +1,22 @@
+*** -	2007-01-16 15:35:31.114992677 +0000
+--- /tmp/bp_check.auto.32087	2007-01-16 15:35:31.000000000 +0000
+***************
+*** 65,75 ****
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws14.laws          128.40.66.74    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws18.laws          128.40.66.87    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws22.laws          128.40.66.54    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws23.laws          128.40.66.2     uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws25.laws          128.40.66.27    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws26.laws          128.40.66.39    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws27.laws          128.40.66.32    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws35.laws          128.40.66.35    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws36.laws          128.40.66.36    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws39.laws          128.40.66.29    uclinst-gw22.uclinst
+--- 65,66 ----
+***************
+*** 113,114 ****
+--- 104,106 ----
+  MAC   XXXXXXXXXXXX  npse.exam               128.40.181.21   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npse.german             128.40.191.26   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers

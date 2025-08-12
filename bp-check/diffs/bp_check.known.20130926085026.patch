@@ -1,0 +1,29 @@
+*** /tmp/dyYIjaa	Thu Sep 26 08:50:07 2013
+--- /tmp/bp_check.auto.303230	Thu Sep 26 08:50:07 2013
+***************
+*** 1 ****
+--- 1,3 ----
++ MAC   00215A7CE7EB  npsa.ucl11              128.40.190.51   uclclust-lp2.uclclust
++ MAC   00215A7CE7EB  npsc.medadm             128.40.161.161  uclusers-slp3.uclusers
+  HELP  128.40.101.254  -> 144.82.117.120  bccusers-gw3.bccusers
+***************
+*** 92,95 ****
+  HELP  128.40.161.222  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.161.254  -> 144.82.103.2    uclclust-lp2.uclclust
+- HELP  128.40.161.254  -> 144.82.104.12   uclinst-gw12.uclinst
+  HELP  128.40.161.30   -> 144.82.103.2    uclclust-lp2.uclclust
+--- 94,95 ----
+***************
+*** 191,194 ****
+  HELP  128.40.2.245    -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.204.245  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.204.245  -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.207.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 191,192 ----
+***************
+*** 223,226 ****
+  HELP  128.40.228.245  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.23.222   -> 144.82.103.2    uclclust-lp2.uclclust
+- HELP  128.40.23.222   -> 144.82.104.14   uclinst-gw14.uclinst
+  HELP  128.40.23.254   -> 144.82.103.129  uclusers-slp2.uclusers
+--- 221,222 ----

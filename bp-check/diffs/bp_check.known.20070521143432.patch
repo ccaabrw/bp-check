@@ -1,0 +1,14 @@
+*** /tmp/du4Eoqa	Mon May 21 14:33:58 2007
+--- /tmp/bp_check.auto.655384	Mon May 21 14:33:58 2007
+***************
+*** 59,60 ****
+--- 64,66 ----
+  MAC   XXXXXXXXXXXX  iseisd-ws102.is-eisd    128.40.222.52   uclinst-gw20.uclinst
++ MAC   XXXXXXXXXXXX  iseisd-ws108.is-eisd    128.40.222.58   uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws136.is-eisd    128.40.222.86   uclinst-gw20.uclinst
+***************
+*** 121,123 ****
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  slade-ws17.slade        128.40.189.169  uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 127,128 ----

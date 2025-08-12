@@ -1,0 +1,9 @@
+*** /tmp/db-aoia	Tue Jun 14 14:39:55 2016
+--- /tmp/bp_check.auto.15204532	Tue Jun 14 14:39:55 2016
+***************
+*** 130,133 ****
+  HELP  128.40.193.222  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.193.254  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.193.254  -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.194.245  -> 144.82.103.131  uclusers-slp4.uclusers
+--- 130,131 ----

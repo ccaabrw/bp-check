@@ -1,0 +1,8 @@
+*** /tmp/dW_ueaa	Tue Oct 28 12:22:40 2008
+--- /tmp/bp_check.auto.2064506	Tue Oct 28 12:22:40 2008
+***************
+*** 282,284 ****
+  HELP  128.40.44.245   -> 144.82.103.4    uclclust-lp4.uclclust
+- HELP  128.40.44.245   -> 144.82.104.15   uclinst-gw15.uclinst
+  HELP  128.40.44.245   -> 144.82.104.8    uclinst-gw8.uclinst
+--- 282,283 ----

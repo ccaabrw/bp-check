@@ -1,0 +1,8 @@
+*** /tmp/d_Tabqa	Wed Jul 29 10:26:23 2015
+--- /tmp/bp_check.auto.8323270	Wed Jul 29 10:26:23 2015
+***************
+*** 272,274 ****
+  HELP  128.40.66.245   -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.66.245   -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.68.126   -> 144.82.103.131  uclusers-slp4.uclusers
+--- 272,273 ----

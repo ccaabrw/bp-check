@@ -1,0 +1,24 @@
+*** /tmp/dHxqeqa	Thu Oct 12 10:08:58 2006
+--- /tmp/bp_check.auto.1167552	Thu Oct 12 10:08:57 2006
+***************
+*** 126,127 ****
+--- 126,132 ----
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  studuni-tc1.studuni     128.40.37.161   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  studuni-tc2.studuni     128.40.37.162   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  studuni-tc3.studuni     128.40.37.163   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  studuni-tc5.studuni     128.40.37.165   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  studuni-tc6.studuni     128.40.37.166   uclinst-gw17.uclinst
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+***************
+*** 378,380 ****
+  HELP  128.40.222.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.222.245  -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.222.245  -> 144.82.117.43   ucl17-gw7.ucl17
+--- 383,384 ----
+***************
+*** 444,445 ****
+--- 448,450 ----
+  HELP  128.40.37.110   -> 144.82.103.131  uclusers-slp4.uclusers
++ HELP  128.40.37.174   -> 144.82.104.17   uclinst-gw17.uclinst
+  HELP  128.40.37.190   -> 144.82.103.131  uclusers-slp4.uclusers

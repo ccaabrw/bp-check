@@ -1,0 +1,7 @@
+*** /tmp/dXFafEa	Mon Oct 26 15:05:07 2015
+--- /tmp/bp_check.auto.11206868	Mon Oct 26 15:05:07 2015
+***************
+*** 219,221 ****
+  HELP  128.40.35.245   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.36.190   -> 144.82.104.22   uclinst-gw22.uclinst
+--- 219,220 ----

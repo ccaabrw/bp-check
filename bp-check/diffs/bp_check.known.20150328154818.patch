@@ -1,0 +1,13 @@
+*** /tmp/d_LapMa	Sat Mar 28 15:46:58 2015
+--- /tmp/bp_check.auto.12452006	Sat Mar 28 15:46:57 2015
+***************
+*** 1,2 ****
+- NAME  npsdmsd.lib             <not in DNS>    001F29222870  uclusers-slp1.uclusers
+  HELP  128.40.101.254  -> 144.82.117.120  bccusers-gw3.bccusers
+--- 1 ----
+***************
+*** 228,230 ****
+  HELP  128.40.36.190   -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.36.254   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.36.254   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 227,228 ----

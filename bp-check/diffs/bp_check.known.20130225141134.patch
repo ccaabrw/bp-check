@@ -1,0 +1,8 @@
+*** /tmp/dALmmqa	Mon Feb 25 14:08:31 2013
+--- /tmp/bp_check.auto.512172	Mon Feb 25 14:08:31 2013
+***************
+*** 164,165 ****
+--- 164,166 ----
+  HELP  128.40.190.222  -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.190.30   -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.190.62   -> 144.82.103.2    uclclust-lp2.uclclust

@@ -1,0 +1,8 @@
+*** /tmp/deLQnUa	Wed Jun 13 17:42:19 2007
+--- /tmp/bp_check.auto.1212458	Wed Jun 13 17:42:19 2007
+***************
+*** 73,74 ****
+--- 74,76 ----
+  MAC   XXXXXXXXXXXX  isloan-ws6.isloan       <not in DNS>    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  isloan-ws7.isloan       128.40.211.133  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst

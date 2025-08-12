@@ -1,0 +1,16 @@
+*** /tmp/d2LiiMa	Tue Sep 26 13:48:06 2006
+--- /tmp/bp_check.auto.651460	Tue Sep 26 13:48:06 2006
+***************
+*** 142,144 ****
+--- 145,149 ----
+  MAC   XXXXXXXXXXXX  ucl31-ws62.ucl31        128.40.131.212  uclinst-gw7.uclinst
++ MAC   XXXXXXXXXXXX  ucl42-ws10.ucl42        128.40.142.10   uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  ucl43-ws2.ucl43         128.40.143.152  uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  ucl45-ws6.ucl45         128.40.145.156  uclinst-gw6.uclinst
+  MAC   XXXXXXXXXXXX  ucl46-ws19.ucl46        128.40.146.169  uclinst-gw23.uclinst
+***************
+*** 209,210 ****
+--- 214,216 ----
+  HELP  128.40.141.245  -> 144.82.104.12   uclinst-gw12.uclinst
++ HELP  128.40.142.30   -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.143.245  -> 144.82.100.187  cbds-a.ucl0

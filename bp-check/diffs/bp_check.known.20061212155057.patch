@@ -1,0 +1,24 @@
+*** -	2006-12-12 15:50:38.677332300 +0000
+--- /tmp/bp_check.auto.13314	2006-12-12 15:50:38.000000000 +0000
+***************
+*** 3,4 ****
+--- 3,7 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  reg-ws97.reg            <not in DNS>    00047693B11E  uclinst-gw10.uclinst
++ MAC   00C0EE730E58  npsb.facarts            128.40.91.41    uclusers-slp3.uclusers
++ MAC   00C0EE730E58  npss.is-eisd            128.40.222.38   uclusers-slp1.uclusers
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 74,75 ****
+--- 77,79 ----
+  MAC   XXXXXXXXXXXX  geog-ws158.geog         128.40.32.31    uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  geog-ws64.geog          128.40.32.127   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  german-ws20.german      128.40.191.186  uclinst-gw22.uclinst
+***************
+*** 99,100 ****
+--- 103,107 ----
+  MAC   XXXXXXXXXXXX  lib-wsmain65.lib        128.40.212.146  uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  lib-wsstan10.lib        128.40.157.48   uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  lib-wsstan8.lib         128.40.157.46   uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  lib-wsstan9.lib         128.40.157.47   uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst

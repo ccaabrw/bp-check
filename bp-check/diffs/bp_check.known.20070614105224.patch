@@ -1,0 +1,11 @@
+*** /tmp/dm6Qmya	Thu Jun 14 10:23:11 2007
+--- /tmp/bp_check.auto.1552638	Thu Jun 14 10:23:11 2007
+***************
+*** 69,75 ****
+  MAC   XXXXXXXXXXXX  iseisd-wsmy7.is-eisd    128.40.223.141  uclinst-gw20.uclinst
+- MAC   XXXXXXXXXXXX  isloan-ws3.isloan       128.40.89.59    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  isloan-ws4.isloan       128.40.89.60    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  isloan-ws5.isloan       128.40.89.61    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  isloan-ws7.isloan       128.40.211.133  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+--- 68,69 ----

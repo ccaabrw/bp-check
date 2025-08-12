@@ -1,0 +1,9 @@
+*** /tmp/djL7gya	Tue Oct 23 09:13:22 2012
+--- /tmp/bp_check.auto.766174	Tue Oct 23 09:13:22 2012
+***************
+*** 183,184 ****
+--- 183,186 ----
+  HELP  128.40.196.245  -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.198.254  -> 144.82.103.128  uclusers-slp1.uclusers
++ HELP  128.40.198.254  -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.198.254  -> 144.82.104.5    uclinst-gw5.uclinst

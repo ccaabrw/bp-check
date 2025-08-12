@@ -1,0 +1,8 @@
+*** /tmp/dg3aiia	Fri Sep  2 10:06:50 2016
+--- /tmp/bp_check.auto.10092650	Fri Sep  2 10:06:50 2016
+***************
+*** 333,335 ****
+  HELP  193.60.243.245  -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  193.60.244.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  193.60.245.245  -> 144.82.103.128  uclusers-slp1.uclusers
+--- 333,334 ----

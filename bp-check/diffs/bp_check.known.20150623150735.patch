@@ -1,0 +1,8 @@
+*** /tmp/d_4ajUa	Tue Jun 23 15:07:25 2015
+--- /tmp/bp_check.auto.11141350	Tue Jun 23 15:07:25 2015
+***************
+*** 224,225 ****
+--- 224,226 ----
+  HELP  128.40.36.190   -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.36.254   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.36.254   -> 144.82.104.19   uclinst-gw19.uclinst

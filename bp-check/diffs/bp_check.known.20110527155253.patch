@@ -1,0 +1,8 @@
+*** /tmp/dS6Edia	Fri May 27 15:52:06 2011
+--- /tmp/bp_check.auto.1032316	Fri May 27 15:52:06 2011
+***************
+*** 310,311 ****
+--- 310,312 ----
+  HELP  128.40.57.245   -> 144.82.103.129  uclusers-slp2.uclusers
++ HELP  128.40.58.245   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.59.245   -> 144.82.104.4    uclinst-gw4.uclinst

@@ -1,0 +1,10 @@
+*** /tmp/dSZQdia	Thu Feb 18 10:12:59 2010
+--- /tmp/bp_check.auto.426096	Thu Feb 18 10:12:59 2010
+***************
+*** 81,83 ****
+--- 81,85 ----
+  HELP  128.40.155.126  -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  128.40.155.158  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.155.158  -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  128.40.155.158  -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.155.94   -> 144.82.103.130  uclusers-slp3.uclusers

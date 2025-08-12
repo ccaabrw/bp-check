@@ -1,0 +1,8 @@
+*** /tmp/da-qpaa	Wed Sep 15 15:39:10 2010
+--- /tmp/bp_check.auto.348300	Wed Sep 15 15:39:09 2010
+***************
+*** 34,35 ****
+--- 35,37 ----
+  HELP  128.40.136.245  -> 144.82.103.2    uclclust-lp2.uclclust
++ HELP  128.40.136.245  -> 144.82.104.4    uclinst-gw4.uclinst
+  HELP  128.40.137.245  -> 144.82.103.3    uclclust-lp3.uclclust

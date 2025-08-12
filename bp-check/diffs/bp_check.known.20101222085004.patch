@@ -1,0 +1,8 @@
+*** /tmp/dTZmdMa	Wed Dec 22 08:49:27 2010
+--- /tmp/bp_check.auto.385278	Wed Dec 22 08:49:27 2010
+***************
+*** 194,195 ****
+--- 194,196 ----
+  HELP  128.40.211.134  -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.211.142  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.211.198  -> 144.82.104.10   uclinst-gw10.uclinst

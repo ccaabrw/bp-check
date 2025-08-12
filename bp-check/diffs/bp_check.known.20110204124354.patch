@@ -1,0 +1,27 @@
+*** /tmp/dpZyeaa	Fri Feb  4 12:43:05 2011
+--- /tmp/bp_check.auto.901200	Fri Feb  4 12:43:05 2011
+***************
+*** 1 ****
+--- 1,2 ----
++ NAME  ishhhheisd-ws21.is-eisd <not in DNS>    0080C8D91050  uclinst-gw1.uclinst
+  HELP  128.40.108.245  -> 144.82.103.4    uclclust-lp4.uclclust
+***************
+*** 73,75 ****
+  HELP  128.40.154.78   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.155.126  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.155.158  -> 144.82.103.130  uclusers-slp3.uclusers
+--- 74,75 ----
+***************
+*** 147,148 ****
+--- 147,150 ----
+  HELP  128.40.184.30   -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.185.254  -> 144.82.103.128  uclusers-slp1.uclusers
++ HELP  128.40.185.254  -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.186.254  -> 144.82.103.131  uclusers-slp4.uclusers
+***************
+*** 296,299 ****
+  HELP  128.40.48.222   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.48.254   -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.48.254   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.48.30    -> 144.82.103.4    uclclust-lp4.uclclust
+--- 298,299 ----

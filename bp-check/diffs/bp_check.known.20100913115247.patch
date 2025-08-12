@@ -1,0 +1,8 @@
+*** /tmp/da63gia	Mon Sep 13 11:52:10 2010
+--- /tmp/bp_check.auto.798892	Mon Sep 13 11:52:10 2010
+***************
+*** 101,102 ****
+--- 105,107 ----
+  HELP  128.40.163.206  -> 144.82.104.1    uclinst-gw1.uclinst
++ HELP  128.40.163.30   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.163.30   -> 144.82.104.20   uclinst-gw20.uclinst

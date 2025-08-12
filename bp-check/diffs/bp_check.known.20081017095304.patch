@@ -1,0 +1,28 @@
+*** /tmp/d_xadUa	Fri Oct 17 09:52:36 2008
+--- /tmp/bp_check.auto.1773608	Fri Oct 17 09:52:36 2008
+***************
+*** 1,23 ****
+- MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+- MAC   FFFFFFFFFFFF  ucl19-wybook1.ucl-19.ucl.ac.uk144.82.119.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl40-wybook1.ucl-40.ucl.ac.uk128.40.140.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl41-wybook1.ucl-41.ucl.ac.uk128.40.141.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl45-wybook1.ucl-45.ucl.ac.uk128.40.145.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl46-wybook1.ucl-46.ucl.ac.uk128.40.146.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl47-wybook1.ucl-47.ucl.ac.uk144.82.147.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl6-wybook1.ucl-6.ucl.ac.uk128.40.48.26    cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl8-wybook1.ucl-8.ucl.ac.uk128.40.108.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  wybook1-test.is-eisd.ucl.ac.uk128.40.223.204  cbds-a.ucl0
+- HELP  128.40.108.245  -> 144.82.100.187  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+- MAC   FFFFFFFFFFFF  ucl19-wybook1.ucl-19.ucl.ac.uk144.82.119.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl40-wybook1.ucl-40.ucl.ac.uk128.40.140.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl41-wybook1.ucl-41.ucl.ac.uk128.40.141.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl45-wybook1.ucl-45.ucl.ac.uk128.40.145.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl46-wybook1.ucl-46.ucl.ac.uk128.40.146.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl47-wybook1.ucl-47.ucl.ac.uk144.82.147.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl6-wybook1.ucl-6.ucl.ac.uk128.40.48.26    cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl8-wybook1.ucl-8.ucl.ac.uk128.40.108.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  wybook1-test.is-eisd.ucl.ac.uk128.40.223.204  cbds-a.ucl0
+- HELP  128.40.108.245  -> 144.82.100.187  cbds-a.ucl0
+  HELP  128.40.108.245  -> 144.82.103.4    uclclust-lp4.uclclust
+--- 1 ----

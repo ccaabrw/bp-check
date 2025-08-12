@@ -1,0 +1,56 @@
+*** /tmp/d-2aoUa	Fri Sep 12 14:49:23 2014
+--- /tmp/bp_check.auto.19857432	Fri Sep 12 14:49:23 2014
+***************
+*** 11,14 ****
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.118.126  -> <not in DNS>    udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.121.254  -> 144.82.103.128  uclusers-slp1.uclusers
+--- 11,14 ----
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.118.126  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.121.254  -> 144.82.103.128  uclusers-slp1.uclusers
+***************
+*** 50,51 ****
+--- 50,52 ----
+  HELP  128.40.148.245  -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.15.254   -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.15.254   -> 144.82.104.11   uclinst-gw11.uclinst
+***************
+*** 52,54 ****
+  HELP  128.40.15.254   -> 144.82.104.7    uclinst-gw7.uclinst
+- HELP  128.40.15.254   -> <not in DNS>    udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.150.126  -> 144.82.104.4    uclinst-gw4.uclinst
+--- 53,54 ----
+***************
+*** 116,119 ****
+  HELP  128.40.184.190  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.184.238  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.184.238  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.184.246  -> 144.82.104.7    uclinst-gw7.uclinst
+--- 116,117 ----
+***************
+*** 158,159 ****
+--- 156,158 ----
+  HELP  128.40.196.245  -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.198.254  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.198.254  -> 144.82.103.128  uclusers-slp1.uclusers
+***************
+*** 161,163 ****
+  HELP  128.40.198.254  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.198.254  -> <not in DNS>    udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.2.245    -> 144.82.104.23   uclinst-gw23.uclinst
+--- 160,161 ----
+***************
+*** 187,188 ****
+--- 185,187 ----
+  HELP  128.40.218.245  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.223.254  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.223.254  -> 144.82.103.128  uclusers-slp1.uclusers
+***************
+*** 189,191 ****
+  HELP  128.40.223.254  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.223.254  -> <not in DNS>    udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.228.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 188,189 ----

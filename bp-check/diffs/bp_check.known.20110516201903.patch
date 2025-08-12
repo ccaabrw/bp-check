@@ -1,0 +1,13 @@
+*** /tmp/dT6Ibya	Mon May 16 19:16:28 2011
+--- /tmp/bp_check.auto.1237062	Mon May 16 19:16:28 2011
+***************
+*** 409,412 ****
+  HELP  193.60.234.62   -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  193.60.242.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  193.60.244.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  193.60.246.14   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 407,410 ----
+  HELP  193.60.234.62   -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  193.60.244.245  -> 144.82.103.129  uclusers-slp2.uclusers
++ HELP  193.60.245.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  193.60.246.14   -> 144.82.104.19   uclinst-gw19.uclinst

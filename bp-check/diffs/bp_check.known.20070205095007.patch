@@ -1,0 +1,14 @@
+*** /tmp/dx4YlMa	Mon Feb  5 09:43:35 2007
+--- /tmp/bp_check.auto.847982	Mon Feb  5 09:43:35 2007
+***************
+*** 31,33 ****
+  MAC   XXXXXXXXXXXX  ellt-ws1.ellt           128.40.169.33   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  english-ws37.english    128.40.34.234   uclinst-gw11.uclinst
+  MAC   XXXXXXXXXXXX  epd-ws44.epd            128.40.98.210   uclinst-gw8.uclinst
+--- 31,32 ----
+***************
+*** 70,72 ****
+  MAC   XXXXXXXXXXXX  lib-wsdms88.lib         128.40.60.238   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  lib-wsmain62.lib        128.40.212.143  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsmain63.lib        128.40.212.144  uclinst-gw5.uclinst
+--- 69,70 ----

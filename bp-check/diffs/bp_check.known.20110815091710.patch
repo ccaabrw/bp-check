@@ -1,0 +1,8 @@
+*** /tmp/drFmaqa	Mon Aug 15 09:17:01 2011
+--- /tmp/bp_check.auto.450578	Mon Aug 15 09:17:01 2011
+***************
+*** 381,382 ****
+--- 381,383 ----
+  HELP  144.82.131.245  -> 144.82.104.7    uclinst-gw7.uclinst
++ HELP  144.82.132.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  144.82.132.245  -> 144.82.104.19   uclinst-gw19.uclinst

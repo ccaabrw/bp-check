@@ -1,0 +1,9 @@
+*** /tmp/dw2MkMa	Thu Oct 20 13:56:38 2011
+--- /tmp/bp_check.auto.274440	Thu Oct 20 13:56:37 2011
+***************
+*** 284,285 ****
+--- 284,287 ----
+  HELP  128.40.44.245   -> 144.82.104.8    uclinst-gw8.uclinst
++ HELP  128.40.45.190   -> 144.82.103.1    uclclust-lp1.uclclust
++ HELP  128.40.45.190   -> 144.82.104.3    uclinst-gw3.uclinst
+  HELP  128.40.45.254   -> 144.82.103.129  uclusers-slp2.uclusers

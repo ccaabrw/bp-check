@@ -1,0 +1,15 @@
+*** /tmp/dSxqiEa	Wed Apr 18 09:25:37 2007
+--- /tmp/bp_check.auto.1667086	Wed Apr 18 09:25:37 2007
+***************
+*** 71,74 ****
+  MAC   XXXXXXXXXXXX  lib-wsdms88.lib         128.40.60.238   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  lib-wsilo7.lib          128.40.248.60   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  lib-wsilo8.lib          128.40.248.61   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsmain63.lib        128.40.212.144  uclinst-gw5.uclinst
+--- 71,72 ----
+***************
+*** 75,77 ****
+  MAC   XXXXXXXXXXXX  lib-wsmain65.lib        128.40.212.146  uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  lib-wspr1.lib           128.40.248.62   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
+--- 73,74 ----

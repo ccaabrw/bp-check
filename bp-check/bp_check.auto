@@ -1,0 +1,28 @@
+#!/bin/csh
+
+# script to be called from shell to compare output from bp_check.pl
+# with a list of known duplicates/helpers (bp_check.known)
+
+# abort if run from Solaris
+if ( `uname -s` == "SunOS" ) then
+	echo "Sorry, but bp_check does not perform well on Solaris systems - aborting."
+	exit 1
+endif
+
+# set environment
+umask 022
+unalias rm
+cd ~ccsposg/bp_check
+setenv NSORDER nis
+
+# pick a unique temp file
+set temp_file = /tmp/bp_check.auto.$$
+
+# run job to produce current data
+./bp_check.pl data > $temp_file
+
+# compare with existing and note differences (ignore comments)
+grep -v '^#' bp_check.known | diff - $temp_file
+
+# remove temp file
+rm -f $temp_file

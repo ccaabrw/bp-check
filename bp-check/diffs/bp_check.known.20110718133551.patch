@@ -1,0 +1,9 @@
+*** /tmp/d4-Il7a	Mon Jul 18 13:35:48 2011
+--- /tmp/bp_check.auto.680008	Mon Jul 18 13:35:48 2011
+***************
+*** 58,61 ****
+  HELP  128.40.152.245  -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.154.158  -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  128.40.154.158  -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.154.190  -> 144.82.103.128  uclusers-slp1.uclusers
+--- 58,59 ----

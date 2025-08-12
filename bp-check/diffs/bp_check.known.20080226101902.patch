@@ -1,0 +1,27 @@
+*** /tmp/d1-IlUa	Tue Feb 26 10:18:57 2008
+--- /tmp/bp_check.auto.880832	Tue Feb 26 10:18:57 2008
+***************
+*** 238,239 ****
+--- 238,240 ----
+  HELP  128.40.223.254  -> 144.82.103.128  uclusers-slp1.uclusers
++ HELP  128.40.223.254  -> 144.82.103.5    uclclust-lp5.uclclust
+  HELP  128.40.223.254  -> 144.82.104.1    uclinst-gw1.uclinst
+***************
+*** 310,311 ****
+--- 311,313 ----
+  HELP  128.40.37.254   -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.37.78    -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.44.245   -> 144.82.103.4    uclclust-lp4.uclclust
+***************
+*** 319,320 ****
+--- 321,323 ----
+  HELP  128.40.47.30    -> 144.82.104.5    uclinst-gw5.uclinst
++ HELP  128.40.48.158   -> 144.82.103.4    uclclust-lp4.uclclust
+  HELP  128.40.48.158   -> 144.82.104.20   uclinst-gw20.uclinst
+***************
+*** 321,322 ****
+--- 324,327 ----
+  HELP  128.40.48.190   -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  128.40.48.222   -> 144.82.103.131  uclusers-slp4.uclusers
++ HELP  128.40.48.222   -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.48.254   -> 144.82.103.128  uclusers-slp1.uclusers

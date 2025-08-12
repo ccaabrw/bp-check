@@ -1,0 +1,8 @@
+*** /tmp/doy7cMa	Tue Jun 25 09:10:40 2013
+--- /tmp/bp_check.auto.1093800	Tue Jun 25 09:10:40 2013
+***************
+*** 386,388 ****
+  HELP  128.40.91.245   -> 144.82.104.11   uclinst-gw11.uclinst
+- HELP  128.40.92.245   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.96.245   -> 144.82.103.130  uclusers-slp3.uclusers
+--- 386,387 ----

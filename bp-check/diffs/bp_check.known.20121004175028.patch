@@ -1,0 +1,8 @@
+*** /tmp/dsxmfEa	Thu Oct  4 17:50:23 2012
+--- /tmp/bp_check.auto.450694	Thu Oct  4 17:50:23 2012
+***************
+*** 169,171 ****
+  HELP  128.40.191.245  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.193.190  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.193.190  -> 144.82.104.21   uclinst-gw21.uclinst
+--- 169,170 ----

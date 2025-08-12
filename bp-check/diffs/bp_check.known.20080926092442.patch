@@ -1,0 +1,9 @@
+*** /tmp/dj2Ioia	Fri Sep 26 09:24:07 2008
+--- /tmp/bp_check.auto.1318956	Fri Sep 26 09:24:07 2008
+***************
+*** 196,197 ****
+--- 199,202 ----
+  HELP  128.40.191.245  -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.193.190  -> 144.82.103.1    uclclust-lp1.uclclust
++ HELP  128.40.193.190  -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.193.254  -> 144.82.104.7    uclinst-gw7.uclinst

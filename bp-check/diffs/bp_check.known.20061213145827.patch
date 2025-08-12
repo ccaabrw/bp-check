@@ -1,0 +1,8 @@
+*** /tmp/dwpapEa	Wed Dec 13 14:58:15 2006
+--- /tmp/bp_check.auto.393386	Wed Dec 13 14:58:15 2006
+***************
+*** 1,3 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- NAME  reg-ws97.reg            <not in DNS>    00047693B11E  uclinst-gw10.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+--- 1,2 ----

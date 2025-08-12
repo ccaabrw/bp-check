@@ -1,0 +1,33 @@
+*** /tmp/dK_7fEa	Wed Oct 18 00:25:46 2006
+--- /tmp/bp_check.auto.1077430	Wed Oct 18 00:25:46 2006
+***************
+*** 204,206 ****
+  HELP  128.40.138.245  -> 144.82.103.2    uclclust-lp2.uclclust
+- HELP  128.40.138.245  -> 144.82.104.14   uclinst-gw14.uclinst
+  HELP  128.40.138.245  -> 144.82.104.22   uclinst-gw22.uclinst
+--- 204,205 ----
+***************
+*** 313,315 ****
+  HELP  128.40.186.222  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.186.222  -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.186.254  -> 144.82.103.131  uclusers-slp4.uclusers
+--- 312,313 ----
+***************
+*** 323,325 ****
+  HELP  128.40.189.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.189.245  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.19.245   -> 144.82.103.128  uclusers-slp1.uclusers
+--- 321,322 ----
+***************
+*** 337,339 ****
+  HELP  128.40.195.245  -> 144.82.104.11   uclinst-gw11.uclinst
+- HELP  128.40.195.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.195.245  -> 144.82.104.23   uclinst-gw23.uclinst
+--- 334,335 ----
+***************
+*** 357,360 ****
+  HELP  128.40.207.245  -> 144.82.103.130  uclusers-slp3.uclusers
+- HELP  128.40.207.245  -> 144.82.104.11   uclinst-gw11.uclinst
+- HELP  128.40.207.245  -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.207.245  -> 144.82.104.22   uclinst-gw22.uclinst
+--- 353,354 ----

@@ -1,0 +1,10 @@
+*** /tmp/d_Vadaa	Fri Oct  7 14:34:56 2016
+--- /tmp/bp_check.auto.6750458	Fri Oct  7 14:34:56 2016
+***************
+*** 157,161 ****
+  HELP  128.40.212.245  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.214.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.214.245  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.214.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.218.245  -> 144.82.104.22   uclinst-gw22.uclinst
+--- 157,159 ----

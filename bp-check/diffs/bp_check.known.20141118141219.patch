@@ -1,0 +1,8 @@
+*** /tmp/dlZafaa	Tue Nov 18 14:12:14 2014
+--- /tmp/bp_check.auto.12386330	Tue Nov 18 14:12:13 2014
+***************
+*** 144,146 ****
+  HELP  128.40.195.245  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.195.245  -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.195.245  -> 144.82.104.11   uclinst-gw11.uclinst
+--- 144,145 ----

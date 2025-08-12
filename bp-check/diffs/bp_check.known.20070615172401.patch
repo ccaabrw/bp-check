@@ -1,0 +1,38 @@
+*** /tmp/dP-ylMa	Fri Jun 15 17:17:43 2007
+--- /tmp/bp_check.auto.1331302	Fri Jun 15 17:17:43 2007
+***************
+*** 1,2 ****
+- NAME  isloan-ws6.isloan       <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+--- 1 ----
+***************
+*** 19,21 ****
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
+- MAC   XXXXXXXXXXXX  ccrm-ws2.ccrm           128.40.37.189   uclinst-gw16.uclinst
+  MAC   XXXXXXXXXXXX  cetl1.cetl              128.40.111.65   uclinst-gw17.uclinst
+--- 18,19 ----
+***************
+*** 69,71 ****
+  MAC   XXXXXXXXXXXX  iseisd-wsmy7.is-eisd    128.40.223.141  uclinst-gw20.uclinst
+- MAC   XXXXXXXXXXXX  isloan-ws6.isloan       <not in DNS>    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+--- 67,68 ----
+***************
+*** 73,74 ****
+--- 70,78 ----
+  MAC   XXXXXXXXXXXX  laws-ws39.laws          128.40.66.29    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws46.laws          128.40.66.79    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws47.laws          128.40.66.80    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws48.laws          128.40.66.207   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws49.laws          128.40.66.208   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws50.laws          128.40.66.209   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws51.laws          128.40.66.84    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws52.laws          128.40.66.211   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+***************
+*** 136,139 ****
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  studuni-ws82.studuni    193.60.230.236  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  studuni-ws83.studuni    193.60.230.237  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  ucl12-ws22.ucl12        128.40.161.22   uclinst-gw22.uclinst
+--- 140,141 ----

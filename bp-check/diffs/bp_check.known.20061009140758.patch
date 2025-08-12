@@ -1,0 +1,26 @@
+*** /tmp/dyIAf7a	Mon Oct  9 14:07:48 2006
+--- /tmp/bp_check.auto.1327132	Mon Oct  9 14:07:48 2006
+***************
+*** 20,22 ****
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
+- MAC   XXXXXXXXXXXX  bwlt-ws1.bwlt           128.40.163.201  uclinst-gw1.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws27.cloist      128.40.170.202  uclinst-gw10.uclinst
+--- 20,21 ----
+***************
+*** 68,70 ****
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws27.laws          128.40.66.40    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+--- 67,68 ----
+***************
+*** 126,127 ****
+--- 124,126 ----
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  slade-ws16.slade        128.40.189.167  uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+***************
+*** 147,149 ****
+  MAC   XXXXXXXXXXXX  ucl40-ws1.ucl40         128.40.140.151  uclinst-gw14.uclinst
+- MAC   XXXXXXXXXXXX  ucl40-ws5.ucl40         128.40.140.155  uclinst-gw14.uclinst
+  MAC   XXXXXXXXXXXX  ucl40-ws6.ucl40         128.40.140.156  uclinst-gw14.uclinst
+--- 146,147 ----

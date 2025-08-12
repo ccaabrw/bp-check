@@ -1,0 +1,8 @@
+*** /tmp/dCxIbMa	Thu Sep 10 10:23:22 2009
+--- /tmp/bp_check.auto.417984	Thu Sep 10 10:23:22 2009
+***************
+*** 367,369 ****
+  HELP  128.40.92.245   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.92.245   -> 144.82.104.6    uclinst-gw6.uclinst
+  HELP  128.40.96.245   -> 144.82.103.130  uclusers-slp3.uclusers
+--- 369,370 ----

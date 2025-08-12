@@ -1,0 +1,8 @@
+*** /tmp/dd_amqa	Thu Apr 24 12:05:48 2014
+--- /tmp/bp_check.auto.16253132	Thu Apr 24 12:05:48 2014
+***************
+*** 317,319 ****
+  HELP  128.40.83.245   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.84.126   -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.84.142   -> 144.82.104.10   uclinst-gw10.uclinst
+--- 317,318 ----

@@ -1,0 +1,8 @@
+*** /tmp/dt-ufia	Wed Oct 10 14:06:18 2012
+--- /tmp/bp_check.auto.634904	Wed Oct 10 14:06:18 2012
+***************
+*** 267,268 ****
+--- 276,278 ----
+  HELP  128.40.34.245   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.35.245   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.37.126   -> 144.82.104.7    uclinst-gw7.uclinst

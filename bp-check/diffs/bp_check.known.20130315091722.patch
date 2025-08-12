@@ -1,0 +1,18 @@
+*** /tmp/dm6mdUa	Fri Mar 15 09:16:10 2013
+--- /tmp/bp_check.auto.532618	Fri Mar 15 09:16:10 2013
+***************
+*** 332,333 ****
+--- 332,335 ----
+  HELP  128.40.63.245   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.65.126   -> 10.60.64.61     uddhcp01t.adtest.bcc.ac.uk
++ HELP  128.40.65.126   -> 10.60.65.61     uddhcp02t.adtest.bcc.ac.uk
+  HELP  128.40.65.126   -> 144.82.104.23   uclinst-gw23.uclinst
+***************
+*** 391,392 ****
+--- 393,398 ----
+  HELP  128.41.4.254    -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.41.7.254    -> 10.60.64.61     uddhcp01t.adtest.bcc.ac.uk
++ HELP  128.41.7.254    -> 10.60.65.61     uddhcp02t.adtest.bcc.ac.uk
++ HELP  128.41.8.254    -> 10.60.64.61     uddhcp01t.adtest.bcc.ac.uk
++ HELP  128.41.8.254    -> 10.60.65.61     uddhcp02t.adtest.bcc.ac.uk
+  HELP  144.82.117.126  -> 144.82.104.20   uclinst-gw20.uclinst

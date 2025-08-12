@@ -1,0 +1,10 @@
+*** /tmp/dZp7mya	Fri Jul  1 16:54:46 2011
+--- /tmp/bp_check.auto.880796	Fri Jul  1 16:54:46 2011
+***************
+*** 65,69 ****
+  HELP  128.40.154.206  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.154.62   -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.154.62   -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.154.62   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.154.78   -> 144.82.104.1    uclinst-gw1.uclinst
+--- 65,66 ----

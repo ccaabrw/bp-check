@@ -1,0 +1,8 @@
+*** /tmp/dALMbqa	Fri Oct  9 13:05:36 2009
+--- /tmp/bp_check.auto.565424	Fri Oct  9 13:05:36 2009
+***************
+*** 125,126 ****
+--- 125,127 ----
+  HELP  128.40.174.245  -> 144.82.104.17   uclinst-gw17.uclinst
++ HELP  128.40.175.245  -> 144.82.104.15   uclinst-gw15.uclinst
+  HELP  128.40.176.245  -> 144.82.103.131  uclusers-slp4.uclusers

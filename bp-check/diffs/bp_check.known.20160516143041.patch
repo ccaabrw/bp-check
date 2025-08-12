@@ -1,0 +1,8 @@
+*** /tmp/d-Oapqa	Mon May 16 14:30:29 2016
+--- /tmp/bp_check.auto.11796690	Mon May 16 14:30:29 2016
+***************
+*** 271,273 ****
+  HELP  128.40.68.94    -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.74.245   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.74.245   -> 144.82.104.5    uclinst-gw5.uclinst
+--- 271,272 ----

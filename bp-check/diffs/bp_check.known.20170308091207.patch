@@ -1,0 +1,8 @@
+*** /tmp/d-haiMa	Wed Mar  8 09:12:03 2017
+--- /tmp/bp_check.auto.7733352	Wed Mar  8 09:12:02 2017
+***************
+*** 10,12 ****
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.121.254  -> 144.82.103.128  uclusers-slp1.uclusers
+--- 10,11 ----

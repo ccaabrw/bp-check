@@ -1,0 +1,9 @@
+*** /tmp/dYyAeEa	Thu Feb  6 13:47:28 2014
+--- /tmp/bp_check.auto.1519870	Thu Feb  6 13:47:28 2014
+***************
+*** 9,12 ****
+  HELP  128.40.114.245  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.115.62   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.115.62   -> 144.82.104.3    uclinst-gw3.uclinst
+  HELP  128.40.116.126  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 9,10 ----

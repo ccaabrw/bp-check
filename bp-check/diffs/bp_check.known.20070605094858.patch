@@ -1,0 +1,8 @@
+*** /tmp/d1Xilya	Tue Jun  5 09:48:09 2007
+--- /tmp/bp_check.auto.774178	Tue Jun  5 09:48:09 2007
+***************
+*** 84,86 ****
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  mhs-ws4.mhs             128.40.240.63   uclinst-gw8.uclinst
+--- 84,85 ----

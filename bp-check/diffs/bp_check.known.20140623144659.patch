@@ -1,0 +1,33 @@
+*** /tmp/d-Zahaa	Mon Jun 23 14:43:28 2014
+--- /tmp/bp_check.auto.8126558	Mon Jun 23 14:43:28 2014
+***************
+*** 54,56 ****
+  HELP  128.40.148.245  -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.15.254   -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.15.254   -> 144.82.104.11   uclinst-gw11.uclinst
+--- 55,56 ----
+***************
+*** 145,147 ****
+  HELP  128.40.190.30   -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.190.62   -> 144.82.104.15   uclinst-gw15.uclinst
+  HELP  128.40.190.94   -> 144.82.103.1    uclclust-lp1.uclclust
+--- 146,147 ----
+***************
+*** 167,169 ****
+  HELP  128.40.196.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.198.254  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.198.254  -> 144.82.103.128  uclusers-slp1.uclusers
+--- 167,168 ----
+***************
+*** 196,198 ****
+  HELP  128.40.218.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.223.254  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.223.254  -> 144.82.103.128  uclusers-slp1.uclusers
+--- 196,197 ----
+***************
+*** 260,263 ****
+  HELP  128.40.44.245   -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.45.190   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.45.190   -> 144.82.104.3    uclinst-gw3.uclinst
+  HELP  128.40.45.222   -> 144.82.104.3    uclinst-gw3.uclinst
+--- 260,261 ----

@@ -1,0 +1,8 @@
+*** /tmp/dZSMhqa	Tue Jan 30 15:58:59 2007
+--- /tmp/bp_check.auto.1126414	Tue Jan 30 15:58:59 2007
+***************
+*** 120,122 ****
+  MAC   XXXXXXXXXXXX  sopps-ws18.sopps        128.40.176.171  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  sopps-ws8.sopps         128.40.176.158  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 120,121 ----

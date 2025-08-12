@@ -1,0 +1,9 @@
+*** /tmp/dZuYc7a	Mon Feb  2 14:39:38 2009
+--- /tmp/bp_check.auto.393428	Mon Feb  2 14:39:38 2009
+***************
+*** 277,278 ****
+--- 277,280 ----
+  HELP  128.40.47.230   -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.47.246   -> 144.82.103.4    uclclust-lp4.uclclust
++ HELP  128.40.47.246   -> 144.82.104.4    uclinst-gw4.uclinst
+  HELP  128.40.47.30    -> 144.82.103.3    uclclust-lp3.uclclust

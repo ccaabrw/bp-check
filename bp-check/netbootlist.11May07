@@ -1,0 +1,20 @@
+#!/bin/sh
+
+# netbootlist				24Nov05 Bri
+#
+# Parses output of 'bp_check.pl served' to create list of all servers
+# that each netboot image should be available from. This is stored
+# centrally and is then copied by each server.
+
+echo \# Netboot images/servers list
+echo \# `date`
+echo \#
+
+/home/ccsposg/bp_check/bp_check.pl served \
+| awk '{print $2,$1}' \
+| awk -F/ '{print $2}' \
+| grep -E 'uclinst$|uclusers$|uclclust$' \
+| sed -e 's/uclinst$/uclinst.ucl.ac.uk/' \
+| sed -e 's/uclusers$/uclusers.ucl.ac.uk/' \
+| sed -e 's/uclclust$/uclclust.ucl.ac.uk/'
+

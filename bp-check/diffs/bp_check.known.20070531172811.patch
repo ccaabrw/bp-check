@@ -1,0 +1,18 @@
+*** /tmp/dnWajaa	Thu May 31 17:28:05 2007
+--- /tmp/bp_check.auto.1065198	Thu May 31 17:28:05 2007
+***************
+*** 1 ****
+--- 1,4 ----
++ NAME  histart-ws35.histart    <not in DNS>    XXXXXXXXXXXX  uclinst-gw23.uclinst
++ HOST  histart-ws5.histart     128.40.187.5    XXXXXXXXXXXX  uclinst-gw23.uclinst
++ HOST  histart-ws5.histart     128.40.187.5    XXXXXXXXXXXX  uclinst-gw23.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 58,60 ****
+--- 61,66 ----
+  MAC   XXXXXXXXXXXX  histart-ws34.histart    128.40.187.34   uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  histart-ws35.histart    <not in DNS>    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  histart-ws5.histart     128.40.187.5    uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  histart-ws5.histart     128.40.187.5    uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  histart-ws9.histart     128.40.187.9    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws102.is-eisd    128.40.222.52   uclinst-gw20.uclinst

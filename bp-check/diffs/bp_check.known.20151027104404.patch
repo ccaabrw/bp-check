@@ -1,0 +1,8 @@
+*** /tmp/d-tadya	Tue Oct 27 10:43:05 2015
+--- /tmp/bp_check.auto.14024842	Tue Oct 27 10:43:05 2015
+***************
+*** 219,221 ****
+  HELP  128.40.35.245   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.36.190   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.36.254   -> 144.82.103.128  uclusers-slp1.uclusers
+--- 219,220 ----

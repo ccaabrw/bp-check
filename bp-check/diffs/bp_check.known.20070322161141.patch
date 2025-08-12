@@ -1,0 +1,11 @@
+*** /tmp/d8zaoaa	Thu Mar 22 16:10:32 2007
+--- /tmp/bp_check.auto.761866	Thu Mar 22 16:10:32 2007
+***************
+*** 127,132 ****
+  MAC   XXXXXXXXXXXX  psychiat-ws125.psychiat 128.40.204.45   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws119.reg           128.40.87.115   uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws120.reg           128.40.87.116   uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws121.reg           128.40.87.117   uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws122.reg           128.40.87.118   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+--- 128,129 ----

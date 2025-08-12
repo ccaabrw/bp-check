@@ -1,0 +1,30 @@
+*** /tmp/dR-ykya	Fri Dec  8 13:16:51 2006
+--- /tmp/bp_check.auto.471228	Fri Dec  8 13:16:51 2006
+***************
+*** 21,22 ****
+--- 25,49 ----
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws1.cetl           128.40.111.71   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws10.cetl          128.40.111.80   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws11.cetl          128.40.111.81   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws12.cetl          128.40.111.82   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws13.cetl          128.40.111.83   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws14.cetl          128.40.111.84   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws15.cetl          128.40.111.85   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws16.cetl          128.40.111.86   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws17.cetl          128.40.111.87   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws18.cetl          128.40.111.88   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws19.cetl          128.40.111.89   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws2.cetl           128.40.111.72   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws20.cetl          128.40.111.90   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws23.cetl          128.40.111.93   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws26.cetl          128.40.111.96   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws29.cetl          128.40.111.99   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws3.cetl           128.40.111.73   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws4.cetl           128.40.111.74   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws5.cetl           128.40.111.75   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws6.cetl           128.40.111.76   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws7.cetl           128.40.111.77   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws8.cetl           128.40.111.78   uclinst-gw17.uclinst
++ MAC   XXXXXXXXXXXX  cetl-ws9.cetl           128.40.111.79   uclinst-gw17.uclinst
+  MAC   XXXXXXXXXXXX  cetl1.cetl              128.40.111.65   uclinst-gw17.uclinst

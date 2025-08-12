@@ -1,0 +1,9 @@
+*** /tmp/dg_3eaa	Thu Feb 21 09:10:55 2013
+--- /tmp/bp_check.auto.958602	Thu Feb 21 09:10:54 2013
+***************
+*** 7,8 ****
+--- 15,18 ----
+  HELP  128.40.114.245  -> 144.82.104.4    uclinst-gw4.uclinst
++ HELP  128.40.115.62   -> 144.82.103.1    uclclust-lp1.uclclust
++ HELP  128.40.115.62   -> 144.82.104.3    uclinst-gw3.uclinst
+  HELP  128.40.116.126  -> 144.82.103.1    uclclust-lp1.uclclust

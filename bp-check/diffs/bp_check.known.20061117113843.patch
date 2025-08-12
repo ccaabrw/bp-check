@@ -1,0 +1,11 @@
+*** /tmp/ddSUnUa	Fri Nov 17 11:37:28 2006
+--- /tmp/bp_check.auto.532620	Fri Nov 17 11:37:28 2006
+***************
+*** 522,524 ****
+  HELP  128.40.89.46    -> 144.82.104.6    uclinst-gw6.uclinst
+! HELP  128.40.89.62    -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.89.78    -> 144.82.104.4    uclinst-gw4.uclinst
+--- 522,524 ----
+  HELP  128.40.89.46    -> 144.82.104.6    uclinst-gw6.uclinst
+! HELP  128.40.89.62    -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.89.78    -> 144.82.104.4    uclinst-gw4.uclinst

@@ -1,0 +1,11 @@
+*** /tmp/dQp3l7a	Fri May 25 10:19:59 2007
+--- /tmp/bp_check.auto.1605698	Fri May 25 10:19:59 2007
+***************
+*** 57,59 ****
+  MAC   XXXXXXXXXXXX  histart-ws32.histart    128.40.187.32   uclinst-gw16.uclinst
+! MAC   XXXXXXXXXXXX  histart-ws34.histart    <not in DNS>    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  histart-ws5.histart     128.40.187.5    uclinst-gw23.uclinst
+--- 59,61 ----
+  MAC   XXXXXXXXXXXX  histart-ws32.histart    128.40.187.32   uclinst-gw16.uclinst
+! MAC   XXXXXXXXXXXX  histart-ws34.histart    128.40.187.34   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  histart-ws5.histart     128.40.187.5    uclinst-gw23.uclinst

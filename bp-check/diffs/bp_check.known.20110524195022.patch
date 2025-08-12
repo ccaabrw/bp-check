@@ -1,0 +1,20 @@
+*** /tmp/dfzMfMa	Tue May 24 18:56:51 2011
+--- /tmp/bp_check.auto.1101900	Tue May 24 18:56:51 2011
+***************
+*** 397,400 ****
+  HELP  144.82.64.30    -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  193.60.234.158  -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  193.60.234.158  -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  193.60.229.245  -> 144.82.103.130  uclusers-slp3.uclusers
+--- 397,398 ----
+***************
+*** 407,408 ****
+--- 405,408 ----
+  HELP  193.60.233.245  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  193.60.234.158  -> 144.82.103.129  uclusers-slp2.uclusers
++ HELP  193.60.234.158  -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  193.60.234.62   -> 144.82.103.131  uclusers-slp4.uclusers
+***************
+*** 420 ****
+--- 420,421 ----
+  HELP  195.195.96.254  -> 144.82.103.2    uclclust-lp2.uclclust

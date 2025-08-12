@@ -1,0 +1,9 @@
+*** /tmp/dQZEkMa	Mon Dec 22 17:45:22 2008
+--- /tmp/bp_check.auto.4644912	Mon Dec 22 17:45:22 2008
+***************
+*** 272,273 ****
+--- 273,276 ----
+  HELP  128.40.37.254   -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.37.30    -> 144.82.103.2    uclclust-lp2.uclclust
++ HELP  128.40.37.30    -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.37.78    -> 144.82.104.16   uclinst-gw16.uclinst

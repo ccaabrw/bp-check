@@ -1,0 +1,50 @@
+*** /tmp/dZpypEa	Fri Nov 10 16:27:21 2006
+--- /tmp/bp_check.auto.778494	Fri Nov 10 16:27:21 2006
+***************
+*** 95,97 ****
+  MAC   XXXXXXXXXXXX  npsa.med                128.40.253.220  uclusers-slp3.uclusers
+- MAC   XXXXXXXXXXXX  npsa.ucl20              128.40.161.251  uclclust-lp2.uclclust
+  MAC   XXXXXXXXXXXX  npsa.ucl47              144.82.147.20   uclclust-lp1.uclclust
+--- 95,96 ----
+***************
+*** 141,163 ****
+  MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws1.ucl20         128.40.161.225  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws10.ucl20        128.40.161.234  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws11.ucl20        128.40.161.235  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws12.ucl20        128.40.161.236  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws13.ucl20        128.40.161.237  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws14.ucl20        128.40.161.238  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws15.ucl20        128.40.161.239  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws16.ucl20        128.40.161.240  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws17.ucl20        128.40.161.241  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws18.ucl20        128.40.161.242  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws19.ucl20        128.40.161.243  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws2.ucl20         128.40.161.226  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws20.ucl20        128.40.161.244  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws3.ucl20         128.40.161.227  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws4.ucl20         128.40.161.228  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws5.ucl20         128.40.161.229  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws6.ucl20         128.40.161.230  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws7.ucl20         128.40.161.231  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.161.232  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws9.ucl20         128.40.161.233  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-wspr1.ucl20       128.40.161.250  uclinst-gw12.uclinst
+  MAC   XXXXXXXXXXXX  ucl28-ws125.ucl28       128.40.128.205  uclinst-gw23.uclinst
+--- 140,141 ----
+***************
+*** 276,277 ****
+--- 254,258 ----
+  HELP  128.40.161.126  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.161.190  -> 144.82.103.130  uclusers-slp3.uclusers
++ HELP  128.40.161.190  -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.161.190  -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.161.222  -> 144.82.103.130  uclusers-slp3.uclusers
+***************
+*** 420,424 ****
+  HELP  128.40.240.245  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.243.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.243.245  -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.243.245  -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.244.245  -> 144.82.104.23   uclinst-gw23.uclinst
+--- 401,403 ----

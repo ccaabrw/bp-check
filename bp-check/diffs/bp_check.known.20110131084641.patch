@@ -1,0 +1,8 @@
+*** /tmp/d-pugaa	Mon Jan 31 08:46:36 2011
+--- /tmp/bp_check.auto.909510	Mon Jan 31 08:46:35 2011
+***************
+*** 276,278 ****
+  HELP  128.40.37.254   -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.37.254   -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.37.30    -> 144.82.103.2    uclclust-lp2.uclclust
+--- 276,277 ----

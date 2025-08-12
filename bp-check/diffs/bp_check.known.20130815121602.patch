@@ -1,0 +1,14 @@
+*** /tmp/dwvmdia	Thu Aug 15 12:15:57 2013
+--- /tmp/bp_check.auto.516124	Thu Aug 15 12:15:57 2013
+***************
+*** 23,24 ****
+--- 23,25 ----
+  HELP  128.40.127.245  -> 144.82.104.15   uclinst-gw15.uclinst
++ HELP  128.40.128.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.128.245  -> 144.82.103.3    uclclust-lp3.uclclust
+***************
+*** 369,370 ****
+--- 370,372 ----
+  HELP  128.40.89.238   -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.89.30    -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.89.30    -> 144.82.104.20   uclinst-gw20.uclinst

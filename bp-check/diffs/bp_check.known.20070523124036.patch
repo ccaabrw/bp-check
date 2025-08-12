@@ -1,0 +1,8 @@
+*** /tmp/dB-qhya	Wed May 23 12:39:38 2007
+--- /tmp/bp_check.auto.921740	Wed May 23 12:39:38 2007
+***************
+*** 71,72 ****
+--- 72,74 ----
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  jdi-ws9.jdi             128.40.48.242   uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws39.laws          128.40.66.29    uclinst-gw22.uclinst

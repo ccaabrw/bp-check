@@ -1,0 +1,8 @@
+*** /tmp/d--alia	Thu Sep 22 09:44:25 2016
+--- /tmp/bp_check.auto.18088010	Thu Sep 22 09:44:25 2016
+***************
+*** 271,273 ****
+  HELP  128.40.85.245   -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.86.245   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.87.245   -> 144.82.103.129  uclusers-slp2.uclusers
+--- 271,272 ----

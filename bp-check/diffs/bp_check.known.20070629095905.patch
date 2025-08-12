@@ -1,0 +1,11 @@
+*** /tmp/du6egqa	Fri Jun 29 09:58:50 2007
+--- /tmp/bp_check.auto.806922	Fri Jun 29 09:58:50 2007
+***************
+*** 87,88 ****
+--- 87,92 ----
+  MAC   XXXXXXXXXXXX  mhs-ws4.mhs             128.40.240.63   uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  mhs-ws43.mhs            128.40.240.136  uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  mhs-ws44.mhs            128.40.240.137  uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  mhs-ws45.mhs            128.40.240.138  uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  mhs-ws46.mhs            128.40.240.139  uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  npsa.ccrm               128.40.37.186   uclusers-slp4.uclusers

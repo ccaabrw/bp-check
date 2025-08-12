@@ -1,0 +1,25 @@
+*** -	2006-10-04 11:55:18.328347485 +0100
+--- /tmp/bp_check.auto.28745	2006-10-04 11:55:18.000000000 +0100
+***************
+*** 1,8 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- NAME  psychiat-ws135.psychiat <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
+- NAME  psychiat-ws136.psychiat <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
+- HOST  laws-ws14.laws          128.40.66.46    000475DD0163  uclinst-gw15.uclinst
+- HOST  laws-ws14.laws          128.40.66.46    XXXXXXXXXXXX  uclinst-gw22.uclinst
+  NAME  crucilib-ws18.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+--- 1,6 ----
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+  NAME  crucilib-ws18.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  psychiat-ws135.psychiat <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  psychiat-ws136.psychiat <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 71,73 ****
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws14.laws          128.40.66.46    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+--- 69,70 ----

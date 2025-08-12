@@ -1,0 +1,8 @@
+*** /tmp/dTwQjya	Fri Jun  8 11:23:55 2007
+--- /tmp/bp_check.auto.1605834	Fri Jun  8 11:23:55 2007
+***************
+*** 345,347 ****
+  HELP  128.40.204.245  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.204.245  -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.204.245  -> 144.82.104.8    uclinst-gw8.uclinst
+--- 344,345 ----

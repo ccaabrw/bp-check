@@ -1,0 +1,9 @@
+*** /tmp/dYXeeya	Tue Jun  7 10:50:22 2011
+--- /tmp/bp_check.auto.1003648	Tue Jun  7 10:50:22 2011
+***************
+*** 410,411 ****
+--- 410,413 ----
+  HELP  193.60.234.62   -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  193.60.242.245  -> 144.82.103.129  uclusers-slp2.uclusers
++ HELP  193.60.243.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  193.60.244.245  -> 144.82.103.129  uclusers-slp2.uclusers

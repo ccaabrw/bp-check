@@ -1,0 +1,116 @@
+*** /tmp/d66moUa	Tue Sep 19 11:00:42 2006
+--- /tmp/bp_check.auto.393414	Tue Sep 19 11:00:42 2006
+***************
+*** 18,20 ****
+  MAC   XXXXXXXXXXXX  anat-ws34.anat          128.40.152.168  uclinst-gw15.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc20.anthr       128.40.63.169   uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  arts-ws48.arts          128.40.29.148   uclinst-gw23.uclinst
+--- 28,29 ----
+***************
+*** 22,24 ****
+  MAC   XXXXXXXXXXXX  ccrm-ws2.ccrm           128.40.37.189   uclinst-gw16.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws1.cloist       128.40.170.176  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws10.cloist      128.40.170.185  uclinst-gw10.uclinst
+--- 31,32 ----
+***************
+*** 33,35 ****
+  MAC   XXXXXXXXXXXX  cloist-ws19.cloist      128.40.170.194  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws2.cloist       128.40.170.177  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws20.cloist      128.40.170.195  uclinst-gw10.uclinst
+--- 41,42 ----
+***************
+*** 44,52 ****
+  MAC   XXXXXXXXXXXX  cloist-ws29.cloist      128.40.170.204  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws3.cloist       128.40.170.178  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws30.cloist      128.40.170.205  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws4.cloist       128.40.170.179  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws5.cloist       128.40.170.180  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws6.cloist       128.40.170.181  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws7.cloist       128.40.170.182  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws8.cloist       128.40.170.183  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws9.cloist       128.40.170.184  uclinst-gw10.uclinst
+--- 51,53 ----
+***************
+*** 95,96 ****
+--- 96,98 ----
+  MAC   XXXXXXXXXXXX  iseisd-ws167.is-eisd    128.40.222.117  uclinst-gw20.uclinst
++ MAC   XXXXXXXXXXXX  iseisd-ws20.is-eisd     128.40.223.132  uclinst-gw1.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws200.is-eisd    128.40.222.150  uclinst-gw20.uclinst
+***************
+*** 98,99 ****
+--- 100,102 ----
+  MAC   XXXXXXXXXXXX  iseisd-wstest1.is-eisd  128.40.222.11   uclinst-gw20.uclinst
++ MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+***************
+*** 115,117 ****
+  MAC   XXXXXXXXXXXX  medadm-ws43.medadm      193.60.248.194  uclinst-gw10.uclinst
+! MAC   XXXXXXXXXXXX  npsa.cloist             128.40.170.36   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsa.exam               128.40.181.12   uclusers-slp4.uclusers
+--- 118,120 ----
+  MAC   XXXXXXXXXXXX  medadm-ws43.medadm      193.60.248.194  uclinst-gw10.uclinst
+! MAC   XXXXXXXXXXXX  npsa.eisd               128.40.163.50   uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npsa.exam               128.40.181.12   uclusers-slp4.uclusers
+***************
+*** 120,121 ****
+--- 123,125 ----
+  MAC   XXXXXXXXXXXX  npsa.med                128.40.253.220  uclusers-slp3.uclusers
++ MAC   XXXXXXXXXXXX  npsa.ucl47              144.82.147.20   uclclust-lp1.uclclust
+  MAC   XXXXXXXXXXXX  npsae.is-eisd           128.40.223.24   uclusers-slp1.uclusers
+***************
+*** 122,124 ****
+  MAC   XXXXXXXXXXXX  npsaj.is-eisd           128.40.223.28   uclusers-slp1.uclusers
+- MAC   XXXXXXXXXXXX  npsb.cloist             128.40.170.37   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsb.english            128.40.34.178   uclusers-slp2.uclusers
+--- 126,127 ----
+***************
+*** 129,131 ****
+  MAC   XXXXXXXXXXXX  npsc.arts               128.40.29.22    uclclust-lp2.uclclust
+- MAC   XXXXXXXXXXXX  npsc.cloist             128.40.170.38   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsc.exam               128.40.181.15   uclusers-slp4.uclusers
+--- 132,133 ----
+***************
+*** 136,138 ****
+  MAC   XXXXXXXXXXXX  npsc.vpoff              128.40.83.121   uclusers-slp2.uclusers
+- MAC   XXXXXXXXXXXX  npsd.cloist             128.40.170.39   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsd.exam               128.40.181.20   uclusers-slp4.uclusers
+--- 138,139 ----
+***************
+*** 139,141 ****
+  MAC   XXXXXXXXXXXX  npsd.vpoff              128.40.207.31   uclusers-slp2.uclusers
+- MAC   XXXXXXXXXXXX  npse.cloist             128.40.170.40   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npse.exam               128.40.181.21   uclusers-slp4.uclusers
+--- 140,141 ----
+***************
+*** 142,148 ****
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers
+- MAC   XXXXXXXXXXXX  npsf.cloist             128.40.170.41   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsf.prov               128.40.83.27    uclusers-slp2.uclusers
+- MAC   XXXXXXXXXXXX  npsg.cloist             128.40.170.42   uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsh.cloist             128.40.170.43   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsn.med                128.40.253.165  uclusers-slp3.uclusers
+--- 142,149 ----
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npsf.prov               128.40.83.27    uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
++ MAC   XXXXXXXXXXXX  npsi.cloist             128.40.170.44   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npsk.cloist             128.40.170.46   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npsl.cloist             128.40.170.47   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsn.med                128.40.253.165  uclusers-slp3.uclusers
+***************
+*** 149,150 ****
+--- 150,152 ----
+  MAC   XXXXXXXXXXXX  npsn.sopps              128.40.176.33   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npss.is-eisd            128.40.222.38   uclusers-slp1.uclusers
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+***************
+*** 174,175 ****
+--- 176,181 ----
+  MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.156.78   uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  ucl22-ws1.ucl22         144.82.122.151  uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  ucl22-ws19.ucl22        128.40.122.169  uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  ucl22-ws20.ucl22        128.40.122.170  uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  ucl22-ws21.ucl22        128.40.122.171  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst

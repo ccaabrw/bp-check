@@ -1,0 +1,8 @@
+*** /tmp/d-Hak7a	Thu Aug 25 10:57:06 2016
+--- /tmp/bp_check.auto.6029354	Thu Aug 25 10:57:06 2016
+***************
+*** 118,120 ****
+  HELP  128.40.190.222  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.190.30   -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.191.245  -> 144.82.103.131  uclusers-slp4.uclusers
+--- 118,119 ----

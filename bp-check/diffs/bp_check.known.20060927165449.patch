@@ -1,0 +1,50 @@
+*** -	2006-09-27 16:53:51.035527000 +0100
+--- /tmp/bp_check.auto.23133	2006-09-27 16:53:50.000000000 +0100
+***************
+*** 20,22 ****
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
+- MAC   XXXXXXXXXXXX  ccrm-ws2.ccrm           128.40.37.189   uclinst-gw16.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws27.cloist      128.40.170.202  uclinst-gw10.uclinst
+--- 20,21 ----
+***************
+*** 87,88 ****
+--- 86,88 ----
+  MAC   XXXXXXXXXXXX  npsa.med                128.40.253.220  uclusers-slp3.uclusers
++ MAC   XXXXXXXXXXXX  npsa.ucl42              128.40.142.20   uclclust-lp1.uclclust
+  MAC   XXXXXXXXXXXX  npsa.ucl47              144.82.147.20   uclclust-lp1.uclclust
+***************
+*** 93,94 ****
+--- 93,95 ----
+  MAC   XXXXXXXXXXXX  npsb.hamplib            195.195.96.212  uclclust-lp2.uclclust
++ MAC   XXXXXXXXXXXX  npsb.is-eisd            128.40.222.21   uclusers-slp1.uclusers
+  MAC   XXXXXXXXXXXX  npsb.mancen             128.40.180.33   uclusers-slp4.uclusers
+***************
+*** 105,106 ****
+--- 106,108 ----
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers
++ MAC   XXXXXXXXXXXX  npsf.cloist             128.40.170.41   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsf.prov               128.40.83.27    uclusers-slp2.uclusers
+***************
+*** 120,122 ****
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  sopps-ws13.sopps        128.40.176.163  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 122,123 ----
+***************
+*** 211,212 ****
+--- 212,214 ----
+  HELP  128.40.141.245  -> 144.82.104.12   uclinst-gw12.uclinst
++ HELP  128.40.142.30   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.142.30   -> 144.82.104.5    uclinst-gw5.uclinst
+***************
+*** 260,261 ****
+--- 262,264 ----
+  HELP  128.40.163.14   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.163.206  -> 144.82.104.1    uclinst-gw1.uclinst
+  HELP  128.40.163.62   -> 144.82.103.129  uclusers-slp2.uclusers
+***************
+*** 438,439 ****
+--- 441,443 ----
+  HELP  128.40.37.110   -> 144.82.103.131  uclusers-slp4.uclusers
++ HELP  128.40.37.190   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.37.190   -> 144.82.104.16   uclinst-gw16.uclinst

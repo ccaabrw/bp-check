@@ -1,0 +1,14 @@
+*** /tmp/d0uEo7a	Thu Jun 21 10:04:31 2007
+--- /tmp/bp_check.auto.1556502	Thu Jun 21 10:04:31 2007
+***************
+*** 18,19 ****
+--- 18,20 ----
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
++ MAC   XXXXXXXXXXXX  ccrm-ws2.ccrm           128.40.37.189   uclinst-gw16.uclinst
+  MAC   XXXXXXXXXXXX  cetl1.cetl              128.40.111.65   uclinst-gw17.uclinst
+***************
+*** 372,373 ****
+--- 373,375 ----
+  HELP  128.40.211.134  -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.211.134  -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.211.206  -> 144.82.104.10   uclinst-gw10.uclinst

@@ -1,0 +1,38 @@
+*** -	2006-09-25 17:24:18.735557000 +0100
+--- /tmp/bp_check.auto.22890	2006-09-25 17:24:18.000000000 +0100
+***************
+*** 3,4 ****
+--- 3,6 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ MAC   0004761B4EDA  ccrm-ws1.ccrm           128.40.37.188   uclinst-gw16.uclinst
++ MAC   0004761B4EDA  iseisd-ws112.is-eisd    128.40.222.62   uclinst-gw1.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 80,82 ****
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  med-ws121.med           128.40.68.49    uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
+--- 82,83 ----
+***************
+*** 114,116 ****
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+- MAC   XXXXXXXXXXXX  npsu.med                128.40.68.50    uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+--- 115,116 ----
+***************
+*** 122,123 ****
+--- 122,124 ----
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  sopps-ws13.sopps        128.40.176.163  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+***************
+*** 138,145 ****
+  MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.156.78   uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl22-ws1.ucl22         144.82.122.151  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws8.ucl27         128.40.127.158  uclinst-gw15.uclinst
+- MAC   XXXXXXXXXXXX  ucl31-ws21.ucl31        128.40.131.171  uclinst-gw7.uclinst
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl31-ws49.ucl31        128.40.131.199  uclinst-gw7.uclinst
+  MAC   XXXXXXXXXXXX  ucl31-ws54.ucl31        128.40.131.204  uclinst-gw7.uclinst
+--- 139,143 ----

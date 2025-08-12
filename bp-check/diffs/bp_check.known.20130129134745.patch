@@ -1,0 +1,8 @@
+*** /tmp/dEnejaa	Tue Jan 29 13:46:54 2013
+--- /tmp/bp_check.auto.659504	Tue Jan 29 13:46:54 2013
+***************
+*** 259,261 ****
+  HELP  128.40.29.245   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.30.245   -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.32.245   -> 144.82.103.128  uclusers-slp1.uclusers
+--- 259,260 ----

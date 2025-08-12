@@ -1,0 +1,15 @@
+*** /tmp/dxnefaa	Wed Jun 27 16:55:49 2007
+--- /tmp/bp_check.auto.1478772	Wed Jun 27 16:55:49 2007
+***************
+*** 72,75 ****
+  MAC   XXXXXXXXXXXX  laws-ws39.laws          128.40.66.29    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws46.laws          128.40.66.205   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws47.laws          128.40.66.206   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws48.laws          128.40.66.207   uclinst-gw22.uclinst
+--- 76,77 ----
+***************
+*** 113,115 ****
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers
+- MAC   XXXXXXXXXXXX  npsf.arts               128.40.29.25    uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsf.cloist             128.40.170.41   uclusers-slp4.uclusers
+--- 115,116 ----

@@ -1,0 +1,10 @@
+*** /tmp/dd4ag7a	Wed Dec 14 10:32:56 2016
+--- /tmp/bp_check.auto.9306148	Wed Dec 14 10:32:56 2016
+***************
+*** 125,129 ****
+  HELP  128.40.196.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.198.254  -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.198.254  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.198.254  -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.2.245    -> 144.82.104.23   uclinst-gw23.uclinst
+--- 125,126 ----

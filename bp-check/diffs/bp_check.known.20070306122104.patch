@@ -1,0 +1,17 @@
+*** /tmp/dw_ueqa	Tue Mar  6 10:31:15 2007
+--- /tmp/bp_check.auto.639092	Tue Mar  6 10:31:14 2007
+***************
+*** 1,3 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- NAME  npsh.surg               <not in DNS>    XXXXXXXXXXXX  uclusers-slp3.uclusers
+  MAC   0001E6A0B687  npsi.studuni            193.60.230.50   uclusers-slp2.uclusers
+--- 1,2 ----
+***************
+*** 112,114 ****
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
+! MAC   XXXXXXXXXXXX  npsh.surg               <not in DNS>    uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers
+--- 111,113 ----
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
+! MAC   XXXXXXXXXXXX  npsh.surg               128.40.251.22   uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers

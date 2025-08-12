@@ -1,0 +1,9 @@
+*** /tmp/dcpmbya	Mon Sep 18 10:59:59 2006
+--- /tmp/bp_check.auto.381160	Mon Sep 18 10:59:59 2006
+***************
+*** 109,110 ****
+--- 109,112 ----
+  MAC   XXXXXXXXXXXX  lib-wsmain59.lib        128.40.212.98   uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  lib-wsmain61.lib        128.40.212.142  uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  lib-wsmain62.lib        128.40.212.143  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsmain63.lib        128.40.212.144  uclinst-gw5.uclinst

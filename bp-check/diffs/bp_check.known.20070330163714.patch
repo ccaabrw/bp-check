@@ -1,0 +1,10 @@
+*** /tmp/djOukaa	Fri Mar 30 16:34:02 2007
+--- /tmp/bp_check.auto.659494	Fri Mar 30 16:34:02 2007
+***************
+*** 64,65 ****
+--- 64,68 ----
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws19.laws          128.40.66.51    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws20.laws          128.40.66.52    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws29.laws          128.40.66.129   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws39.laws          128.40.66.29    uclinst-gw22.uclinst

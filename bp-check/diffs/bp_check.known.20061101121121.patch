@@ -1,0 +1,14 @@
+*** /tmp/dSZqbEa	Wed Nov  1 12:10:48 2006
+--- /tmp/bp_check.auto.954440	Wed Nov  1 12:10:48 2006
+***************
+*** 120,121 ****
+--- 120,122 ----
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
++ MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsk.cloist             128.40.170.46   uclusers-slp4.uclusers
+***************
+*** 405,406 ****
+--- 406,408 ----
+  HELP  128.40.23.254   -> 144.82.104.5    uclinst-gw5.uclinst
++ HELP  128.40.23.30    -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.236.245  -> 144.82.104.21   uclinst-gw21.uclinst

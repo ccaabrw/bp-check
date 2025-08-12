@@ -1,0 +1,8 @@
+*** /tmp/drKYcaa	Tue Jun 18 10:50:50 2013
+--- /tmp/bp_check.auto.1085506	Tue Jun 18 10:50:50 2013
+***************
+*** 261,263 ****
+  HELP  128.40.253.245  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.28.245   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.29.245   -> 144.82.103.130  uclusers-slp3.uclusers
+--- 261,262 ----

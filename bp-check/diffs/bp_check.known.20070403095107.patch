@@ -1,0 +1,20 @@
+*** /tmp/di-ydaa	Tue Apr  3 09:50:53 2007
+--- /tmp/bp_check.auto.1151070	Tue Apr  3 09:50:53 2007
+***************
+*** 99,100 ****
+--- 99,101 ----
+  MAC   XXXXXXXXXXXX  npsc.mancen             128.40.180.34   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npsc.slade              128.40.189.168  uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsc.telref             128.40.179.152  uclusers-slp4.uclusers
+***************
+*** 118,119 ****
+--- 119,121 ----
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
++ MAC   XXXXXXXXXXXX  npsz.reg                128.40.87.59    uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+***************
+*** 124,126 ****
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  slade-ws8.slade         128.40.189.158  uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 126,127 ----

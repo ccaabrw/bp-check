@@ -1,0 +1,8 @@
+*** /tmp/d95aiMa	Thu Jul 21 14:10:43 2011
+--- /tmp/bp_check.auto.409790	Thu Jul 21 14:10:43 2011
+***************
+*** 63,64 ****
+--- 63,65 ----
+  HELP  128.40.154.206  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.154.62   -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.154.78   -> 144.82.104.1    uclinst-gw1.uclinst

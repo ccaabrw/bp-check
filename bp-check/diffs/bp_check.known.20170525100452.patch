@@ -1,0 +1,8 @@
+*** /tmp/d-Kaiqa	Thu May 25 10:04:44 2017
+--- /tmp/bp_check.auto.12714122	Thu May 25 10:04:44 2017
+***************
+*** 280,282 ****
+  HELP  144.82.147.245  -> 144.82.104.3    uclinst-gw3.uclinst
+- HELP  144.82.25.245   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  144.82.25.245   -> 144.82.104.20   uclinst-gw20.uclinst
+--- 280,281 ----

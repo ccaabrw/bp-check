@@ -1,0 +1,8 @@
+*** /tmp/dn_agqa	Mon Dec 11 10:53:37 2017
+--- /tmp/bp_check.auto.8585358	Mon Dec 11 10:53:37 2017
+***************
+*** 127,129 ****
+  HELP  128.40.211.214  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.211.230  -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.211.30   -> 144.82.104.10   uclinst-gw10.uclinst
+--- 127,128 ----

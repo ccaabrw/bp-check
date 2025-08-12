@@ -1,0 +1,8 @@
+*** /tmp/dVwmlia	Wed Mar 11 08:34:51 2009
+--- /tmp/bp_check.auto.471158	Wed Mar 11 08:34:51 2009
+***************
+*** 207,209 ****
+  HELP  128.40.228.245  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.23.190   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.23.222   -> 144.82.103.2    uclclust-lp2.uclclust
+--- 207,208 ----

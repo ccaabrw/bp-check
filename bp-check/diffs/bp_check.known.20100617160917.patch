@@ -1,0 +1,8 @@
+*** /tmp/dB-amaa	Thu Jun 17 16:09:15 2010
+--- /tmp/bp_check.auto.3645664	Thu Jun 17 16:09:15 2010
+***************
+*** 408,410 ****
+  HELP  193.60.232.245  -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  193.60.232.245  -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  193.60.233.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 408,409 ----

@@ -1,0 +1,8 @@
+*** /tmp/dj2Ycya	Thu Jun  6 08:49:38 2013
+--- /tmp/bp_check.auto.336052	Thu Jun  6 08:49:38 2013
+***************
+*** 391,392 ****
+--- 391,393 ----
+  HELP  128.40.98.245   -> 144.82.104.8    uclinst-gw8.uclinst
++ HELP  128.41.1.254    -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.41.3.254    -> 144.82.103.128  uclusers-slp1.uclusers

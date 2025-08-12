@@ -1,0 +1,9 @@
+*** /tmp/dNpMeqa	Thu Jul  8 18:06:23 2010
+--- /tmp/bp_check.auto.610388	Thu Jul  8 18:06:23 2010
+***************
+*** 383,386 ****
+  HELP  144.82.124.245  -> 144.82.103.3    uclclust-lp3.uclclust
+- HELP  144.82.124.245  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  144.82.125.245  -> 144.82.104.1    uclinst-gw1.uclinst
+  HELP  144.82.125.245  -> 144.82.104.7    uclinst-gw7.uclinst
+--- 383,384 ----

@@ -1,0 +1,21 @@
+*** /tmp/dplQlaa	Mon Oct 17 10:24:20 2011
+--- /tmp/bp_check.auto.274684	Mon Oct 17 10:24:20 2011
+***************
+*** 71,72 ****
+--- 71,74 ----
+  HELP  128.40.155.158  -> 144.82.104.8    uclinst-gw8.uclinst
++ HELP  128.40.156.254  -> 144.82.103.1    uclclust-lp1.uclclust
++ HELP  128.40.156.254  -> 144.82.104.4    uclinst-gw4.uclinst
+  HELP  128.40.156.62   -> 144.82.103.3    uclclust-lp3.uclclust
+***************
+*** 207,208 ****
+--- 209,211 ----
+  HELP  128.40.212.245  -> 144.82.104.5    uclinst-gw5.uclinst
++ HELP  128.40.214.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.214.245  -> 144.82.103.3    uclclust-lp3.uclclust
+***************
+*** 308,310 ****
+  HELP  128.40.58.245   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.59.245   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.59.245   -> 144.82.104.4    uclinst-gw4.uclinst
+--- 311,312 ----

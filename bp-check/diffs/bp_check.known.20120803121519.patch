@@ -1,0 +1,8 @@
+*** /tmp/dl-ilUa	Fri Aug  3 12:14:50 2012
+--- /tmp/bp_check.auto.405696	Fri Aug  3 12:14:50 2012
+***************
+*** 286,288 ****
+  HELP  128.40.47.158   -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.47.222   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.47.230   -> 144.82.104.10   uclinst-gw10.uclinst
+--- 286,287 ----

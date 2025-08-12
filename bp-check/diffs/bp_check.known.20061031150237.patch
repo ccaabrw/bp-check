@@ -1,0 +1,32 @@
+*** /tmp/dtnYaEa	Tue Oct 31 15:02:02 2006
+--- /tmp/bp_check.auto.700488	Tue Oct 31 15:02:02 2006
+***************
+*** 3,4 ****
+--- 3,5 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  npsd.cemi               <not in DNS>    XXXXXXXXXXXX  uclusers-slp4.uclusers
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 71,76 ****
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws13.laws          128.40.66.126   uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.125   uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws16.laws          128.40.66.43    uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws5.laws           128.40.66.122   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+--- 72,74 ----
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws14.laws          128.40.66.46    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+***************
+*** 108,109 ****
+--- 106,108 ----
+  MAC   XXXXXXXXXXXX  npsc.telref             128.40.179.152  uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npsd.cemi               <not in DNS>    uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsd.exam               128.40.181.20   uclusers-slp4.uclusers
+***************
+*** 563,564 ****
+--- 562,564 ----
+  HELP  144.82.125.245  -> 144.82.104.1    uclinst-gw1.uclinst
++ HELP  144.82.125.245  -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  144.82.132.245  -> 144.82.104.22   uclinst-gw22.uclinst

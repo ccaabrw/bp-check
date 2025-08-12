@@ -1,0 +1,8 @@
+*** /tmp/dmtYmqa	Tue Sep 18 12:11:06 2012
+--- /tmp/bp_check.auto.979084	Tue Sep 18 12:11:06 2012
+***************
+*** 186,188 ****
+  HELP  128.40.2.245    -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.201.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.204.245  -> 144.82.103.130  uclusers-slp3.uclusers
+--- 186,187 ----

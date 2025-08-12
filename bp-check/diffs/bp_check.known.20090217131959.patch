@@ -1,0 +1,8 @@
+*** /tmp/dVmQdEa	Tue Feb 17 13:19:53 2009
+--- /tmp/bp_check.auto.1982650	Tue Feb 17 13:19:53 2009
+***************
+*** 237,238 ****
+--- 237,239 ----
+  HELP  128.40.252.245  -> 144.82.103.130  uclusers-slp3.uclusers
++ HELP  128.40.252.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.252.245  -> 144.82.104.8    uclinst-gw8.uclinst

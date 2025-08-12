@@ -1,0 +1,8 @@
+*** /tmp/dozukMa	Thu May 17 09:07:17 2007
+--- /tmp/bp_check.auto.1556672	Thu May 17 09:07:17 2007
+***************
+*** 64,66 ****
+  MAC   XXXXXXXXXXXX  iseisd-ws33.is-eisd     128.40.223.134  uclinst-gw1.uclinst
+- MAC   XXXXXXXXXXXX  iseisd-wsmy2.is-eisd    128.40.37.251   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+--- 64,65 ----

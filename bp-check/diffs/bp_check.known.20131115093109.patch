@@ -1,0 +1,8 @@
+*** /tmp/dU4qfqa	Fri Nov 15 09:31:06 2013
+--- /tmp/bp_check.auto.344246	Fri Nov 15 09:31:06 2013
+***************
+*** 385,387 ****
+  HELP  144.82.122.245  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  144.82.131.245  -> 144.82.103.2    uclclust-lp2.uclclust
+  HELP  144.82.131.245  -> 144.82.104.7    uclinst-gw7.uclinst
+--- 385,386 ----

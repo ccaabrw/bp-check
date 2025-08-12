@@ -1,0 +1,8 @@
+*** /tmp/dYJAiqa	Fri Mar 30 09:47:37 2012
+--- /tmp/bp_check.auto.499856	Fri Mar 30 09:47:37 2012
+***************
+*** 102,104 ****
+  HELP  128.40.169.174  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.169.22   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.169.22   -> 144.82.104.17   uclinst-gw17.uclinst
+--- 102,103 ----

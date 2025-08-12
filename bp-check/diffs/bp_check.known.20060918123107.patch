@@ -1,0 +1,8 @@
+*** /tmp/dtmqoia	Mon Sep 18 12:12:31 2006
+--- /tmp/bp_check.auto.901232	Mon Sep 18 12:12:31 2006
+***************
+*** 101,102 ****
+--- 101,103 ----
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws8.laws           128.40.66.118   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsdms10.lib         128.40.60.160   uclinst-gw8.uclinst

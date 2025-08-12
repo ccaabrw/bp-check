@@ -1,0 +1,8 @@
+*** /tmp/d_Lam7a	Tue Mar 31 11:25:45 2015
+--- /tmp/bp_check.auto.6946966	Tue Mar 31 11:25:45 2015
+***************
+*** 54,56 ****
+  HELP  128.40.154.190  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.154.206  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.154.222  -> 144.82.104.19   uclinst-gw19.uclinst
+--- 54,55 ----

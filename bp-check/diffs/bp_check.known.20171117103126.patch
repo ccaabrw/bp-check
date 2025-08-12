@@ -1,0 +1,8 @@
+*** /tmp/d-_aj7a	Fri Nov 17 09:57:35 2017
+--- /tmp/bp_check.auto.9175044	Fri Nov 17 09:57:35 2017
+***************
+*** 200,202 ****
+  HELP  128.40.47.238   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.47.30    -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.47.30    -> 144.82.103.130  uclusers-slp3.uclusers
+--- 200,201 ----

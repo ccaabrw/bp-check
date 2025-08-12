@@ -1,0 +1,8 @@
+*** /tmp/deCqe7a	Wed Jan  8 11:51:25 2014
+--- /tmp/bp_check.auto.463070	Wed Jan  8 11:51:25 2014
+***************
+*** 85,87 ****
+  HELP  128.40.157.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.158.222  -> 144.82.104.11   uclinst-gw11.uclinst
+  HELP  128.40.161.126  -> 144.82.103.2    uclclust-lp2.uclclust
+--- 85,86 ----

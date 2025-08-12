@@ -1,0 +1,8 @@
+*** /tmp/d-xafMa	Tue May 27 14:36:14 2014
+--- /tmp/bp_check.auto.14417924	Tue May 27 14:36:14 2014
+***************
+*** 286,287 ****
+--- 286,288 ----
+  HELP  128.40.49.245   -> 144.82.103.1    uclclust-lp1.uclclust
++ HELP  128.40.49.245   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.49.245   -> 144.82.104.14   uclinst-gw14.uclinst

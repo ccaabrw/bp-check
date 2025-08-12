@@ -1,0 +1,9 @@
+*** /tmp/d_6agaa	Thu Nov  3 08:53:50 2016
+--- /tmp/bp_check.auto.5963856	Thu Nov  3 08:53:50 2016
+***************
+*** 24,27 ****
+  HELP  128.40.131.245  -> 144.82.104.7    uclinst-gw7.uclinst
+- HELP  128.40.132.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.132.245  -> 144.82.104.4    uclinst-gw4.uclinst
+  HELP  128.40.136.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 24,25 ----

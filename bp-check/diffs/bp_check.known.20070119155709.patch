@@ -1,0 +1,20 @@
+*** /tmp/dg2mm7a	Fri Jan 19 15:55:50 2007
+--- /tmp/bp_check.auto.679994	Fri Jan 19 15:55:49 2007
+***************
+*** 60,62 ****
+  MAC   XXXXXXXXXXXX  iseisd-ws136.is-eisd    128.40.222.86   uclinst-gw20.uclinst
+- MAC   XXXXXXXXXXXX  iseisd-ws145.is-eisd    128.40.222.95   uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws197.is-eisd    128.40.222.147  uclinst-gw1.uclinst
+--- 61,62 ----
+***************
+*** 75,76 ****
+--- 75,77 ----
+  MAC   XXXXXXXXXXXX  lib-wsmain65.lib        128.40.212.146  uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  lib-wsstor18.lib        128.40.89.198   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
+***************
+*** 511,512 ****
+--- 512,514 ----
+  HELP  128.40.89.206   -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  128.40.89.206   -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.89.238   -> 144.82.103.130  uclusers-slp3.uclusers

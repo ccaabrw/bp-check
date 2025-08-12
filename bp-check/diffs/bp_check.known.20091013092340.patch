@@ -1,0 +1,8 @@
+*** /tmp/dK6edqa	Tue Oct 13 09:22:21 2009
+--- /tmp/bp_check.auto.290918	Tue Oct 13 09:22:21 2009
+***************
+*** 80,81 ****
+--- 80,82 ----
+  HELP  128.40.154.78   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.155.126  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.155.158  -> 144.82.104.19   uclinst-gw19.uclinst

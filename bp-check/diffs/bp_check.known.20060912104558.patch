@@ -1,0 +1,14 @@
+*** /tmp/dHYQgia	Tue Sep 12 10:45:38 2006
+--- /tmp/bp_check.auto.458802	Tue Sep 12 10:45:38 2006
+***************
+*** 119,120 ****
+--- 119,121 ----
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  med-ws121.med           128.40.68.49    uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
+***************
+*** 510,511 ****
+--- 511,513 ----
+  HELP  128.40.66.245   -> 144.82.104.8    uclinst-gw8.uclinst
++ HELP  128.40.68.62    -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.74.245   -> 144.82.103.129  uclusers-slp2.uclusers

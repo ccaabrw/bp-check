@@ -1,0 +1,9 @@
+*** /tmp/dZ6alaa	Thu Jul  9 16:35:02 2015
+--- /tmp/bp_check.auto.7471216	Thu Jul  9 16:35:02 2015
+***************
+*** 125,128 ****
+  HELP  128.40.190.30   -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.190.94   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.190.94   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.191.245  -> 144.82.103.131  uclusers-slp4.uclusers
+--- 125,126 ----

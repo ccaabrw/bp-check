@@ -1,0 +1,17 @@
+*** /tmp/dALmpya	Mon Mar  1 13:18:59 2010
+--- /tmp/bp_check.auto.4059384	Mon Mar  1 13:18:59 2010
+***************
+*** 130,132 ****
+  HELP  128.40.174.245  -> 144.82.104.17   uclinst-gw17.uclinst
+! HELP  128.40.175.245  -> 144.82.104.15   uclinst-gw15.uclinst
+  HELP  128.40.175.245  -> 144.82.104.22   uclinst-gw22.uclinst
+--- 130,132 ----
+  HELP  128.40.174.245  -> 144.82.104.17   uclinst-gw17.uclinst
+! HELP  128.40.175.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.175.245  -> 144.82.104.22   uclinst-gw22.uclinst
+***************
+*** 193,195 ****
+  HELP  128.40.207.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.207.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.207.245  -> 144.82.103.129  uclusers-slp2.uclusers
+--- 193,194 ----

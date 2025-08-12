@@ -1,0 +1,15 @@
+*** /tmp/dn2Maaa	Wed Oct 11 16:46:54 2006
+--- /tmp/bp_check.auto.413894	Wed Oct 11 16:46:54 2006
+***************
+*** 1,4 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- MAC   0013729AD99D  cloist-ws13.cloist      128.40.170.188  uclinst-gw10.uclinst
+- MAC   0013729AD99D  ucl27-ws8.ucl27         128.40.127.158  uclinst-gw15.uclinst
+  NAME  crucilib-ws18.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+--- 1,2 ----
+***************
+*** 104,105 ****
+--- 102,104 ----
+  MAC   XXXXXXXXXXXX  npsd.vpoff              128.40.207.31   uclusers-slp2.uclusers
++ MAC   XXXXXXXXXXXX  npse.arts               128.40.29.24    uclclust-lp2.uclclust
+  MAC   XXXXXXXXXXXX  npse.exam               128.40.181.21   uclusers-slp4.uclusers

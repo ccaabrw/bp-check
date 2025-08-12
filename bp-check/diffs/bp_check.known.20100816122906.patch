@@ -1,0 +1,8 @@
+*** /tmp/dPPydya	Mon Aug 16 12:25:08 2010
+--- /tmp/bp_check.auto.6230204	Mon Aug 16 12:25:08 2010
+***************
+*** 193,194 ****
+--- 193,195 ----
+  HELP  128.40.211.134  -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.211.142  -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.211.198  -> 144.82.104.10   uclinst-gw10.uclinst

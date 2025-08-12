@@ -1,0 +1,24 @@
+*** /tmp/d_-afya	Mon Mar 24 13:37:10 2014
+--- /tmp/bp_check.auto.25952354	Mon Mar 24 13:37:09 2014
+***************
+*** 11,13 ****
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
+! HELP  128.40.117.245  -> 144.82.103.4    uclclust-lp4.uclclust
+  HELP  128.40.118.126  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+--- 11,13 ----
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
+! HELP  128.40.117.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.118.126  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+***************
+*** 209,211 ****
+  HELP  128.40.23.254   -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.23.30    -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.236.245  -> 144.82.104.21   uclinst-gw21.uclinst
+--- 209,210 ----
+***************
+*** 402,403 ****
+  HELP  194.66.92.245   -> 144.82.104.19   uclinst-gw19.uclinst
+! HELP  195.195.96.254  -> 144.82.103.2    uclclust-lp2.uclclust
+--- 401,402 ----
+  HELP  194.66.92.245   -> 144.82.104.19   uclinst-gw19.uclinst
+! HELP  195.195.96.254  -> 144.82.103.1    uclclust-lp1.uclclust

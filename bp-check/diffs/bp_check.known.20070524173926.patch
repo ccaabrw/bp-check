@@ -1,0 +1,9 @@
+*** /tmp/dzpMmqa	Thu May 24 17:38:14 2007
+--- /tmp/bp_check.auto.569458	Thu May 24 17:38:14 2007
+***************
+*** 1,2 ****
+--- 1,4 ----
+  NAME  histart-ws34.histart    <not in DNS>    XXXXXXXXXXXX  uclinst-gw23.uclinst
++ MAC   000475BEED47  iseisd-ws109.is-eisd    128.40.222.59   uclinst-gw20.uclinst
++ MAC   000475BEED47  reg-ws15.reg            128.40.87.165   uclinst-gw19.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust

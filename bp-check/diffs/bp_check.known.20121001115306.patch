@@ -1,0 +1,9 @@
+*** /tmp/dtRqe7a	Mon Oct  1 11:52:06 2012
+--- /tmp/bp_check.auto.790728	Mon Oct  1 11:52:06 2012
+***************
+*** 159,161 ****
+  HELP  128.40.189.245  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.190.94   -> 144.82.103.3    uclclust-lp3.uclclust
+  HELP  128.40.189.245  -> 144.82.104.15   uclinst-gw15.uclinst
+--- 159,160 ----
+***************

@@ -1,0 +1,22 @@
+*** /tmp/dEpIkUa	Wed Oct  3 17:18:53 2007
+--- /tmp/bp_check.auto.631028	Wed Oct  3 17:18:53 2007
+***************
+*** 11,12 ****
+--- 11,13 ----
+  MAC   FFFFFFFFFFFF  wybook1-test.is-eisd.ucl.ac.uk128.40.223.204  cbds-a.ucl0
++ MAC?  0004759ES6E8  arts-ws25.arts          128.40.29.125   uclinst-gw15.uclinst
+  HELP  128.40.105.245  -> 144.82.117.43   ucl17-gw7.ucl17
+***************
+*** 95,98 ****
+  HELP  128.40.152.245  -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.154.126  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.154.126  -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.154.142  -> 144.82.103.3    uclclust-lp3.uclclust
+--- 96,97 ----
+***************
+*** 319,320 ****
+--- 318,321 ----
+  HELP  128.40.45.245   -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.47.158   -> 144.82.103.131  uclusers-slp4.uclusers
++ HELP  128.40.47.158   -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.47.30    -> 144.82.103.3    uclclust-lp3.uclclust

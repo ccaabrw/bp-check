@@ -1,0 +1,13 @@
+*** /tmp/dclmiEa	Mon Jul 30 16:24:16 2012
+--- /tmp/bp_check.auto.671972	Mon Jul 30 16:24:16 2012
+***************
+*** 74,77 ****
+  HELP  128.40.156.62   -> 144.82.104.11   uclinst-gw11.uclinst
+! HELP  128.40.157.245  -> 144.82.103.3    uclclust-lp3.uclclust
+! HELP  128.40.157.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.158.222  -> 144.82.104.11   uclinst-gw11.uclinst
+--- 74,77 ----
+  HELP  128.40.156.62   -> 144.82.104.11   uclinst-gw11.uclinst
+! HELP  128.40.157.245  -> 144.82.103.1    uclclust-lp1.uclclust
+! HELP  128.40.157.245  -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.158.222  -> 144.82.104.11   uclinst-gw11.uclinst

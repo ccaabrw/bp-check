@@ -1,0 +1,8 @@
+*** /tmp/dpQAoya	Fri Jun  1 14:40:35 2007
+--- /tmp/bp_check.auto.1777902	Fri Jun  1 14:40:35 2007
+***************
+*** 111,112 ****
+--- 112,114 ----
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers
++ MAC   XXXXXXXXXXXX  npsf.arts               128.40.29.25    uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsf.cloist             128.40.170.41   uclusers-slp4.uclusers

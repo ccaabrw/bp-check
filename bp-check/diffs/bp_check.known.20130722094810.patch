@@ -1,0 +1,11 @@
+*** /tmp/dRKAhMa	Mon Jul 22 09:46:22 2013
+--- /tmp/bp_check.auto.565314	Mon Jul 22 09:46:22 2013
+***************
+*** 428,430 ****
+  HELP  193.60.242.245  -> 144.82.103.129  uclusers-slp2.uclusers
+! HELP  193.60.243.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  193.60.244.245  -> 144.82.103.129  uclusers-slp2.uclusers
+--- 428,430 ----
+  HELP  193.60.242.245  -> 144.82.103.129  uclusers-slp2.uclusers
+! HELP  193.60.243.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  193.60.244.245  -> 144.82.103.129  uclusers-slp2.uclusers

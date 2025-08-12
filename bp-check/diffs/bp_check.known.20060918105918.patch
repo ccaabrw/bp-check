@@ -1,0 +1,16 @@
+*** /tmp/dEZQn7a	Mon Sep 18 10:58:21 2006
+--- /tmp/bp_check.auto.901248	Mon Sep 18 10:58:20 2006
+***************
+*** 18,28 ****
+  MAC   XXXXXXXXXXXX  anat-ws34.anat          128.40.152.168  uclinst-gw15.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc11.anthr       128.40.63.160   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc12.anthr       128.40.63.161   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc13.anthr       128.40.63.162   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc14.anthr       128.40.63.163   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc15.anthr       128.40.63.164   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc16.anthr       128.40.63.165   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc17.anthr       128.40.63.166   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc18.anthr       128.40.63.167   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  anthr-wsc19.anthr       128.40.63.168   uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  anthr-wsc20.anthr       128.40.63.169   uclinst-gw10.uclinst
+--- 22,23 ----

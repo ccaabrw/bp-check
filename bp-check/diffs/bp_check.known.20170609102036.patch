@@ -1,0 +1,6 @@
+*** /tmp/d6Zaiqa	Fri Jun  9 10:20:17 2017
+--- /tmp/bp_check.auto.11993240	Fri Jun  9 10:20:17 2017
+***************
+- HELP  128.40.140.245  -> 144.82.104.14   uclinst-gw14.uclinst
+- HELP  128.40.141.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.141.245  -> 144.82.104.12   uclinst-gw12.uclinst

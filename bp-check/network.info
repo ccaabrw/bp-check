@@ -1,0 +1,647 @@
+#Gateway        Netmask         Description
+10.0.120.101    255.255.255.0   # Management VLAN
+10.0.120.102    255.255.255.0   # Management VLAN
+10.0.120.103    255.255.255.0   # Management VLAN
+10.0.120.104    255.255.255.0   # Management VLAN
+10.0.120.105    255.255.255.0   # Management VLAN
+10.0.120.106    255.255.255.0   # Management VLAN
+10.0.120.107    255.255.255.0   # Management VLAN
+10.0.120.108    255.255.255.0   # Management VLAN
+10.0.120.110    255.255.255.0   # Management VLAN
+10.0.120.111    255.255.255.0   # Management VLAN
+10.0.120.112    255.255.255.0   # Management VLAN
+10.0.120.113    255.255.255.0   # Management VLAN
+10.0.120.114    255.255.255.0   # 
+10.0.120.115    255.255.255.0   # Management VLAN
+10.0.120.116    255.255.255.0   # Management VLAN
+10.0.120.150    255.255.255.0   # Management VLAN
+10.0.120.151    255.255.255.0   # Management VLAN
+10.0.120.171    255.255.255.0   # Management VLAN
+10.0.120.199    255.255.255.0   # Management VLAN
+10.0.120.200    255.255.255.0   # Management VLAN
+10.0.120.225    255.255.255.0   # Management VLAN
+10.0.120.252    255.255.255.0   # Management VLAN
+10.0.120.253    255.255.255.0   # Management Vlan
+10.0.123.13     255.255.255.252 # Link to Engineering (dev-eng)
+10.0.123.14     255.255.255.252 # Link to Pearson Building (dev-pb)
+10.0.123.18     255.255.255.252 # Link to Bland Sutton (dev-bs)
+10.1.1.254      255.255.255.0   # Wireless nwg-ops
+10.1.2.254      255.255.255.0   # Wireless nwg-dev
+10.1.3.254      255.255.255.0   # Wireless nwg-dev-lab
+10.1.4.254      255.255.255.0   # Peripatetic wired test
+128.40.0.1      255.255.255.255 # 
+128.40.0.2      255.255.255.255 # 
+128.40.0.3      255.255.255.255 # used for IBGP peerings
+128.40.0.4      255.255.255.255 # 
+128.40.0.5      255.255.255.255 # 
+128.40.0.6      255.255.255.255 # 
+128.40.0.7      255.255.255.255 # 
+128.40.0.9      255.255.255.255 # 
+128.40.0.10     255.255.255.255 # Loopback interface for IBGP peerings
+128.40.0.11     255.255.255.255 # 
+128.40.0.12     255.255.255.255 # 
+128.40.0.14     255.255.255.255 # 
+128.40.0.15     255.255.255.255 # 
+128.40.0.16     255.255.255.255 # 
+128.40.0.17     255.255.255.255 # 
+128.40.0.18     255.255.255.255 # 
+128.40.0.19     255.255.255.255 # 
+128.40.0.20     255.255.255.255 # 
+128.40.0.24     255.255.255.255 # 
+128.40.0.25     255.255.255.255 # 
+128.40.0.35     255.255.255.255 # 
+128.40.1.245    255.255.255.0   # Physics Starlink LAN
+128.40.2.245    255.255.255.0   # Physics Main Building LAN
+128.40.3.245    255.255.255.0   # CPI LAN
+128.40.4.245    255.255.255.0   # HEP LAN
+128.40.5.245    255.255.255.0   # Physics Theory LAN
+128.40.6.245    255.255.255.0   # Physics Teaching/Main Building LAN
+128.40.7.245    255.255.255.0   # Physics Image Processing Group
+128.40.8.245    255.255.255.0   # Physics - KLB
+128.40.9.245    255.255.255.0   # 
+128.40.10.245   255.255.255.0   # Test HoR LAN
+128.40.15.2     255.255.255.0   # Computer Science Department
+128.40.19.22    255.255.255.0   # Stanmore ISDN2 020-8954-9035
+128.40.19.128   255.255.255.0   # UCL Information Systems Network Group LAN
+128.40.19.244   255.255.255.0   # 
+128.40.19.245   255.255.255.0   # UCL ISD Network Group
+128.40.19.252   255.255.255.0   # UCL IS Network Group (NB. *MUST* be shutdown when PIX is running)
+128.40.19.253   255.255.255.0   # UCL IS Network Group (NB. *MUST* be shutdown when PIX is running)
+128.40.20.1     255.255.255.252 # Link to To Foster Court edge (dev-fc-edge)
+128.40.20.2     255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.5     255.255.255.252 # Link to Kathleen Lonsdale Building edge (dev-klb-edge)
+128.40.20.6     255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.9     255.255.255.252 # Link to Christopher Ingold (dev-ci)
+128.40.20.10    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.13    255.255.255.252 # Link to Pearson Building (dev-pb)
+128.40.20.14    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.17    255.255.255.252 # Link to Bedford Way (dev-bw)
+128.40.20.18    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.21    255.255.255.252 # Link to Physics (dev-phy)
+128.40.20.22    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.25    255.255.255.252 # Link to South Wing (dev-sw)
+128.40.20.26    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.29    255.255.255.252 # Link to Engineering (dev-eng)
+128.40.20.30    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.33    255.255.255.252 # Link to Bland Sutton (dev-bs)
+128.40.20.34    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.37    255.255.255.252 # Link to Windeyer Building (dev-wd)
+128.40.20.38    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.41    255.255.255.252 # Link to Chandler House (dev-ch)
+128.40.20.45    255.255.255.252 # Link to Malet Place (dev-mp)
+128.40.20.46    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.49    255.255.255.252 # Link to Rockefeller Building (dev-rf)
+128.40.20.50    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.53    255.255.255.252 # Link to Torrington Place (dev-tp)
+128.40.20.54    255.255.255.252 # Link to Kathleen Lonsdale Building core (dev-klb-core)
+128.40.20.57    255.255.255.252 # Link to Cruciform Building (dev-cruci)
+128.40.20.58    255.255.255.252 # Link to KLB core
+128.40.20.61    255.255.255.252 # Link to cisco-klb-man
+128.40.20.62    255.255.255.252 # Link to KLB-Core
+128.40.20.65    255.255.255.252 # Link to FC-man
+128.40.20.66    255.255.255.252 # Link to KLB-core
+128.40.20.69    255.255.255.252 # Link to UCL KLB LMN2 switch/router
+128.40.20.73    255.255.255.252 # Link to KLB-EDGE2
+128.40.20.74    255.255.255.252 # Link to KLB-Core
+128.40.20.93    255.255.255.252 # Link to DEV-SLB (cisco-ucl-dev-slb)
+128.40.20.129   255.255.255.252 # Link to Foster Court edge (dev-fc-edge)
+128.40.20.130   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.133   255.255.255.252 # Link to Kathleen Lonsdale Building edge (dev-klb-edge)
+128.40.20.134   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.137   255.255.255.252 # Link to Christopher Ingold (dev-ci)
+128.40.20.138   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.141   255.255.255.252 # Link to Pearson Building (dev-pb)
+128.40.20.142   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.145   255.255.255.252 # Link to Bedford Way (dev-bw)
+128.40.20.146   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.149   255.255.255.252 # Link to Physics (dev-phy)
+128.40.20.150   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.153   255.255.255.252 # Link to South Wing (dev-sw)
+128.40.20.154   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.157   255.255.255.252 # Link to Engineering (dev-eng)
+128.40.20.158   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.161   255.255.255.252 # Link to Bland Sutton (dev-bs)
+128.40.20.162   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.165   255.255.255.252 # Link to Windeyer Building (dev-wd)
+128.40.20.166   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.169   255.255.255.252 # Link to Chandler House (dev-ch)
+128.40.20.173   255.255.255.252 # Link to Malet Place (dev-mp)
+128.40.20.174   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.177   255.255.255.252 # Link to Rockefeller Building (dev-rf)
+128.40.20.178   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.181   255.255.255.252 # Link to Torrington Place (dev-tp)
+128.40.20.182   255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.20.185   255.255.255.252 # Link to Cruciform Building (dev-cruci)
+128.40.20.186   255.255.255.252 # Link to FC core
+128.40.20.189   255.255.255.252 # Link to lmn2 box
+128.40.20.190   255.255.255.252 # Link to FC-Core
+128.40.20.193   255.255.255.252 # Link to FC-man
+128.40.20.194   255.255.255.252 # Link to UCL Foster Court Core
+128.40.20.197   255.255.255.252 # Link to klb-edge2
+128.40.20.198   255.255.255.252 # Link to FC-Core
+128.40.21.1     255.255.255.252 # Link to Foster Court core (dev-fc-core)
+128.40.21.2     255.255.255.252 # Link to Kathleen Lonsdale core (dev-klb-core)
+128.40.21.5     255.255.255.252 # Link to cisco-ucl-wd
+128.40.21.6     255.255.255.252 # Link to cisco-ucl-bs
+128.40.21.17    255.255.255.252 # Link to Physics (dev-phys)
+128.40.21.18    255.255.255.252 # Link to Bland Sutton (dev-bs)
+128.40.21.21    255.255.255.252 # Link to UCL Foster Court MAN
+128.40.21.22    255.255.255.252 # Link to klb-man
+128.40.21.25    255.255.255.252 # Infra-red link to cisco-tp
+128.40.21.26    255.255.255.252 # Infra-red link to cisco-eng
+128.40.21.29    255.255.255.252 # Infra-red link to cisco-ucl-wd
+128.40.21.30    255.255.255.252 # Infra-red link to cisco-eng
+128.40.21.245   255.255.255.0   # Bob's private IOS firewalled network
+128.40.22.104   255.255.255.0   # 
+128.40.22.215   255.255.255.0   # 
+128.40.22.245   255.255.255.0   # Library services
+128.40.22.247   255.255.255.0   # UCL Network Services
+128.40.23.30    255.255.255.224 # Biochemical Engineering (Foster Court)
+128.40.23.62    255.255.255.224 # Photography and Illustration
+128.40.23.94    255.255.255.224 # EISD Disaster Recovery LAN
+128.40.23.126   255.255.255.224 # Central Purchasing (Procurement)
+128.40.23.158   255.255.255.224 # Geomatic Engineering - Foster Court
+128.40.23.190   255.255.255.224 # Bursars
+128.40.23.222   255.255.255.224 # 
+128.40.23.254   255.255.255.224 # Cruciform Library
+128.40.24.245   255.255.255.0   # Statistical Science
+128.40.25.245   255.255.255.0   # Geomatic Engineering LAN
+128.40.26.245   255.255.255.0   # Psychology Department
+128.40.27.245   255.255.255.0   # Psychology Department LAN
+128.40.28.245   255.255.255.0   # Transport Studies Group LAN
+128.40.29.245   255.255.255.0   # Arts Departments LAN
+128.40.30.245   255.255.255.0   # Phonetics & Linguistics LAN
+128.40.33.245   255.255.255.0   # Mathematical And Physical Sciences (MAPS)
+128.40.34.245   255.255.255.0   # English Depatment LAN
+128.40.35.245   255.255.255.0   # Central Services
+128.40.36.245   255.255.255.0   # Electronic Library (1st Floor)
+128.40.37.14    255.255.255.240 # Safety Office Hut in Physics Yard
+128.40.37.46    255.255.255.240 # Ramsey Hall Office
+128.40.37.62    255.255.255.240 # Hall Office
+128.40.37.78    255.255.255.240 # 
+128.40.37.94    255.255.255.240 # Petrie Museum
+128.40.37.110   255.255.255.240 # Open Learning Centre
+128.40.37.126   255.255.255.240 # Campbell House
+128.40.37.142   255.255.255.240 # Spinal Injuries LAN
+128.40.37.190   255.255.255.240 # Council and Committee Room
+128.40.37.206   255.255.255.240 # Library Warehouse Lan
+128.40.37.222   255.255.255.240 # 
+128.40.37.238   255.255.255.240 # LiveNet Studio Lan
+128.40.37.254   255.255.255.240 # IS - Cruciform Support Section
+128.40.42.245   255.255.255.0   # Electrical Engineering LAN
+128.40.44.245   255.255.255.0   # Geology
+128.40.46.245   255.255.255.0   # Biochemistry, Biology and Botany LANS
+128.40.47.30    255.255.255.224 # School of Library & Archive Information Studies (slais)
+128.40.48.30    255.255.255.224 # Hawkridge Cluster LAN
+128.40.48.62    255.255.255.224 # CDRI
+128.40.48.94    255.255.255.224 # Hawkridge Student Lan 
+128.40.48.158   255.255.255.224 # SENIT Cluster
+128.40.48.190   255.255.255.224 # Wi-Fi testing
+128.40.48.222   255.255.255.224 # CoMPLEX
+128.40.48.254   255.255.255.224 # The Jill Dando Institute LAN
+128.40.49.245   255.255.255.0   # History and Philosophy of Science and Communication
+128.40.51.245   255.255.255.0   # Anatomy - Main Building & Foster Court (UTP & Thin)
+128.40.52.245   255.255.255.0   # Department of Phonetics and Linguistics LAN
+128.40.53.245   255.255.255.0   # Anatomy LAN
+128.40.54.245   255.255.255.0   # Mechanical Engineering LAN
+128.40.56.245   255.255.255.0   # Mathematics LAN
+128.40.58.245   255.255.255.0   # Bartlett School LAN (Wates House)
+128.40.59.245   255.255.255.0   # Bartlett Graduate School LAN
+128.40.60.245   255.255.255.0   # DMS Watson Library
+128.40.62.245   255.255.255.0   # Epidemiology and Public Health LAN (2nd, 3rd & 4th Floors)
+128.40.63.245   255.255.255.0   # MRC National Survey of Health and Development
+128.40.64.245   255.255.255.0   # Audio Visual Centre LAN
+128.40.65.245   255.255.255.0   # Anthropology
+128.40.66.245   255.255.255.0   # Laws - Bentham House
+128.40.67.245   255.255.255.0   # MSSL 3-4 Taviton Street
+128.40.68.245   255.255.255.0   # Boldero Library LAN
+128.40.69.245   255.255.255.0   # Whittington Hospital Library
+128.40.70.245   255.255.254.0   # 
+128.40.72.252   255.255.255.192 # MSSL DMZ LAN
+128.40.72.253   255.255.255.192 # MSSL 128.40.72.192/26 Net
+128.40.74.245   255.255.255.0   # Chemical Engineering LAN
+128.40.75.245   255.255.255.0   # Advanced Centre for Biochemical Engineering
+128.40.77.245   255.255.254.0   # Chemistry Department LAN
+128.40.78.245   255.255.255.0   # Geological Sciences - KLB (geol)
+128.40.79.126   255.255.255.128 # Biology (Medawar Bld)
+128.40.81.245   255.255.255.0   # Cell Biology
+128.40.82.245   255.255.255.0   # Department of Genetics and Biometrics LAN
+128.40.83.245   255.255.255.0   # Provosts office
+128.40.84.245   255.255.255.0   # Atmospheric Physics LAN
+128.40.86.245   255.255.255.0   # Residence Office
+128.40.87.245   255.255.255.0   # Registry & Provost's Office
+128.40.88.245   255.255.255.0   # Gordon Square Houses distribution Ethernet
+128.40.89.14    255.255.255.240 # Bartlett - Ramsay
+128.40.89.30    255.255.255.240 # Cluster 13 (ucl13 REMAX HOUSE)
+128.40.89.46    255.255.255.240 # Cluster 35 (ucl35)
+128.40.89.62    255.255.255.240 # Cruciform Lecture Theatres 1 & 2
+128.40.89.78    255.255.255.240 # Rockefeller Class Rooms
+128.40.89.82    255.255.255.240 # Connection to cisco-ucl-isdn
+128.40.89.83    255.255.255.240 # Link to dialup-server-4.ucl.ac.uk
+128.40.89.84    255.255.255.240 # Link to dialup-server-4.ucl.ac.uk
+128.40.89.110   255.255.255.240 # ARC
+128.40.89.126   255.255.255.240 # Psychology - Remax House
+128.40.89.142   255.255.255.240 # Library Store LAN
+128.40.89.158   255.255.255.240 # Link to Lecture Theatre (LT1)
+128.40.89.222   255.255.255.240 # 
+128.40.89.238   255.255.255.240 # Drylabs
+128.40.89.245   255.255.255.0   # Safety Office (safety)
+128.40.90.245   255.255.255.0   # Economics - Drayton House
+128.40.91.245   255.255.255.0   # Faculty of Arts - Garage
+128.40.92.245   255.255.255.0   # Civil and Enviromental Engineering
+128.40.93.245   255.255.255.0   # Biological Services Building
+128.40.94.245   255.255.255.0   # Physiology LAN
+128.40.95.245   255.255.255.0   # Physiology LAN
+128.40.96.245   255.255.255.0   # Pharmacology LAN
+128.40.98.245   255.255.255.0   # Development Office (was External Affairs)
+128.40.99.245   255.255.255.0   # Educational Liaison
+128.40.100.53   255.255.255.0   # 
+128.40.100.54   255.255.255.0   # UCL ATM Backbone (LANE)
+128.40.100.56   255.255.255.0   # UCL ATM Backbone (LANE)
+128.40.100.254  255.255.255.0   # UCL ATM Backbone (LANE)
+128.40.101.245  255.255.255.0   # UCL ISD Systems Development LAN
+128.40.105.245  255.255.255.0   # EISD Disaster Recovery LAN2
+128.40.108.245  255.255.255.0   # Cluster 8 - James Lighthill House
+128.40.110.225  255.255.255.0   # Link to Cisco-ucl-e (non ip)
+128.40.110.250  255.255.255.0   # UCL Scaffolding Backbone
+128.40.112.245  255.255.255.0   # UCL Cluster 12
+128.40.113.245  255.255.255.0   # Bartlett School Private Cluster (Wates House 4th Flr)
+128.40.114.245  255.255.255.0   # History Cluster (cluster 14)
+128.40.115.245  255.255.255.0   # RFHSM Cluster (Cluster 15)
+128.40.116.126  255.255.255.128 # UCL Cluster 16 - Cruciform
+128.40.116.254  255.255.255.128 # Drylabs
+128.40.127.245  255.255.255.0   # Henry Morley Cluster LAN
+128.40.128.245  255.255.255.0   # DMS Watson Library Cluster LAN
+128.40.129.245  255.255.255.0   # Christopher Ingold & Archaeology PC Clusters (UCL29)
+128.40.130.245  255.255.255.0   # Chadwick Cluster LAN
+128.40.131.245  255.255.255.0   # Cluster 31
+128.40.132.245  255.255.255.0   # Christopher Ingold Mac Cluster (UCL32) 
+128.40.133.245  255.255.255.0   # Windeyer MAC Cluster
+128.40.135.245  255.255.255.0   # Cluster 35 - Bentham House (Laws)
+128.40.136.245  255.255.255.0   # Cluster 36 (Physics X-Terminals)
+128.40.137.245  255.255.255.0   # Wilkins Cluster LAN
+128.40.138.245  255.255.255.0   # HelpDesk (Lewis's) LAN
+128.40.139.245  255.255.255.0   # Huntley Street PC Cluster
+128.40.140.245  255.255.255.0   # Cluster 40 - Schafer House
+128.40.141.245  255.255.255.0   # Cluster 41 - Ifor Evans/Max Rayne House
+128.40.142.245  255.255.255.0   # Cluster 42 3rd floor Torrington place
+128.40.143.245  255.255.255.0   # Cluster 43 Goldsmid House
+128.40.145.245  255.255.255.0   # cluster 45 -John Dodgson House
+128.40.146.245  255.255.255.0   # Cluster 46 - Grafton Way
+128.40.148.245  255.255.255.0   # Cluster 48 - Archaeology 5th Flr
+128.40.150.245  255.255.255.0   # 
+128.40.151.245  255.255.255.0   # Safety Office (Training), Heals Building
+128.40.152.245  255.255.255.0   # UCL Academic History of Medicine Unit LAN
+128.40.153.245  255.255.255.0   # MRC Research Gower St 66-72
+128.40.155.245  255.255.255.0   # Staff Development & Training Unit
+128.40.156.62   255.255.255.192 # Chadwick Cluster ucl-18, Rm B1
+128.40.156.126  255.255.255.192 # UCL CLUSTER 20 - Bland Sutton
+128.40.156.254  255.255.255.192 # Chemistry (GRID)
+128.40.157.245  255.255.255.0   # Institute of Orthopaedics
+128.40.158.62   255.255.255.192 # Human Performance LAN
+128.40.158.126  255.255.255.192 # Economic Learning and Social Evolution (ELSE) - Drayton Hse
+128.40.159.1    255.255.255.0   # Link to Senate House (School of Advanced Studies, cisco-ucl-sas)
+128.40.160.2    255.255.255.0   # 
+128.40.160.245  255.255.255.0   # Hawkridge HoR Student Bedroom LAN
+128.40.161.245  255.255.255.0   # Astor College HoR Student Bedroom LAN
+128.40.162.245  255.255.255.0   # Bartlett Library
+128.40.164.2    255.255.255.0   # 2Mbps Links to cisco-f
+128.40.164.245  255.255.255.0   # Magnetic Resonance Wellcome Trust Group - Queens Sq
+128.40.165.245  255.255.255.0   # Bio-Medical Engineering (BME)
+128.40.166.245  255.255.255.0   # Physiology Cleveland St
+128.40.167.126  255.255.255.0   # Mill Hill Observatory LAN
+128.40.167.254  255.255.255.128 # University of London Observatory (Mill Hill) Annex LAN
+128.40.168.245  255.255.255.0   # Max Rayne HoR Student Bedroom LAN
+128.40.169.22   255.255.255.248 # Darwin Lecture Theatre
+128.40.169.30   255.255.255.248 # Gustav Tuck Lecture Theatre
+128.40.169.38   255.255.255.248 # Estate Facilities Div - Hut 20
+128.40.169.46   255.255.255.248 # Eisai Lounge
+128.40.169.54   255.255.255.248 # Hawkridge Office LAN
+128.40.169.62   255.255.255.248 # Lecture Theatre 1st flr Rm 115
+128.40.169.70   255.255.255.248 # trad
+128.40.169.78   255.255.255.248 # AV Hill Lecture Theatre
+128.40.169.86   255.255.255.248 # UCL Students Union - Huntley St
+128.40.169.94   255.255.255.248 # Biochemistry Lecture Theatre
+128.40.169.102  255.255.255.248 # Harrie Massey Lecture Theatre
+128.40.169.110  255.255.255.248 # Top level Windows 2000 domain controllers
+128.40.169.118  255.255.255.248 # Top level Windows 2000 domain controllers (FC)
+128.40.169.126  255.255.255.248 # Win2K Servers
+128.40.169.134  255.255.255.248 # Win2K Servers
+128.40.169.142  255.255.255.248 # famis
+128.40.169.150  255.255.255.248 # FAMIS
+128.40.169.158  255.255.255.248 # 
+128.40.169.174  255.255.255.248 # Pearson Lecture Theatre Rm G22
+128.40.169.182  255.255.255.248 # SCTA
+128.40.169.190  255.255.255.248 # SCTB-ADM
+128.40.169.198  255.255.255.248 # Schafer House Staff Office LAN
+128.40.169.206  255.255.255.248 # Langton Close Staff Offices LAN
+128.40.169.214  255.255.255.248 # HoRs Management LAN
+128.40.169.222  255.255.255.248 # HEP_Gig_WAN_Test
+128.40.169.230  255.255.255.248 # Department of Molecular Endocrinology
+128.40.169.238  255.255.255.248 # James Lighthill office
+128.40.169.246  255.255.255.248 # John Dogson House Office
+128.40.169.254  255.255.255.248 # Astor College Office LAN
+128.40.170.245  255.255.255.0   # Cloisters Temporary Connection
+128.40.171.245  255.255.255.0   # Whittington Electronic Library Training Room
+128.40.172.245  255.255.255.0   # Occupational Health Centre
+128.40.174.245  255.255.255.0   # EISD Training Room
+128.40.176.245  255.255.255.0   # School of Public Policy Studies 
+128.40.177.245  255.255.255.0   # UCL Images Edit Suite
+128.40.178.245  255.255.255.0   # Neurology and Clinical Skills Laboratory
+128.40.179.245  255.255.255.0   # Telecommunications & Refectory Office
+128.40.180.245  255.255.255.0   # The Management Centre and Photography & Illustration
+128.40.181.245  255.255.255.0   # Temporary interface for examination halls
+128.40.182.245  255.255.255.0   # Whittington Hospital Library & UCL Academic (CHIME)
+128.40.183.245  255.255.255.0   # Development Planning Unit
+128.40.184.245  255.255.255.0   # Computer Science Managed PC LAN
+128.40.185.245  255.255.255.0   # Immunology & Rheumatology (Arthur Stanley House)
+128.40.186.30   255.255.255.224 # Podiatry
+128.40.186.62   255.255.255.224 # Physiology - Staples building
+128.40.186.94   255.255.255.224 # Rockefeller Cluster 7 (UCL7)
+128.40.186.158  255.255.255.224 # Economics (66-72 Gower Street)
+128.40.186.190  255.255.255.224 # Windows NT ELIB
+128.40.186.222  255.255.255.224 # Geography LAN (REMAX HOUSE)
+128.40.186.254  255.255.255.224 # Graduate School LAN
+128.40.187.245  255.255.255.0   # History of Art and UCL Careers Services (Gordon Square)
+128.40.188.245  255.255.255.0   # Primary Health Care
+128.40.189.245  255.255.255.0   # Slade School and Cashiers
+128.40.190.30   255.255.255.224 # Molecular Psychiatry
+128.40.190.62   255.255.255.224 # Cluster 11 - Furnival Building
+128.40.190.126  255.255.255.224 # EFD Gordon Square Houses
+128.40.191.245  255.255.255.0   # German & Scandinavian Studies - 16-18 Gordon Square
+128.40.193.245  255.255.255.0   # Dean of Students LAN
+128.40.194.245  255.255.255.0   # Obstetrics and Gynaecology
+128.40.195.245  255.255.255.0   # UCL Archaeology Department
+128.40.196.245  255.255.255.0   # Language Centre
+128.40.197.245  255.255.255.0   # French
+128.40.198.245  255.255.255.0   # Anthropology - Darwin Bldg
+128.40.199.245  255.255.255.0   # Photography & Illustration LAN
+128.40.200.245  255.255.255.0   # Network Dev Lab LAN
+128.40.201.245  255.255.255.0   # Economics - Remax House
+128.40.202.245  255.255.255.0   # Life Sciences Faculty Office
+128.40.203.245  255.255.255.0   # Management Systems Division (1st Floor)
+128.40.204.245  255.255.255.0   # Former Dr's residence shared LAN
+128.40.205.245  255.255.255.0   # Schafer House HoR Student Bedroom LAN
+128.40.206.245  255.255.255.128 # Laboratory of Neurobiology LAN (unprotected)
+128.40.207.245  255.255.255.0   # Coru
+128.40.208.245  255.255.255.0   # SCP-MSSL & COMPLEX (17-19 Gordon Street)
+128.40.209.245  255.255.255.0   # Pharmacology Medwar Building
+128.40.211.6    255.255.255.248 # 
+128.40.211.22   255.255.255.248 # 
+128.40.211.245  255.255.255.0   # Student Bedrooms LAN
+128.40.212.245  255.255.255.0   # Main Library (Wilkins Building)
+128.40.213.245  255.255.255.0   # Gatsby Project (Alexandra House)
+128.40.214.245  255.255.255.0   # Geography Chandler Hse & Bedford Way LANs
+128.40.222.245  255.255.254.0   # Information Systems LAN
+128.40.224.245  255.255.255.0   # Student Bedrooms LAN
+128.40.225.245  255.255.255.0   # Wolfson Institute for Biomedical Research (WIBR)
+128.40.229.245  255.255.254.0   # Ramsey Hall Student LAN
+128.40.232.245  255.255.255.0   # MRI / NMR LAN
+128.40.233.245  255.255.255.0   # Medical Physics
+128.40.234.30   255.255.255.224 # Nuclear Medicine Firewall/DMZ
+128.40.235.245  255.255.255.0   # Urology (Bland Sutton & Riding Hse. St.) LANs
+128.40.236.245  255.255.255.0   # Jules Thorne Building Shared LAN (Dept. of Med.,Fertility Unit, etc)
+128.40.237.245  255.255.255.0   # Haematology LAN
+128.40.238.245  255.255.255.0   # Rayne Institute
+128.40.239.245  255.255.255.0   # Dept of Medicine
+128.40.240.245  255.255.255.0   # Psychiatry LAN
+128.40.243.245  255.255.255.0   # Surgery and Cluster
+128.40.244.245  255.255.255.0   # ISD Staff Office
+128.40.245.245  255.255.255.0   # Oncology
+128.40.246.245  255.255.255.0   # Immunology and Molecular Pathology
+128.40.247.245  255.255.255.0   # Virology
+128.40.248.245  255.255.255.0   # Institute of Laryngology & Otology - Grays Inn Road
+128.40.249.245  255.255.255.0   # Bacteriology
+128.40.250.245  255.255.255.0   # Histopathology
+128.40.251.245  255.255.255.0   # Department of Surgery (Riding House Street) LAN
+128.40.252.245  255.255.255.0   # Education & Professional Development (EPD)
+128.40.254.245  255.255.255.0   # ICN LAN
+128.40.255.1    255.255.255.252 # Link to FWSM (PIX blade)
+128.40.255.5    255.255.255.252 # Link to MRC Mortimer Market
+128.40.255.9    255.255.255.252 # Link to James Lighthill House Router
+128.40.255.10   255.255.255.252 # Link to UCL Gower Place
+128.40.255.13   255.255.255.252 # Link to cisco-wh (Wolfson House)
+128.40.255.14   255.255.255.252 # Link to KLB-Core
+128.40.255.17   255.255.255.252 # Link to Jackson Institute (5 Gower Street)
+128.40.255.18   255.255.255.252 # Link to Gower Place
+128.40.255.21   255.255.255.252 # Link to Royal Institution
+128.40.255.25   255.255.255.252 # VPN Concentrator (cisco-dev-3000) Private Interface
+128.40.255.26   255.255.255.252 # Link to UCL Kathleen Lonsdale Building
+128.40.255.29   255.255.255.252 # Link to 140 Hampstead Road
+128.40.255.30   255.255.255.252 # Link to cisco-ucl-f
+128.40.255.34   255.255.255.252 # Link to cisco-wt-5500
+128.40.255.37   255.255.255.252 # Link to Mill Hill Observatory
+128.40.255.38   255.255.255.252 # Link to UCL Kathleen Lonsdale Building
+128.40.255.41   255.255.255.252 # Link to tunnel router (2514)
+128.40.255.42   255.255.255.252 # Link to University of London Observatory (Mill Hill)
+128.40.255.45   255.255.255.252 # The Jill Dando Institute
+128.40.255.46   255.255.255.252 # Link to UCL KLB (2MB)
+128.40.255.49   255.255.255.252 # Backup Link to Torrington Place
+128.40.255.50   255.255.255.252 # Link to UCL KLB
+128.40.255.53   255.255.255.252 # Link to Torrington Place (10MBit/s)
+128.40.255.57   255.255.255.252 # Link to ucl-wt-arch router (for link to KLB via ATM LANE Backbone)
+128.40.255.58   255.255.255.252 # Link to ucl-wt-gnb router (for 2Mbps fall-back to KLB)
+128.40.255.65   255.255.255.252 # Link to Schafer House Router (cisco-ucl-sh)
+128.40.255.66   255.255.255.252 # Link to UCL Gower Place
+128.40.255.69   255.255.255.252 # 2Mb Link to Stanmore
+128.40.255.70   255.255.255.252 # Link to cisco-ucl-f
+128.40.255.73   255.255.255.252 # Link to Max Rayne
+128.40.255.74   255.255.255.252 # Link to cisco-ucl-f
+128.40.255.77   255.255.255.252 # Laboratory of Neurobiology (Professor Zeki)
+128.40.255.78   255.255.255.252 # Link to Malet Place router
+128.40.255.81   255.255.255.252 # Link to Goldsmid House router
+128.40.255.82   255.255.255.252 # Link to cisco-f
+128.40.255.85   255.255.255.252 # 2Mbps Link to Belnor House Router
+128.40.255.86   255.255.255.252 # Link to UCL-KLB
+128.40.255.89   255.255.255.252 # Link to UCL KLB SLB 7200
+128.40.255.90   255.255.255.252 # 10Mbps Link to KLB via WAN Fibre
+128.40.255.93   255.255.255.252 # Link to cisco-sequent
+128.40.255.97   255.255.255.252 # link to John Dodgson House Router
+128.40.255.98   255.255.255.252 # Link to UCL Gower Place
+128.40.255.101  255.255.255.252 # Link to MSSL Dorking (via 4700 cisco-tp-mssl)
+128.40.255.102  255.255.255.252 # Link to cisco-ucl-tp
+128.40.255.109  255.255.255.252 # Link to Ludwig Institute for Cancer Research LAN (firewalled)
+128.40.255.122  255.255.255.252 # Fallback link to KLB (cisco-ucl-f, 10Mbps)
+128.40.255.125  255.255.255.252 # Link to cisco-e
+128.40.255.133  255.255.255.252 # Link to cisco-ucl-tp
+128.40.255.134  255.255.255.252 # Link to cisco-tp-2514
+128.40.255.137  255.255.255.252 # Link to RFHSM
+128.40.255.138  255.255.255.252 # Link to klb-core
+128.40.255.141  255.255.255.252 # link to Cat5k Supervisor (cisco-esw-wt)
+128.40.255.145  255.255.255.252 # Link to MSSL (cisco-mssl)
+128.40.255.146  255.255.255.252 # Link to KLB (cisco-klb-mssl)
+128.40.255.149  255.255.255.252 # Link to Remax House Router
+128.40.255.150  255.255.255.252 # 
+128.40.255.153  255.255.255.252 # Link to cisco-h
+128.40.255.154  255.255.255.252 # Link to UCL KLB Core router
+128.40.255.157  255.255.255.252 # Infra-Red Link to Remax Hse. (100Mbps)
+128.40.255.158  255.255.255.252 # Infra-Red link to Engineering
+128.40.255.165  255.255.255.252 # Link to dialup-server-4
+128.40.255.169  255.255.255.252 # Link to Institute of Cognitive Neuroscience (ICN)
+128.40.255.170  255.255.255.252 # Link to UCL Bedford Way
+128.40.255.177  255.255.255.252 # Link to Institute of Cognitive Neuroscience (ICN) firewall
+128.40.255.181  255.255.255.252 # Link to IoO (via LES100)
+128.40.255.182  255.255.255.252 # Link to UCL KLB (100MB/s)
+128.40.255.197  255.255.255.252 # Link to stanmore (LES100)
+128.40.255.198  255.255.255.252 # LES100 Link to klb-core
+128.40.255.201  255.255.255.252 # Link to PIX 525 firewall
+128.40.255.202  255.255.255.252 # Link to UCL KLB (2MBit/s)
+128.40.255.206  255.255.255.252 # Link to PIX
+128.40.255.210  255.255.255.252 # Link to HoR PIX
+128.40.255.217  255.255.255.252 # Link to MBNG Firewall (cisco 2611)
+128.40.255.222  255.255.255.252 # Link to HoR PIX firewall
+128.40.255.229  255.255.255.252 # Link to WIBR firewall
+128.40.255.233  255.255.255.252 # Link to test4700
+128.40.255.237  255.255.255.252 # 
+128.40.255.242  255.255.255.252 # Link to UCL Foster Court router
+128.40.255.245  255.255.255.252 # Link to UCL FAS network (cisco-fas)
+128.40.255.246  255.255.255.252 # Link to UCL KLB router
+128.40.255.249  255.255.255.252 # link to cisco-f
+128.40.255.250  255.255.255.252 # Link to KLB Core
+128.40.255.253  255.255.255.252 # Link to UCL CERT Cisco 2514 IOSFW
+128.40.255.254  255.255.255.252 # Link to KLB Edge 6509 switch/router
+144.82.18.1     255.255.255.0   # Link to Birkbeck Gordon Square (cisco-bbk-gsq)
+144.82.25.245   255.255.255.0   # Birkbeck Chemistry (Gordon House)
+144.82.31.245   255.255.255.0   # Institute of Education
+144.82.41.245   255.255.255.0   # Main Building
+144.82.42.245   255.255.255.0   # X-Ray Wing (Great Ormond Street)
+144.82.46.245   255.255.255.0   # QSH Spine/Rockefeller Library/ION Admin/National Hospital Old Building (AVS)
+144.82.47.245   255.255.255.0   # ION 1 Wakefield St
+144.82.50.2     255.255.255.0   # Link to KLB (via MGS bridge and 2 Mbps link)
+144.82.51.245   255.255.255.0   # Eastman Dental Institute LAN
+144.82.54.245   255.255.255.0   # 
+144.82.60.245   255.255.255.0   # HCS & Library - Chandler Hse
+144.82.100.252  255.255.255.0   # UCL IS Services network
+144.82.100.253  255.255.255.0   # UCL IS Services network
+144.82.101.126  255.255.255.128 # Primary NT domain controller & file servers LAN
+144.82.101.254  255.255.255.128 # Backup NT domain controller & file server LAN
+144.82.102.126  255.255.255.128 # Primary NT Web Server domain controller LAN
+144.82.102.254  255.255.255.128 # Backup NT domain controller & file server LAN
+144.82.103.245  255.255.255.0   # UCL ISD NT Services network
+144.82.104.245  255.255.255.0   # Windows 2000 substrate install servers
+144.82.105.30   255.255.255.224 # Windows 2000 UCLUSERS Domain infrastructure KLB
+144.82.105.62   255.255.255.224 # 
+144.82.106.126  255.255.255.128 # Windows 2000 UCLUSERS Cluster WTS KLB
+144.82.106.254  255.255.255.128 # Windows 2000 UCLUSERS Cluster WTS
+144.82.107.126  255.255.255.128 # Windows 2000 UCLSTAFF WTS KLB
+144.82.107.254  255.255.255.128 # Windows 2000 UCLSTAFF WTS FC
+144.82.117.126  255.255.255.128 # ISD Systems Dev Lab
+144.82.117.245  255.255.255.0   # Cluster 17 - UCL Development Lab.
+144.82.117.254  255.255.255.128 # ISD Systems Dev Lab
+144.82.119.245  255.255.255.0   # Cluster 19 - Langton Close
+144.82.121.245  255.255.255.0   # Bartlett Wates House Cluster LAN
+144.82.122.245  255.255.255.0   # Cluster 22 (Bedford Way)
+144.82.123.245  255.255.255.0   # Cluster 23 LAN - Eastman Dental Institute
+144.82.124.245  255.255.255.0   # Cluster 24 - UCL Lewis's 1
+144.82.125.245  255.255.255.0   # Cluster 25 - UCL Lewis's 2
+144.82.126.245  255.255.255.0   # Cluster 26 - UCL Lewis's 3
+144.82.131.245  255.255.255.0   # Institute of Opthalmology LAN
+144.82.140.245  255.255.255.0   # Cluster 44 (Bedford Way, Ground Floor)
+144.82.147.245  255.255.255.0   # Chandler House Cluster (UCL47)
+144.82.193.254  255.255.254.0   # Camden site HoR Student Bedroom LAN
+144.82.197.254  255.255.254.0   # Ramsay Hall HoR Student Bedroom LAN
+144.82.201.254  255.255.254.0   # Langton House HoR Student Bedroom LAN
+144.82.205.254  255.255.254.0   # Schafer House HoR Student Bedroom LAN
+144.82.208.254  255.255.255.0   # Astor College  HoR Student Bedroom LAN
+144.82.210.254  255.255.255.0   # Hawkridge HoR Student Bedroom LAN 
+144.82.212.254  255.255.255.0   # John Dogson house HoR Student Bedroom LAN 
+144.82.214.254  255.255.255.0   # James Lighthill HoR Student Bedroom LAN
+144.82.216.126  255.255.255.128 # Prankerd House HoR Student Bedroom LAN
+144.82.216.254  255.255.255.128 # Campbell House West Student LAN
+144.82.218.254  255.255.255.0   # Goldsmid House HoR Stundent Bedroom LAN
+144.82.223.254  255.255.255.0   # Test HoR LAN
+144.82.255.1    255.255.255.252 # Link to LSHTM (10MB backup)
+144.82.255.5    255.255.255.252 # Link to LSHTM (10MBit/s)
+144.82.255.9    255.255.255.252 # Link to Wolfson Centre
+144.82.255.21   255.255.255.252 # Link to Birkbeck senate house(100mb backup)
+144.82.255.25   255.255.255.252 # 100Mbps Link to EDI
+144.82.255.26   255.255.255.252 # 100Mbps link to cisco-klb-core
+144.82.255.37   255.255.255.252 # Link to the Institute of Child Health(10mb)
+144.82.255.38   255.255.255.252 # Link to UCL KLB (100MB backup link)
+144.82.255.41   255.255.255.252 # Link to the Institute of Neurology(10mb)
+144.82.255.45   255.255.255.252 # Link to SOAS (10MB backup)
+144.82.255.49   255.255.255.252 # Link to SOAS (School of Oriental and African Studies)
+144.82.255.53   255.255.255.252 # Link to LSHTM, Taviton Street (cisco-lshtm-ts)
+144.82.255.73   255.255.255.252 # Link to Functional Imaging Laboratory (12 Queen Square) firewall
+144.82.255.77   255.255.255.252 # Link to IoE (Institute of Education)
+144.82.255.81   255.255.255.252 # Link to IOE (10MB backup)
+144.82.255.85   255.255.255.252 # GB Link to Institute of Neurology
+144.82.255.86   255.255.255.252 # Link to UCL Kathleen Lonsdale Building (KLB Core)
+144.82.255.89   255.255.255.252 # Link to Birkbeck College
+144.82.255.97   255.255.255.252 # Link to ICH
+144.82.255.98   255.255.255.252 # Link to KLB-Core
+144.82.255.113  255.255.255.252 # Link to Acterna Gig-E Analyser
+172.16.0.253    255.240.0.0     # LAN switch Management VLAN
+172.16.0.254    255.240.0.0     # LAN switch Management VLAN
+172.31.255.238  255.255.255.240 # Local Management Vlan994
+192.160.177.245 255.255.255.0   # RFHSM Academic Departments
+192.160.178.245 255.255.255.0   # RFHSM Academic Departments
+192.160.179.126 255.255.255.128 # RFHSM Central Services
+192.168.0.245   255.255.255.0   # Private VLAN for UCL CERT investigations
+192.168.10.245  255.255.255.0   # MSD Server Consolidation
+192.168.123.245 255.255.255.0   # HoR registration VLAN
+192.168.123.246 255.255.255.0   # 
+192.168.123.253 255.255.252.0   # HoR Registration vlan
+192.168.123.254 255.255.252.0   # HoR Registration vlan
+192.168.124.254 255.255.252.0   # Development HoR Registration vlan
+192.168.200.245 255.255.255.0   # Satchwell BEMS subnetwork (passive routing interface)
+193.60.224.245  255.255.255.0   # Birkbeck Geology
+193.60.225.30   255.255.255.240 # 
+193.60.225.46   255.255.255.240 # Biochemistry (Pilot)
+193.60.225.62   255.255.255.240 # MSD (pilot)
+193.60.225.94   255.255.255.240 # CS pilot test network
+193.60.225.110  255.255.255.240 # Physics KLB pilot
+193.60.225.126  255.255.255.240 # Physics (pilot)
+193.60.225.158  255.255.255.240 # IS Backup server(pilot)
+193.60.229.245  255.255.255.0   # Jackson Environment Institute LAN (5 Gower Street)
+193.60.230.245  255.255.255.0   # UCL Students Union
+193.60.231.245  255.255.255.0   # Langton Close Halls LAN
+193.60.232.245  255.255.255.0   # Bloomsbury Theatre Lan
+193.60.233.245  255.255.255.0   # Student Counselling Taviton Street
+193.60.239.245  255.255.255.0   # Cruciform Project LAN
+193.60.242.245  255.255.255.0   # Bursars Department (7th & 8th Floors)
+193.60.243.245  255.255.255.0   # Personnel Department LAN (9th/10th Floors)
+193.60.245.245  255.255.255.0   # Planning and Resources LAN (5th Floor)
+193.60.246.14   255.255.255.240 # Financial and Accounting Services (FAS) LAN
+193.60.246.30   255.255.255.240 # Financial and Accounting Services Disaster Recovery (FASDIS) LAN
+193.60.246.46   255.255.255.240 # LINK to test.adcom
+193.60.246.78   255.255.255.240 # New Finance LAN (1)
+193.60.246.94   255.255.255.224 # New Finance LAN (1/2 merged)
+193.60.246.110  255.255.255.240 # Famis - KLB
+193.60.246.126  255.255.255.240 # Famis - FC
+193.60.246.245  255.255.255.128 # UCL CERT LAN
+193.60.247.245  255.255.255.0   # Internal Audit
+193.60.248.245  255.255.255.0   # Medical School Administration
+193.60.249.245  255.255.255.0   # UCLi and UCLv
+193.60.253.30   255.255.255.224 # MMSCC Servers in KLB Machine Room
+193.60.253.94   255.255.255.224 # MMSCC 
+193.60.254.5    255.255.255.252 # University of London Union of Students (ULU)
+193.60.254.9    255.255.255.252 # Link to SSEES (cisco-ucl-ssees)
+193.60.254.13   255.255.255.252 # Link to Library Association & Institue for Fiscal Studies
+193.60.254.17   255.255.255.252 # Association of Commonwealth Universities
+193.60.254.33   255.255.255.252 # Link to Dillons the Bookstore
+193.60.254.37   255.255.255.252 # Link to The British Museum
+193.60.254.249  255.255.255.252 # Link to cisco-s
+193.60.254.250  255.255.255.252 # Link to Foster Court MAN Router
+193.60.254.253  255.255.255.252 # Link to cisco-s
+193.60.254.254  255.255.255.252 # link to KLB MAN router
+193.60.255.29   255.255.255.252 # Link to National Gallery (via 3524)
+193.60.255.33   255.255.255.252 # Link to SCIE (via 3524)
+193.60.255.53   255.255.255.252 # Link to Royal Astronomical Society (via 3524)
+193.60.255.57   255.255.255.252 # Link to Royal Institution (via 3524)
+193.60.255.61   255.255.255.252 # Link to Management VLAN on distribution 3524
+193.60.255.69   255.255.255.252 # Link to Institute of Zoology (& ZSL)
+193.62.67.126   255.255.255.128 # Prion Unit
+193.62.68.1     255.255.255.0   # 8-11 Queen Square LAN
+194.33.3.206    255.255.255.240 # 8 Hunter Street LAN (Hunter Health Centre)
+194.66.92.245   255.255.255.0   # School of Slavonic & East European Studies
+194.81.119.245  255.255.255.0   # EISAI London Research Laboratories Ltd
+194.82.242.245  255.255.255.0   # 43 Great Ormond Street LAN
+194.82.243.245  255.255.255.0   # Cardiac Wing (Great Ormond Street)
+194.82.244.245  255.255.255.0   # Province of Natal Building
+194.82.246.245  255.255.255.0   # Wellcome Trust Building
+194.82.247.245  255.255.255.0   # Natal2 LAN
+194.82.248.245  255.255.255.0   # Link to Great Ormond Street Hospital Computer Room
+194.83.101.6    255.255.255.252 # Link to ULCC (LMN2)
+194.83.101.66   255.255.255.252 # Link to LMN2 (100MB backup)
+195.194.4.66    255.255.255.192 # Link to UCLH (secondary connection)

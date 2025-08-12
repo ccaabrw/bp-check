@@ -1,0 +1,8 @@
+*** /tmp/d-Vabia	Mon Jun 23 14:47:38 2014
+--- /tmp/bp_check.auto.8126578	Mon Jun 23 14:47:38 2014
+***************
+*** 12,15 ****
+  HELP  128.40.117.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.118.126  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.121.254  -> 144.82.103.128  uclusers-slp1.uclusers

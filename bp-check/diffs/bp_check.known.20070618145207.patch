@@ -1,0 +1,27 @@
+*** /tmp/d-xecaa	Mon Jun 18 14:51:38 2007
+--- /tmp/bp_check.auto.635008	Mon Jun 18 14:51:38 2007
+***************
+*** 70,71 ****
+--- 70,73 ----
+  MAC   XXXXXXXXXXXX  laws-ws39.laws          128.40.66.29    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws46.laws          128.40.66.205   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws47.laws          128.40.66.206   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws48.laws          128.40.66.207   uclinst-gw22.uclinst
+***************
+*** 73,74 ****
+--- 75,77 ----
+  MAC   XXXXXXXXXXXX  laws-ws50.laws          128.40.66.209   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws51.laws          128.40.66.210   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws52.laws          128.40.66.211   uclinst-gw22.uclinst
+***************
+*** 237,238 ****
+--- 240,242 ----
+  HELP  128.40.154.126  -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  128.40.154.142  -> 144.82.103.3    uclclust-lp3.uclclust
+  HELP  128.40.154.142  -> 144.82.104.22   uclinst-gw22.uclinst
+***************
+*** 317,319 ****
+  HELP  128.40.184.94   -> 144.82.104.15   uclinst-gw15.uclinst
+- HELP  128.40.186.126  -> 144.82.103.3    uclclust-lp3.uclclust
+  HELP  128.40.186.126  -> 144.82.104.3    uclinst-gw3.uclinst
+--- 321,322 ----

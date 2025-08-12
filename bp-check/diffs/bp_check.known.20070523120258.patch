@@ -1,0 +1,20 @@
+*** -	2007-05-23 12:00:18.179622603 +0100
+--- /tmp/bp_check.auto.24559	2007-05-23 12:00:17.000000000 +0100
+***************
+*** 1 ****
+--- 1,5 ----
++ NAME  olc-wsmy1.olc           <not in DNS>    XXXXXXXXXXXX  uclinst-gw20.uclinst
++ NAME  pc-19.stan              <not in DNS>    001617A3CFCA  uclinst-gw19.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 116,117 ****
+--- 120,122 ----
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
++ MAC   XXXXXXXXXXXX  olc-wsmy1.olc           <not in DNS>    uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+***************
+*** 433,434 ****
+--- 438,440 ----
+  HELP  128.40.37.110   -> 144.82.103.131  uclusers-slp4.uclusers
++ HELP  128.40.37.110   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.37.174   -> 144.82.104.17   uclinst-gw17.uclinst

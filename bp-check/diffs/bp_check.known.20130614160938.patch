@@ -1,0 +1,8 @@
+*** /tmp/dBX3eMa	Fri Jun 14 16:09:32 2013
+--- /tmp/bp_check.auto.741610	Fri Jun 14 16:09:32 2013
+***************
+*** 19,20 ****
+--- 19,21 ----
+  HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  128.40.121.254  -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.127.245  -> 144.82.103.1    uclclust-lp1.uclclust

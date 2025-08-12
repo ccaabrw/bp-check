@@ -1,0 +1,8 @@
+*** /tmp/d4ziaaa	Mon Apr 16 11:23:15 2007
+--- /tmp/bp_check.auto.1830944	Mon Apr 16 11:23:15 2007
+***************
+*** 78,79 ****
+--- 78,80 ----
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  med-ws52.med            128.40.253.228  uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  npsa.ccrm               128.40.37.186   uclusers-slp4.uclusers

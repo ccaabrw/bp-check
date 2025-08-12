@@ -1,0 +1,11 @@
+*** /tmp/djvypia	Tue Oct 24 10:42:15 2006
+--- /tmp/bp_check.auto.1364158	Tue Oct 24 10:42:15 2006
+***************
+*** 144,145 ****
+--- 145,150 ----
+  MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.156.78   uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  ucl28-ws125.ucl28       128.40.128.205  uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  ucl28-ws57.ucl28        128.40.128.137  uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  ucl28-ws58.ucl28        128.40.128.138  uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  ucl28-ws59.ucl28        128.40.128.139  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst

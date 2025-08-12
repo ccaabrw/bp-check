@@ -1,0 +1,8 @@
+*** /tmp/dDn7mqa	Wed Feb  9 17:30:07 2011
+--- /tmp/bp_check.auto.942112	Wed Feb  9 17:30:07 2011
+***************
+*** 278,279 ****
+--- 278,280 ----
+  HELP  128.40.37.254   -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.37.254   -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.37.30    -> 144.82.103.2    uclclust-lp2.uclclust

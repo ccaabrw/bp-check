@@ -1,0 +1,15 @@
+*** /tmp/dAgYcEa	Fri Oct 27 10:11:42 2006
+--- /tmp/bp_check.auto.1069170	Fri Oct 27 10:11:42 2006
+***************
+*** 152,155 ****
+  MAC   XXXXXXXXXXXX  ucl20-ws3.ucl20         128.40.161.227  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws34.ucl20        <not in DNS>    uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl20-ws35.ucl20        <not in DNS>    uclinst-gw12.uclinst
+  MAC   XXXXXXXXXXXX  ucl20-ws4.ucl20         128.40.161.228  uclinst-gw12.uclinst
+--- 154,155 ----
+***************
+*** 268,270 ****
+  HELP  128.40.154.78   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.156.126  -> 144.82.104.12   uclinst-gw12.uclinst
+  HELP  128.40.156.62   -> 144.82.100.187  cbds-a.ucl0
+--- 268,269 ----

@@ -1,0 +1,20 @@
+*** /tmp/duomhya	Wed Nov 29 17:47:10 2006
+--- /tmp/bp_check.auto.614500	Wed Nov 29 17:47:10 2006
+***************
+*** 18,20 ****
+  MAC   XXXXXXXXXXXX  anat-ws34.anat          128.40.152.168  uclinst-gw15.uclinst
+- MAC   XXXXXXXXXXXX  arch-ws77.arch          128.40.195.21   uclinst-gw11.uclinst
+  MAC   XXXXXXXXXXXX  arts-ws48.arts          128.40.29.148   uclinst-gw23.uclinst
+--- 18,19 ----
+***************
+*** 63,64 ****
+--- 62,64 ----
+  MAC   XXXXXXXXXXXX  iseisd-ws136.is-eisd    128.40.222.86   uclinst-gw20.uclinst
++ MAC   XXXXXXXXXXXX  iseisd-ws197.is-eisd    128.40.222.147  uclinst-gw1.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws20.is-eisd     128.40.223.132  uclinst-gw1.uclinst
+***************
+*** 80,81 ****
+--- 80,82 ----
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  maps-ws6.maps           128.40.154.188  uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst

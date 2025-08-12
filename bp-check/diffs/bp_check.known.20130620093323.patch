@@ -1,0 +1,8 @@
+*** /tmp/dqoAo7a	Thu Jun 20 09:33:10 2013
+--- /tmp/bp_check.auto.688128	Thu Jun 20 09:33:10 2013
+***************
+*** 303,304 ****
+--- 303,305 ----
+  HELP  128.40.47.230   -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.47.238   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.47.246   -> 144.82.103.4    uclclust-lp4.uclclust

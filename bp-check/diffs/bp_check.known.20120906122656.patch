@@ -1,0 +1,8 @@
+*** /tmp/dhzAjqa	Thu Sep  6 12:26:27 2012
+--- /tmp/bp_check.auto.868438	Thu Sep  6 12:26:27 2012
+***************
+*** 287,288 ****
+--- 304,306 ----
+  HELP  128.40.47.158   -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  128.40.47.222   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.47.230   -> 144.82.104.10   uclinst-gw10.uclinst

@@ -1,0 +1,8 @@
+*** /tmp/dt5Alia	Tue Sep 12 11:03:08 2006
+--- /tmp/bp_check.auto.966828	Tue Sep 12 11:03:08 2006
+***************
+*** 153,154 ****
+--- 153,155 ----
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
++ MAC   XXXXXXXXXXXX  npsu.med                128.40.68.50    uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst

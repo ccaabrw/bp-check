@@ -1,0 +1,8 @@
+*** /tmp/dXPMpya	Fri Aug  7 13:16:13 2009
+--- /tmp/bp_check.auto.241772	Fri Aug  7 13:16:13 2009
+***************
+*** 50,51 ****
+--- 50,52 ----
+  HELP  128.40.142.30   -> 144.82.104.5    uclinst-gw5.uclinst
++ HELP  128.40.142.62   -> 144.82.103.2    uclclust-lp2.uclclust
+  HELP  128.40.142.62   -> 144.82.104.5    uclinst-gw5.uclinst

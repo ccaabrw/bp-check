@@ -1,0 +1,613 @@
+#!/usr/bin/perl
+
+# bp_check.pl	Bri	Aug02
+#
+# Check active bootptab files for consistency and extract information about helpers
+# Adapted from an original idea by MAD's procbootptabs.pl script   ;-)
+#
+# 31Aug02 Added 'data' option to produce output suitable for automatic parsing (by diff)
+# 01Oct02 Entries with no DNS record get a listing too
+# 13Oct02 Started to incorporate dhcpd.conf - NB: Still work in progress
+# 18Mar03 Added support for 'newdos' details (no dhcp info for this yet)
+# 03Apr03 Made a copy in ~ccsposg for the masses to use
+# 15Apr04 Added a check for dodgy MAC addresses (wrong length or bad chars)
+# 09Dec04 Ignore 'template' entries in bootptab (eg: .pix:....)
+# 28Apr05 Now checks that IP addr and gateway are in same subnet (bootptab data only at present)
+# 29Nov05 New options to generate list of newdos images and servers holding them
+#	  (part of netboot infrastructure - does not ignore template entries)
+# 06Dec05 Amended to use 'expandbootp' to allow for netboot templates
+# 29Jun07 The 'dummy' MAC address is no longer considered in the automated list of duplicates
+#	  (to prevent confusion when people apply patches to bp_check.known)
+#
+# TODO:
+# Incorporate dhcpd.conf data
+# Automatic stuff done in perl not script
+# Add comments, tidy code
+#
+
+use POSIX qw(strftime);
+
+$no_name = "<not in DNS>";
+$rotor = 0;
+
+if ($ARGV[0] eq "data") {
+    $nice_output = 0;
+    $data_output = 1;
+} elsif ($ARGV[0] eq "server") {
+    $nice_output = 1;
+    $data_output = 0;
+    $nice_all = 0;
+    $nice_image = 0;
+    $nice_server = 1;
+    $nice_help = 0;
+} elsif ($ARGV[0] eq "served") {
+    $nice_output = 0;
+    $data_output = 1;
+    $data_server = 1;
+} elsif ($ARGV[0] eq "image") {
+    $nice_output = 1;
+    $data_output = 0;
+    $nice_all = 0;
+    $nice_image = 1;
+    $nice_server = 0;
+    $nice_help = 0;
+} elsif ($ARGV[0] eq "help") {
+    $nice_output = 1;
+    $data_output = 0;
+    $nice_all = 0;
+    $nice_image = 0;
+    $nice_server = 0;
+    $nice_help = 1;
+} else {
+    $nice_output = 1;
+    $data_output = 0;
+    $nice_all = 1;
+    $nice_image = 1;
+    $nice_server = 1;
+    $nice_help = 1;
+}
+
+get_data("/nfs/rcs/sysadmin/clusters", "/nfs/rcs/sysadmin/platforms");
+#get_data("clusters", "platforms");
+
+if ($nice_output) {
+    print_nice();
+}
+if ($data_output) {
+    print_data();
+}
+
+log_usage();
+
+exit 0;
+
+
+
+
+sub print_nice {
+
+    if ($nice_all) {
+
+        print "Entries with no DNS record :\n\n";
+        foreach $host (sort keys %info) {
+            if ($info{$host}{ipaddr} eq $no_name) {
+                printf("%-24s%-16s%-14s%s\n", $host, $no_name, $info{$host}{ha}, $info{$host}{server});
+            }
+        }
+        print "\n\f";
+
+        print "Duplicate Host entries :\n\n";
+        foreach $host (sort keys %host_name) {
+            if (@{$host_name{$host}} > 1) {
+	        printf("%-24s", $host);
+	        $tab = "";
+	        foreach $entry (sort @{$host_name{$host}}) {
+	            print "$tab$entry\n";
+	            $tab = "\t\t\t";
+	        }
+            }
+        }
+        print "\n\f";
+
+        print "Duplicate MAC addresses :\n\n";
+        foreach $addr (sort keys %hw_addr) {
+            if (@{$hw_addr{$addr}} > 1) {
+	        print "$addr :\t";
+	        $tab = "";
+	        foreach $mach (sort @{$hw_addr{$addr}}) {
+	            print "$tab$mach\n";
+	            $tab = "\t\t";
+	        }
+            }
+        }
+        print "\n\f";
+
+        print "Dodgy MAC addresses :\n\n";
+        foreach $addr (sort keys %hw_addr) {
+            $len = length($addr);
+            ($chg = $addr) =~ tr/0123456789ABCDEF/X/;
+            if ($len != 12 || $chg ne "XXXXXXXXXXXX") {
+	        print "$addr :\t";
+	        $tab = "";
+	        foreach $mach (sort @{$hw_addr{$addr}}) {
+	            print "$tab$mach\n";
+	            $tab = "\t\t";
+	        }
+            }
+        }
+        print "\n\f";
+
+        print "Subnet mismatch :\n\n";
+        foreach $host (sort keys %netinfo) {
+            if ($info{$host}{ipaddr} ne $no_name) {
+                foreach $entry (sort @{$netinfo{$host}}) {
+	            ($ip, $gw, $sm) = unpack("A16A16A16", $entry);
+	            $ip =~ s/\s//;
+	            $gw =~ s/\s//;
+	            $sm =~ s/\s//;
+	            ($ip1,$ip2,$ip3,$ip4) = split(/\./, $ip);
+	            ($gw1,$gw2,$gw3,$gw4) = split(/\./, $gw);
+	            ($sm1,$sm2,$sm3,$sm4) = split(/\./, $sm);
+
+	            $res = (int($ip1) & int($sm1)) - (int($gw1) & int($sm1))
+	                 + (int($ip2) & int($sm2)) - (int($gw2) & int($sm2))
+	                 + (int($ip3) & int($sm3)) - (int($gw3) & int($sm3))
+	                 + (int($ip4) & int($sm4)) - (int($gw4) & int($sm4));
+
+	            if ($res != 0) {
+	                printf("%-24s%s\n", $host, $entry);
+	            }
+                }
+            }
+        }
+        print "\n\f";
+
+    }
+
+    if ($nice_image) {
+
+        print "Numbers of substrate images referenced :\n\n";
+
+        foreach $image (sort keys %subimage) {
+	    printf("%-24s%u\n", $image, $subimage{$image});
+        }
+        print "\f";
+
+    }
+
+    if ($nice_server) {
+
+	print "Images served :\n\n";
+
+	foreach $sv (sort keys %served) {
+	    printf("%-15s\t", $sv);
+	    $tab = "";
+	    foreach $sv_img (sort keys %{$served{$sv}}) {
+		printf("%s%-24s%u\n", $tab, $sv_img, $served{$sv}{$sv_img});
+		$tab = "\t\t\t";
+	    }
+	}
+	print "\f";
+
+    }
+
+    if ($nice_help) {
+
+        print "Gateway helper addresses :\n\n";
+        foreach $gw_ip (sort keys %helpers) {
+            printf("%-15s ->\t", $gw_ip);
+            $tab = "";
+            foreach $gw_svip (sort keys %{$helpers{$gw_ip}}) {
+	        printf("%s%-16s%s\n", $tab, $gw_svip, $helpers{$gw_ip}{$gw_svip});
+	        $tab = "\t\t\t";
+            }
+        }
+
+    }
+
+}
+
+sub print_data {
+
+    if (!$data_server) {
+        foreach $host (sort keys %info) {
+            if ($info{$host}{ipaddr} eq $no_name) {
+	        printf("NAME  %-24s%-16s%-14s%s\n", $host, $no_name, $info{$host}{ha}, $info{$host}{server});
+            }
+        }
+
+        foreach $host (sort keys %host_name) {
+            if (@{$host_name{$host}} > 1) {
+	        foreach $entry (sort @{$host_name{$host}}) {
+                    printf("HOST  %-24s%s\n", $host, $entry);
+	        }
+            }
+        }
+
+        foreach $addr (sort keys %hw_addr) {
+            if ($addr ne "XXXXXXXXXXXX" && @{$hw_addr{$addr}} > 1) {
+	        foreach $mach (sort @{$hw_addr{$addr}}) {
+                    printf("MAC   %-14s%s\n", $addr, $mach);
+	        }
+            }
+        }
+
+        foreach $addr (sort keys %hw_addr) {
+            $len = length($addr);
+            ($chg = $addr) =~ tr/0123456789ABCDEF/X/;
+            if ($len != 12 || $chg ne "XXXXXXXXXXXX") {
+	        foreach $mach (sort @{$hw_addr{$addr}}) {
+                    printf("MAC?  %-14s%s\n", $addr, $mach);
+	        }
+            }
+        }
+
+        foreach $gw_ip (sort keys %helpers) {
+            foreach $gw_svip (sort keys %{$helpers{$gw_ip}}) {
+	        printf("HELP  %-16s-> %-16s%s\n", $gw_ip, $gw_svip, $helpers{$gw_ip}{$gw_svip});
+            }
+        }
+
+        foreach $host (sort keys %netinfo) {
+            if ($info{$host}{ipaddr} ne $no_name) {
+                foreach $entry (sort @{$netinfo{$host}}) {
+	            ($ip, $gw, $sm) = unpack("A16A16A16", $entry);
+	            $ip =~ s/\s//;
+	            $gw =~ s/\s//;
+	            $sm =~ s/\s//;
+	            ($ip1,$ip2,$ip3,$ip4) = split(/\./, $ip);
+	            ($gw1,$gw2,$gw3,$gw4) = split(/\./, $gw);
+	            ($sm1,$sm2,$sm3,$sm4) = split(/\./, $sm);
+
+	            $res = (int($ip1) & int($sm1)) - (int($gw1) & int($sm1))
+	                 + (int($ip2) & int($sm2)) - (int($gw2) & int($sm2))
+	                 + (int($ip3) & int($sm3)) - (int($gw3) & int($sm3))
+	                 + (int($ip4) & int($sm4)) - (int($gw4) & int($sm4));
+
+	            if ($res != 0) {
+	                printf("NET?  %-24s%s\n", $host, $entry);
+	            }
+                }
+            }
+        }
+
+    } elsif ($data_server) {
+
+	foreach $sv (sort keys %served) {
+	    foreach $sv_img (sort keys %{$served{$sv}}) {
+		printf("%-24s%-24s%u\n", $sv, $sv_img, $served{$sv}{$sv_img});
+	    }
+	}
+	
+    }
+
+}
+
+
+sub get_data {
+    my($clusters,$platform);
+
+    $clusters = $_[0];
+    $platform = $_[1];
+
+     print STDERR "Processing ";
+    open(CLUSTERS,"$clusters") || die("Could not open clusters");
+    while($icluster = <CLUSTERS>) {
+        chomp($icluster);
+        open(PLATFORM,"$platform") || die("Could not open platform");
+
+        while($iplatform = <PLATFORM>) {
+ 	    print STDERR "-";
+          chomp($iplatform);
+
+	    next if ($icluster =~ /^c[01234]/);
+
+	    if (-d "/nfs/rcs/sysadmin/$icluster/$iplatform") {
+
+	      $splatform = $iplatform;
+	      if ($splatform eq "rs6.cs") {
+		  $splatform = "s1";
+	      } else {
+		  $splatform =~ s/^r(s)6-svr-(.*)/$1$2/;
+		  $splatform =~ s/^(agw)-(.*)/$1$2/;
+	      }
+	      $server = $splatform . "." . $icluster;
+
+	      $server_ip = join(".",unpack("C4",(gethostbyname("$server"))[4]));
+	      if ($server_ip eq "") {
+	         $server_ip = $no_name;
+	      }
+	
+              if ( -r "/nfs/rcs/sysadmin/$icluster/$iplatform/bootptab") {
+                 proc_file("/nfs/rcs/sysadmin/$icluster/$iplatform/bootptab");
+              }
+
+              if ( -r "/nfs/rcs/sysadmin/$icluster/$iplatform/dhcpd.conf") {
+                 proc_dhcp("/nfs/rcs/sysadmin/$icluster/$iplatform/dhcpd.conf");
+              }
+	    }
+        }
+
+        close(PLATFORM) || die("Problem with platform");
+    }
+    close(CLUSTERS);
+     print STDERR "\n";
+}
+
+sub rotator {
+    $rotor++;
+    if ($rotor == 1) {
+	return("\b\\");
+    } elsif ($rotor == 2) {
+	return("\b\|");
+    } elsif ($rotor == 3) {
+	return("\b\/");
+    } else {
+	$rotor = 0;
+	return("\b\-");
+    }
+}
+
+sub proc_file {
+
+    @filedata = `/nfs/rcs/sysadmin/tools/expandbootp $_[0]`;
+
+ print STDERR "\n$_[0]\t";
+    foreach (@filedata) {
+ print STDERR &rotator;
+	chomp ($_);
+
+        next if (/^#/);             #
+        next if (/^$/);             # Skip uninteresting lines
+	next if (/^hp2300a.ether/); #
+
+	if (/^\./) {		    # 'template' entries are special case for netboot images
+
+	    @parms = split(/:/,$_);
+	    foreach $parm ( @parms ) {
+	        ($key, $val) = split(/=/, $parm);
+	        if ($key =~ /hd/) {
+		    @list = reverse(split("/", $val));
+		    if ($list[0] && $list[0] !~ /tftpboot/) {
+		        $val = "newdos/" . $list[0];
+		        $subimage{$val}++;
+		        $served{$server}{$val}++;
+		    }
+	        }
+	    }
+	    next;
+	}
+
+
+        ($host) = split(/:/,$_);
+print STDERR "$host\n";
+
+	$info{$host}{server} = $server;
+
+	$ipaddr = join(".",unpack("C4",(gethostbyname("$host"))[4]));
+	if ($ipaddr eq "") {
+	    $ipaddr = $no_name;
+print STDERR "NoName\n";
+	}
+	$info{$host}{ipaddr} = $ipaddr;
+
+	
+	@parms = split(/:/,$_);
+
+	foreach $parm ( @parms ) {
+	    ($key, $val) = split(/=/, $parm);
+
+	    if ($key eq "ha") {
+		$val = uc $val;
+		push @{$hw_addr{$val}}, sprintf("%-24s%-16s%s", $host, $ipaddr, $server);
+	    }
+
+	    $info{$host}{$key} = $val;
+
+	    if ($key =~ /T155/) {
+		$val =~ s/\"//g;
+		@list = reverse(split("/", $val));
+		$val = $list[0] . "/" . $list[1];
+		$subimage{$val}++;
+	    }	
+
+	    if ($key =~ /hd/) {
+		@list = reverse(split("/", $val));
+		if ($list[0] && $list[0] !~ /tftpboot/) {
+		    $val = "newdos/" . $list[0];
+		    $subimage{$val}++;
+		    $served{$server}{$val}++;
+		}
+	    }
+
+	    if ($key =~ /T151/) {
+		$val =~ s/\"//g;
+		$patchfile{$val}++;
+	    }
+
+	    if ($key eq "gw") {
+		$helpers{$val}{$server_ip} = $server;
+	    }
+
+	}
+	push @{$host_name{$host}}, sprintf("%-16s%-14s%s", $ipaddr, uc $info{$host}{ha}, $server);
+	push @{$netinfo{$host}}, sprintf("%-16s%-16s%-16s%s", $ipaddr, $info{$host}{gw}, $info{$host}{sm}, $server);
+    }
+
+}
+
+sub log_usage() {
+	open(LOGFILE,">>/home/ccsposg/bp_check/bp_check.log");
+	$hostname = `/nfs/rcs/sysadmin/tools/sname`;
+	chomp ($hostname);
+	$username = `whoami`;
+	chomp ($username);
+	if ($username eq "") {
+		$username = `echo $user`;
+		chomp ($username);
+	}
+	$now = strftime ("%d%b%y %H:%M", localtime);
+	printf LOGFILE ("%-16s%-12s%-16s%s\n", $hostname, $username, $now, $ARGV[0]);
+#	if ($nice_output) {
+#		print LOGFILE "nice";
+#	} elsif ($data_output) {
+#		print LOGFILE "data";
+#	}
+#	print LOGFILE "\n";
+	close (LOGFILE);
+}
+
+sub proc_dhcp() {
+    my ($dhcp_hn);
+
+    open (FILE, $_[0]);
+
+ print STDERR "\n$_[0]\t";
+    while ($line = <FILE>) {
+ 	print STDERR &rotator;
+	chomp ($line);
+	while ($line) {
+		if ($line =~ /^\s*(\S+)(.*)/) {
+			$tok = $1;
+			$line = $2;
+			while ($tok) {
+				if ($tok =~ /^#/) {
+					$tok = "";
+					$line = "";
+				} elsif ($tok =~ /(\S*)([\;\{\}])(.*)/) {
+					push @list, $1 if $1;
+					push @list, $2;
+					$tok = $3;
+				} else {
+					push @list, $tok;
+					$tok = "";
+				}
+			}
+		} else {
+			$line = "";
+		}
+	}
+    }
+
+    close (FILE);
+
+    $flag = 1;
+    while (@list) {
+	$line = shift @list;
+	if ($flag == 1) {
+		if ($line eq "subnet") {
+			$flag = 2;
+			$sn_ip = shift @list;
+			$sn_nm = undef;
+			$sn_gw = undef;
+		} elsif ($line eq "host") {
+			$flag = 3;
+			$hn_nm = shift @list;
+			$hn_ha = undef;
+			$hn_ad = undef;
+		} else {
+			$flag = 0;
+		}
+		$brace = 0;
+	} elsif ($flag == 2) {
+		if ($line eq "netmask") {
+			$sn_nm = shift @list;
+		} elsif ($line eq "routers") {
+			$sn_gw = shift @list;
+		}
+	} elsif ($flag == 3) {
+		if ($line eq "hardware" && $list[0] eq "ethernet") {
+			shift (@list);
+			$hn_ha = shift @list;
+		} elsif ($line eq "fixed-address") {
+			$hn_ad = shift @list;
+		} elsif ($line eq "option" && $list[0] eq "option-135") {
+			shift (@list);
+			$hn_im = shift @list;
+		}
+	}
+	
+	next if ($flag == 0 && $line !~ /[\{\;\}]/);
+
+	if ($line eq "{" && $flag >= 2) {
+		$brace++;
+	}
+	if ($line eq "}") {
+		$brace--;
+	}
+	if ($line =~ /[\;\}]/ && $brace <= 0) {
+		if ($flag == 2) {
+			$dhcp_sn{$sn_gw}{ip} = $sn_ip;
+			$dhcp_sn{$sn_gw}{nm} = $sn_nm;
+		} elsif ($flag == 3) {
+			$dhcp_hn{$hn_ad}{nm} = $hn_nm;
+			$dhcp_hn{$hn_ad}{ha} = $hn_ha;
+			$dhcp_hn{$hn_ad}{im} = $hn_im;
+		}
+		$flag = 1;
+	}
+    }
+
+
+
+    foreach $host (keys %dhcp_hn) {
+
+	#($h_sname, $h_ha, $h_im) = $dhcp_hn{$host};
+
+	$info{$host}{server} = $server;
+
+	$ipaddr = join(".",unpack("C4",(gethostbyname("$host"))[4]));
+	if ($ipaddr eq "") {
+	    $ipaddr = $no_name;
+	}
+	$info{$host}{ipaddr} = $ipaddr;
+
+	$val = uc mangle_hw ($dhcp_hn{$host}{ha});
+	$info{$host}{ha} = $val;
+	push @{$hw_addr{$val}}, sprintf("%-24s%-16s%s", $host, $ipaddr, $server);
+
+	$val = $dhcp_hn{$host}{im};
+	$val =~ s/\"//g;
+	@list = reverse(split("/", $val));
+	$val = $list[0] . "/" . $list[1];
+	$subimage{$val}++;
+
+	$val = check_sn($ipaddr);
+	$helpers{$val}{$server_ip} = $server;
+
+	push @{$host_name{$host}}, sprintf("%-16s%-14s%s", $ipaddr, uc $info{$host}{ha}, $server);
+
+        delete $dhcp_hn{$host};
+    }
+}
+
+sub mangle_hw {
+    my (@hw);
+
+    @hw = ("00","00","00","00","00","00");
+    @hw = reverse(split(/:/, $_[0]));
+    foreach (@hw) {
+	if (length($_) < 2) {
+	    $_ = "0" . $_;
+	}
+    }
+    return join("", reverse(@hw));
+}
+    
+sub check_sn {
+
+	@calc_ip = split(/\./, $_[0]);
+	$num_ip = ((($calc_ip[0] << 8) + $calc_ip[1] << 8) + $calc_ip[2] << 8) + $calc_ip[3];
+	foreach $dhcp_gw (keys %dhcp_sn) {
+
+		@calc_ip = split(/\./, $dhcp_sn{$dhcp_gw}{ip});
+		$nchk_ip = ((($calc_ip[0] << 8) + $calc_ip[1] << 8) + $calc_ip[2] << 8) + $calc_ip[3];
+		@calc_ip = split(/\./, $dhcp_sn{$dhcp_gw}{nm});
+		$nchk_sn = ((($calc_ip[0] << 8) + $calc_ip[1] << 8) + $calc_ip[2] << 8) + $calc_ip[3];
+		if ((($nchk_ip ^ $num_ip) & $nchk_sn) == 0) {
+			return $dhcp_gw;
+		}
+	}
+	return "<no gateway>";
+}
+

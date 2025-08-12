@@ -1,0 +1,19 @@
+*** /tmp/dVLQj7a	Wed Jun  6 11:49:03 2007
+--- /tmp/bp_check.auto.1175632	Wed Jun  6 11:49:03 2007
+***************
+*** 66,69 ****
+  MAC   XXXXXXXXXXXX  iseisd-ws33.is-eisd     128.40.223.134  uclinst-gw1.uclinst
+! MAC   XXXXXXXXXXXX  isloan-ws1.isloan       128.40.211.133  uclinst-gw10.uclinst
+! MAC   XXXXXXXXXXXX  isloan-ws2.isloan       128.40.89.58    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  isloan-ws3.isloan       128.40.89.59    uclinst-gw22.uclinst
+--- 66,69 ----
+  MAC   XXXXXXXXXXXX  iseisd-ws33.is-eisd     128.40.223.134  uclinst-gw1.uclinst
+! MAC   XXXXXXXXXXXX  isloan-ws1.isloan       128.40.154.136  uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  isloan-ws2.isloan       128.40.154.137  uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  isloan-ws3.isloan       128.40.89.59    uclinst-gw22.uclinst
+***************
+*** 230,231 ****
+--- 230,232 ----
+  HELP  128.40.154.126  -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  128.40.154.142  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.154.158  -> 144.82.103.129  uclusers-slp2.uclusers

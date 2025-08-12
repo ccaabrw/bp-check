@@ -1,0 +1,8 @@
+*** /tmp/d8xmdqa	Thu Nov 30 12:30:58 2006
+--- /tmp/bp_check.auto.909496	Thu Nov 30 12:30:58 2006
+***************
+*** 63,65 ****
+  MAC   XXXXXXXXXXXX  iseisd-ws197.is-eisd    128.40.222.147  uclinst-gw1.uclinst
+- MAC   XXXXXXXXXXXX  iseisd-ws20.is-eisd     128.40.223.132  uclinst-gw1.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws200.is-eisd    128.40.222.150  uclinst-gw20.uclinst
+--- 63,64 ----

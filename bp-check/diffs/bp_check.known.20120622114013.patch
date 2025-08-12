@@ -1,0 +1,26 @@
+*** /tmp/d5-7c7a	Fri Jun 22 11:39:31 2012
+--- /tmp/bp_check.auto.1593402	Fri Jun 22 11:39:31 2012
+***************
+*** 56,57 ****
+--- 56,58 ----
+  HELP  128.40.148.245  -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.15.254   -> 144.82.104.11   uclinst-gw11.uclinst
+  HELP  128.40.150.126  -> 144.82.104.4    uclinst-gw4.uclinst
+***************
+*** 62,63 ****
+--- 63,65 ----
+  HELP  128.40.154.206  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.154.222  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.154.62   -> 144.82.104.16   uclinst-gw16.uclinst
+***************
+*** 74,75 ****
+--- 76,78 ----
+  HELP  128.40.157.245  -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  128.40.158.222  -> 144.82.104.11   uclinst-gw11.uclinst
+  HELP  128.40.161.126  -> 144.82.103.2    uclclust-lp2.uclclust
+***************
+*** 116,118 ****
+  HELP  128.40.175.245  -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.175.245  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.175.245  -> 144.82.104.5    uclinst-gw5.uclinst
+--- 119,120 ----

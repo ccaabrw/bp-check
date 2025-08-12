@@ -1,0 +1,8 @@
+*** /tmp/d--abEa	Mon Feb 27 09:23:48 2017
+--- /tmp/bp_check.auto.9240624	Mon Feb 27 09:23:48 2017
+***************
+*** 212,214 ****
+  HELP  128.40.47.30    -> 144.82.103.130  uclusers-slp3.uclusers
+- HELP  128.40.47.30    -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.48.158   -> 144.82.103.1    uclclust-lp1.uclclust
+--- 212,213 ----

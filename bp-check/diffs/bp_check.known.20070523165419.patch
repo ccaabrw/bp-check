@@ -1,0 +1,114 @@
+*** /tmp/dDCubya	Wed May 23 16:52:14 2007
+--- /tmp/bp_check.auto.475380	Wed May 23 16:52:14 2007
+***************
+*** 1 ****
+--- 1,78 ----
++ NAME  cbss-ws12.cbss          <not in DNS>    000475CD08F3  uclinst-gw21.uclinst
++ NAME  cbss-ws13.cbss          <not in DNS>    000475CD0B02  uclinst-gw21.uclinst
++ NAME  cbss-ws14.cbss          <not in DNS>    0080C8ED9966  uclinst-gw21.uclinst
++ NAME  cbss-ws15.cbss          <not in DNS>    0080C81F1B1E  uclinst-gw21.uclinst
++ NAME  cbss-ws16.cbss          <not in DNS>    0004768D8B83  uclinst-gw21.uclinst
++ NAME  cbss-ws17.cbss          <not in DNS>    000475CD0B40  uclinst-gw21.uclinst
++ NAME  cbss-ws18.cbss          <not in DNS>    0050BAC31085  uclinst-gw21.uclinst
++ NAME  cbss-ws19.cbss          <not in DNS>    0080C81DA359  uclinst-gw21.uclinst
++ NAME  cbss-ws20.cbss          <not in DNS>    000475CD0BE8  uclinst-gw21.uclinst
++ NAME  cbss-ws21.cbss          <not in DNS>    0004768DE266  uclinst-gw21.uclinst
++ NAME  cbss-ws22.cbss          <not in DNS>    0004768D8B64  uclinst-gw21.uclinst
++ NAME  cbss-ws23.cbss          <not in DNS>    0004768D8B5B  uclinst-gw21.uclinst
++ NAME  cbss-ws24.cbss          <not in DNS>    00047693B166  uclinst-gw21.uclinst
++ NAME  cbss-ws25.cbss          <not in DNS>    0080C86D769D  uclinst-gw21.uclinst
++ NAME  cbss-ws26.cbss          <not in DNS>    0004768D8B54  uclinst-gw21.uclinst
++ NAME  cbss-ws27.cbss          <not in DNS>    0080C8D4C963  uclinst-gw21.uclinst
++ NAME  cbss-ws28.cbss          <not in DNS>    00047693B122  uclinst-gw21.uclinst
++ NAME  cbss-ws29.cbss          <not in DNS>    00047693855D  uclinst-gw21.uclinst
++ NAME  cbss-ws30.cbss          <not in DNS>    0004759EA704  uclinst-gw21.uclinst
++ NAME  cbss-ws31.cbss          <not in DNS>    000475CD0BCF  uclinst-gw21.uclinst
++ NAME  cbss-ws32.cbss          <not in DNS>    000475DE43C5  uclinst-gw21.uclinst
++ NAME  cbss-ws33.cbss          <not in DNS>    000475DCF6F8  uclinst-gw21.uclinst
++ NAME  cbss-ws34.cbss          <not in DNS>    0004768DE7DA  uclinst-gw21.uclinst
++ NAME  cbss-ws35.cbss          <not in DNS>    0004768DE259  uclinst-gw21.uclinst
++ NAME  mhs-ws10.mhs            <not in DNS>    000475CD0BB8  uclinst-gw8.uclinst
++ NAME  mhs-ws11.mhs            <not in DNS>    000A5E2343BE  uclinst-gw8.uclinst
++ NAME  mhs-ws12.mhs            <not in DNS>    000A5E234480  uclinst-gw8.uclinst
++ NAME  mhs-ws13.mhs            <not in DNS>    000475CD0B2F  uclinst-gw8.uclinst
++ NAME  mhs-ws14.mhs            <not in DNS>    000A5E45548C  uclinst-gw8.uclinst
++ NAME  mhs-ws15.mhs            <not in DNS>    000475CD0ACA  uclinst-gw8.uclinst
++ NAME  mhs-ws16.mhs            <not in DNS>    0080C8EDA1BA  uclinst-gw8.uclinst
++ NAME  mhs-ws17.mhs            <not in DNS>    0004759EA10E  uclinst-gw8.uclinst
++ NAME  mhs-ws18.mhs            <not in DNS>    0080C8D4D1F2  uclinst-gw8.uclinst
++ NAME  mhs-ws19.mhs            <not in DNS>    0080C8D4CB0F  uclinst-gw8.uclinst
++ NAME  mhs-ws2.mhs             <not in DNS>    0050BAC31312  uclinst-gw8.uclinst
++ NAME  mhs-ws20.mhs            <not in DNS>    0004759EA703  uclinst-gw8.uclinst
++ NAME  mhs-ws21.mhs            <not in DNS>    0050BA06321D  uclinst-gw8.uclinst
++ NAME  mhs-ws22.mhs            <not in DNS>    0080C8ED8BFA  uclinst-gw8.uclinst
++ NAME  mhs-ws23.mhs            <not in DNS>    0080C8EDA3C7  uclinst-gw8.uclinst
++ NAME  mhs-ws24.mhs            <not in DNS>    00047611A6D9  uclinst-gw8.uclinst
++ NAME  mhs-ws25.mhs            <not in DNS>    0004769385BA  uclinst-gw8.uclinst
++ NAME  mhs-ws26.mhs            <not in DNS>    00047693851B  uclinst-gw8.uclinst
++ NAME  mhs-ws27.mhs            <not in DNS>    00047693B072  uclinst-gw8.uclinst
++ NAME  mhs-ws28.mhs            <not in DNS>    00047693B04F  uclinst-gw8.uclinst
++ NAME  mhs-ws29.mhs            <not in DNS>    000476938522  uclinst-gw8.uclinst
++ NAME  mhs-ws3.mhs             <not in DNS>    000A5E479098  uclinst-gw8.uclinst
++ NAME  mhs-ws30.mhs            <not in DNS>    0004761B2FE7  uclinst-gw8.uclinst
++ NAME  mhs-ws31.mhs            <not in DNS>    0004761B2FF0  uclinst-gw8.uclinst
++ NAME  mhs-ws32.mhs            <not in DNS>    0004761B2F29  uclinst-gw8.uclinst
++ NAME  mhs-ws33.mhs            <not in DNS>    0004759AD8E1  uclinst-gw8.uclinst
++ NAME  mhs-ws34.mhs            <not in DNS>    0004759EA74B  uclinst-gw8.uclinst
++ NAME  mhs-ws35.mhs            <not in DNS>    0004759EA741  uclinst-gw8.uclinst
++ NAME  mhs-ws36.mhs            <not in DNS>    000475DE3CCB  uclinst-gw8.uclinst
++ NAME  mhs-ws37.mhs            <not in DNS>    001372994EDB  uclinst-gw8.uclinst
++ NAME  mhs-ws38.mhs            <not in DNS>    0011092AFB9D  uclinst-gw8.uclinst
++ NAME  mhs-ws39.mhs            <not in DNS>    0080C83E6FB0  uclinst-gw8.uclinst
++ NAME  mhs-ws4.mhs             <not in DNS>    XXXXXXXXXXXX  uclinst-gw8.uclinst
++ NAME  mhs-ws40.mhs            <not in DNS>    0050BA063210  uclinst-gw8.uclinst
++ NAME  mhs-ws41.mhs            <not in DNS>    0080C8D3E420  uclinst-gw8.uclinst
++ NAME  mhs-ws42.mhs            <not in DNS>    000475CD0B17  uclinst-gw8.uclinst
++ NAME  mhs-ws5.mhs             <not in DNS>    000475C6F0F2  uclinst-gw8.uclinst
++ NAME  mhs-ws6.mhs             <not in DNS>    000475CCF26D  uclinst-gw8.uclinst
++ NAME  mhs-ws7.mhs             <not in DNS>    0080C8330EE0  uclinst-gw8.uclinst
++ NAME  mhs-ws8.mhs             <not in DNS>    0013729FDEEB  uclinst-gw8.uclinst
++ NAME  mhs-ws9.mhs             <not in DNS>    000475CD0A1F  uclinst-gw8.uclinst
++ NAME  npsa.cbss               <not in DNS>    080009902461  uclusers-slp3.uclusers
++ NAME  npsa.mhs                <not in DNS>    0800094B1306  uclusers-slp3.uclusers
++ NAME  npsb.cbss               <not in DNS>    0001E6792855  uclusers-slp3.uclusers
++ NAME  npsb.mhs                <not in DNS>    0060B0AED634  uclusers-slp3.uclusers
++ NAME  npsc.cbss               <not in DNS>    00C0EED15C1D  uclusers-slp3.uclusers
++ NAME  npsc.mhs                <not in DNS>    001083436968  uclusers-slp3.uclusers
++ NAME  npsd.cbss               <not in DNS>    00C0EE6B5C73  uclusers-slp3.uclusers
++ NAME  npsd.mhs                <not in DNS>    080009EAB35B  uclusers-slp3.uclusers
++ NAME  npse.cbss               <not in DNS>    00C0EE6B5C6F  uclusers-slp3.uclusers
++ NAME  npse.mhs                <not in DNS>    0001E6B3F06C  uclusers-slp3.uclusers
++ NAME  npsf.mhs                <not in DNS>    00C0EED26C57  uclusers-slp3.uclusers
++ NAME  olc-wsmy1.olc           <not in DNS>    XXXXXXXXXXXX  uclinst-gw20.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 18,22 ****
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws10.cbss          128.40.240.170  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws11.cbss          128.40.240.171  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws9.cbss           128.40.240.169  uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  ccrm-ws2.ccrm           128.40.37.189   uclinst-gw16.uclinst
+--- 95,96 ----
+***************
+*** 82,83 ****
+--- 156,158 ----
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  mhs-ws4.mhs             <not in DNS>    uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  npsa.ccrm               128.40.37.186   uclusers-slp4.uclusers
+***************
+*** 110,112 ****
+  MAC   XXXXXXXXXXXX  npsg.surg               128.40.251.121  uclusers-slp3.uclusers
+- MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers
+--- 185,186 ----
+***************
+*** 117,118 ****
+--- 191,193 ----
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
++ MAC   XXXXXXXXXXXX  olc-wsmy1.olc           <not in DNS>    uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+***************
+*** 121,123 ****
+  MAC   XXXXXXXXXXXX  prov-ws8.prov           128.40.83.62    uclinst-gw11.uclinst
+- MAC   XXXXXXXXXXXX  psychiat-ws125.psychiat 128.40.204.45   uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst

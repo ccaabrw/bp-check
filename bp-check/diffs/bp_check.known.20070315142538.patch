@@ -1,0 +1,27 @@
+*** /tmp/dh-ab7a	Thu Mar 15 14:23:33 2007
+--- /tmp/bp_check.auto.639148	Thu Mar 15 14:23:33 2007
+***************
+*** 1,2 ****
+--- 1,7 ----
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
++ NAME  crucilib-ws24.crucilib  <not in DNS>    0050BA063429  uclinst-gw22.uclinst
++ NAME  crucilib-ws25.crucilib  <not in DNS>    0080C86D01DE  uclinst-gw22.uclinst
++ NAME  crucilib-ws26.crucilib  <not in DNS>    0080C8D4D00B  uclinst-gw22.uclinst
++ NAME  crucilib-ws27.crucilib  <not in DNS>    0080C86D09C5  uclinst-gw22.uclinst
++ NAME  npsa.crucilib           <not in DNS>    XXXXXXXXXXXX  uclclust-lp1.uclclust
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 77,78 ****
+--- 82,84 ----
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  med-ws122.med           128.40.253.226  uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
+***************
+*** 79,81 ****
+  MAC   XXXXXXXXXXXX  npsa.ccrm               128.40.37.186   uclusers-slp4.uclusers
+! MAC   XXXXXXXXXXXX  npsa.crucilib           128.40.23.252   uclclust-lp1.uclclust
+  MAC   XXXXXXXXXXXX  npsa.eisd               128.40.163.50   uclusers-slp2.uclusers
+--- 85,87 ----
+  MAC   XXXXXXXXXXXX  npsa.ccrm               128.40.37.186   uclusers-slp4.uclusers
+! MAC   XXXXXXXXXXXX  npsa.crucilib           <not in DNS>    uclclust-lp1.uclclust
+  MAC   XXXXXXXXXXXX  npsa.eisd               128.40.163.50   uclusers-slp2.uclusers

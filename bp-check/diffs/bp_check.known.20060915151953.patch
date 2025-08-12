@@ -1,0 +1,22 @@
+*** -	2006-09-15 15:18:55.852157000 +0100
+--- /tmp/bp_check.auto.24477	2006-09-15 15:18:55.000000000 +0100
+***************
+*** 8,9 ****
+--- 8,11 ----
+  NAME  laws-ws8.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
++ MAC   000C76BD5E1A  pharm-wspr1.pharm       128.40.96.211   uclinst-gw5.uclinst
++ MAC   000C76BD5E1A  ucl36-wspr1.ucl36       128.40.136.100  uclinst-gw4.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 68,69 ****
+--- 70,72 ----
+  MAC   XXXXXXXXXXXX  crucilib-ws19.crucilib  <not in DNS>    uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  dpu-ws21.dpu            128.40.183.57   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  dsachslt-ws1.dsachslt   128.40.89.76    uclinst-gw4.uclinst
+***************
+*** 136,139 ****
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  medadm-ws20.medadm      193.60.248.170  uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  medadm-ws40.medadm      193.60.248.190  uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  medadm-ws43.medadm      193.60.248.194  uclinst-gw10.uclinst
+--- 139,140 ----

@@ -1,0 +1,55 @@
+*** /tmp/dR6UeEa	Wed Sep 20 13:46:34 2006
+--- /tmp/bp_check.auto.585768	Wed Sep 20 13:46:33 2006
+***************
+*** 21,38 ****
+  MAC   XXXXXXXXXXXX  ccrm-ws2.ccrm           128.40.37.189   uclinst-gw16.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws10.cloist      128.40.170.185  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws11.cloist      128.40.170.186  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws12.cloist      128.40.170.187  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws13.cloist      128.40.170.188  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws14.cloist      128.40.170.189  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws15.cloist      128.40.170.190  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws16.cloist      128.40.170.191  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws17.cloist      128.40.170.192  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws18.cloist      128.40.170.193  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws19.cloist      128.40.170.194  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws20.cloist      128.40.170.195  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws21.cloist      128.40.170.196  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws22.cloist      128.40.170.197  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws23.cloist      128.40.170.198  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws24.cloist      128.40.170.199  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws25.cloist      128.40.170.200  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws26.cloist      128.40.170.201  uclinst-gw10.uclinst
+--- 21,22 ----
+***************
+*** 42,44 ****
+  MAC   XXXXXXXXXXXX  cloist-ws30.cloist      128.40.170.205  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws9.cloist       128.40.170.184  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  crucilib-ws18.crucilib  <not in DNS>    uclinst-gw5.uclinst
+--- 26,27 ----
+***************
+*** 45,48 ****
+  MAC   XXXXXXXXXXXX  crucilib-ws19.crucilib  <not in DNS>    uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  dpu-ws21.dpu            128.40.183.57   uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  dpu-ws30.dpu            128.40.183.66   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  dsachslt-ws1.dsachslt   128.40.89.76    uclinst-gw4.uclinst
+--- 28,29 ----
+***************
+*** 76,77 ****
+--- 57,59 ----
+  MAC   XXXXXXXXXXXX  german-ws24.german      128.40.191.190  uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  hist-ws18.hist          128.40.88.107   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  hist-ws19.hist          128.40.88.108   uclinst-gw14.uclinst
+***************
+*** 168,172 ****
+  MAC   XXXXXXXXXXXX  ucl22-ws1.ucl22         144.82.122.151  uclinst-gw5.uclinst
+! MAC   XXXXXXXXXXXX  ucl22-ws19.ucl22        128.40.122.169  uclinst-gw5.uclinst
+! MAC   XXXXXXXXXXXX  ucl22-ws20.ucl22        128.40.122.170  uclinst-gw5.uclinst
+! MAC   XXXXXXXXXXXX  ucl22-ws21.ucl22        128.40.122.171  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst
+--- 150,154 ----
+  MAC   XXXXXXXXXXXX  ucl22-ws1.ucl22         144.82.122.151  uclinst-gw5.uclinst
+! MAC   XXXXXXXXXXXX  ucl22-ws19.ucl22        144.82.122.169  uclinst-gw5.uclinst
+! MAC   XXXXXXXXXXXX  ucl22-ws20.ucl22        144.82.122.170  uclinst-gw5.uclinst
+! MAC   XXXXXXXXXXXX  ucl22-ws21.ucl22        144.82.122.171  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst

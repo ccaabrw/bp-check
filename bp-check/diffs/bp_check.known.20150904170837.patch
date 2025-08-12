@@ -1,0 +1,8 @@
+*** /tmp/d_-amya	Fri Sep  4 17:08:24 2015
+--- /tmp/bp_check.auto.9568280	Fri Sep  4 17:08:24 2015
+***************
+*** 8,9 ****
+--- 8,10 ----
+  HELP  128.40.115.142  -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.115.142  -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.116.126  -> 144.82.103.1    uclclust-lp1.uclclust

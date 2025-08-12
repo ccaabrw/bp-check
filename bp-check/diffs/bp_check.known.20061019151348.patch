@@ -1,0 +1,8 @@
+*** /tmp/dM-mjUa	Thu Oct 19 15:13:40 2006
+--- /tmp/bp_check.auto.938222	Thu Oct 19 15:13:39 2006
+***************
+*** 145,147 ****
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl40-ws1.ucl40         128.40.140.151  uclinst-gw14.uclinst
+  MAC   XXXXXXXXXXXX  ucl40-ws6.ucl40         128.40.140.156  uclinst-gw14.uclinst
+--- 145,146 ----

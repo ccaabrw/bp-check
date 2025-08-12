@@ -1,0 +1,8 @@
+*** /tmp/djKanUa	Mon Nov 10 15:48:30 2014
+--- /tmp/bp_check.auto.8716378	Mon Nov 10 15:48:30 2014
+***************
+*** 85,87 ****
+  HELP  128.40.169.6    -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.169.62   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.169.70   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 85,86 ----

@@ -1,0 +1,20 @@
+*** -	2007-03-08 14:47:36.133903092 +0000
+--- /tmp/bp_check.auto.19727	2007-03-08 14:47:35.000000000 +0000
+***************
+*** 1,2 ****
+--- 1,4 ----
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
++ NAME  npsv.med                <not in DNS>    XXXXXXXXXXXX  uclusers-slp4.uclusers
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 116,117 ****
+--- 118,120 ----
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
++ MAC   XXXXXXXXXXXX  npsv.med                <not in DNS>    uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+***************
+*** 383,384 ****
+--- 386,388 ----
+  HELP  128.40.238.245  -> 144.82.103.130  uclusers-slp3.uclusers
++ HELP  128.40.238.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.238.245  -> 144.82.104.10   uclinst-gw10.uclinst

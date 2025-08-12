@@ -1,0 +1,8 @@
+*** /tmp/d-87lMa	Mon Jun  9 14:22:59 2008
+--- /tmp/bp_check.auto.11260042	Mon Jun  9 14:22:59 2008
+***************
+*** 447,449 ****
+  HELP  144.82.52.245   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  144.82.61.254   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  144.82.64.30    -> 144.82.103.130  uclusers-slp3.uclusers
+--- 448,449 ----

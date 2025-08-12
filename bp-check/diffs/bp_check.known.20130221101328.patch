@@ -1,0 +1,8 @@
+*** /tmp/dGyqdia	Thu Feb 21 10:13:25 2013
+--- /tmp/bp_check.auto.770212	Thu Feb 21 10:13:25 2013
+***************
+*** 42,44 ****
+  HELP  128.40.141.245  -> 144.82.104.12   uclinst-gw12.uclinst
+- HELP  128.40.141.245  -> 144.82.104.4    uclinst-gw4.uclinst
+  HELP  128.40.142.110  -> 144.82.103.131  uclusers-slp4.uclusers
+--- 42,43 ----

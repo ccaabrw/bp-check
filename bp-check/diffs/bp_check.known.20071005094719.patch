@@ -1,0 +1,8 @@
+*** /tmp/dstAlMa	Fri Oct  5 09:46:53 2007
+--- /tmp/bp_check.auto.372848	Fri Oct  5 09:46:52 2007
+***************
+*** 9,11 ****
+  MAC   FFFFFFFFFFFF  ucl6-wybook1.ucl-6.ucl.ac.uk128.40.48.26    cbds-a.ucl0
+- MAC?  0004759ES6E8  arts-ws25.arts          128.40.29.125   uclinst-gw15.uclinst
+  MAC   FFFFFFFFFFFF  ucl8-wybook1.ucl-8.ucl.ac.uk128.40.108.150  cbds-a.ucl0
+--- 10,11 ----

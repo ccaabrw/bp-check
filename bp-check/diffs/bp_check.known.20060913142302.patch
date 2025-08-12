@@ -1,0 +1,14 @@
+*** /tmp/dN63hia	Wed Sep 13 14:22:31 2006
+--- /tmp/bp_check.auto.884924	Wed Sep 13 14:22:31 2006
+***************
+*** 28,36 ****
+  MAC   XXXXXXXXXXXX  anthr-wsc20.anthr       128.40.63.169   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  arch-ws16.arch          128.40.195.231  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  arch-ws23.arch          128.40.195.236  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  arch-ws34.arch          128.40.195.182  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  arch-ws37.arch          128.40.195.30   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  arch-ws66.arch          128.40.195.124  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  arch-ws69.arch          128.40.195.127  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  arch-ws79.arch          128.40.195.193  uclinst-gw11.uclinst
+  MAC   XXXXXXXXXXXX  arts-ws48.arts          128.40.29.148   uclinst-gw23.uclinst
+--- 28,29 ----

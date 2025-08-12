@@ -1,0 +1,8 @@
+*** /tmp/d-VMjaa	Thu Mar  6 12:15:02 2008
+--- /tmp/bp_check.auto.10596384	Thu Mar  6 12:15:02 2008
+***************
+*** 14,15 ****
+--- 14,16 ----
+  HELP  128.40.108.245  -> 144.82.104.14   uclinst-gw14.uclinst
++ HELP  128.40.111.126  -> 144.82.103.4    uclclust-lp4.uclclust
+  HELP  128.40.111.126  -> 144.82.104.17   uclinst-gw17.uclinst

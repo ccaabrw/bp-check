@@ -1,0 +1,8 @@
+*** /tmp/d9GUj7a	Wed Mar 18 13:10:43 2009
+--- /tmp/bp_check.auto.204832	Wed Mar 18 13:10:42 2009
+***************
+*** 142,143 ****
+--- 142,144 ----
+  HELP  128.40.184.238  -> 144.82.104.5    uclinst-gw5.uclinst
++ HELP  128.40.184.246  -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.184.94   -> 144.82.104.15   uclinst-gw15.uclinst

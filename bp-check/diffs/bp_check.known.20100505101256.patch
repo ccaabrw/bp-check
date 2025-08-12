@@ -1,0 +1,8 @@
+*** /tmp/dBXmgqa	Wed May  5 10:12:48 2010
+--- /tmp/bp_check.auto.880682	Wed May  5 10:12:48 2010
+***************
+*** 109,111 ****
+  HELP  128.40.169.174  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.169.174  -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.169.22   -> 144.82.104.10   uclinst-gw10.uclinst
+--- 109,110 ----

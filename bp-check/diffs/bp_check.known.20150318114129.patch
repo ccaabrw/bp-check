@@ -1,0 +1,13 @@
+*** /tmp/d-Takya	Wed Mar 18 11:41:22 2015
+--- /tmp/bp_check.auto.11730996	Wed Mar 18 11:41:22 2015
+***************
+*** 1 ****
+--- 1,2 ----
++ NAME  npsdmsd.lib             <not in DNS>    001F29222870  uclusers-slp1.uclusers
+  HELP  128.40.101.254  -> 144.82.117.120  bccusers-gw3.bccusers
+***************
+*** 227,228 ****
+--- 228,230 ----
+  HELP  128.40.36.190   -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.36.254   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.36.254   -> 144.82.104.19   uclinst-gw19.uclinst

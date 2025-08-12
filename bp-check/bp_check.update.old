@@ -1,0 +1,39 @@
+#!/bin/csh
+
+# script to update the contents of bp_check.known file
+
+# abort if run from Solaris
+if ( `uname -s` == "SunOS" ) then
+	echo "Sorry, but bp_check does not perform well on Solaris systems - aborting."
+	exit 1
+endif
+
+# set environment
+umask 022
+unalias rm
+cd ~ccsposg/bp_check
+
+# pick a unique temp file
+set temp_file = /tmp/bp_check.auto.$$
+
+echo "Generating patch file ..."
+echo "You will be allowed to edit it in a moment"
+
+# run job to produce current data
+./bp_check.pl data > $temp_file
+
+# compare with existing and note differences (ignore comments)
+grep -v '^#' bp_check.known | diff -C 1 - $temp_file > $temp_file.patch
+
+# Allow user to edit patch file
+vi $temp_file.patch
+
+# Apply the patch
+patch -b bp_check.known < $temp_file.patch
+
+# remove temp files
+rm -f $temp_file
+rm -f $temp_file.patch
+
+# Ensure group is still correct (gets squished if run as root)
+chgrp staff bp_check.known

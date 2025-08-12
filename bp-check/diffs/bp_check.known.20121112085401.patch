@@ -1,0 +1,8 @@
+*** /tmp/d1p3aEa	Mon Nov 12 08:53:41 2012
+--- /tmp/bp_check.auto.929828	Mon Nov 12 08:53:41 2012
+***************
+*** 346,347 ****
+--- 346,348 ----
+  HELP  128.40.84.126   -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.84.142   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.85.245   -> 144.82.104.21   uclinst-gw21.uclinst

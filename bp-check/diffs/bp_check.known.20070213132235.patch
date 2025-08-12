@@ -1,0 +1,30 @@
+*** /tmp/dTyenUa	Tue Feb 13 13:22:19 2007
+--- /tmp/bp_check.auto.1663096	Tue Feb 13 13:22:18 2007
+***************
+*** 20,21 ****
+--- 20,32 ----
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws1.cbss           128.40.240.160  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws10.cbss          128.40.240.170  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws11.cbss          128.40.240.171  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws2.cbss           128.40.240.161  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws3.cbss           128.40.240.163  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws4.cbss           128.40.240.164  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws5.cbss           128.40.240.165  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws6.cbss           128.40.240.166  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws7.cbss           128.40.240.167  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws8.cbss           128.40.240.168  uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  cbss-ws9.cbss           128.40.240.169  uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  cetl1.cetl              128.40.111.65   uclinst-gw17.uclinst
+***************
+*** 113,114 ****
+--- 124,126 ----
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
++ MAC   XXXXXXXXXXXX  nursery-ws1.nursery     128.40.211.209  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+***************
+*** 351,352 ****
+--- 363,365 ----
+  HELP  128.40.211.206  -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.211.214  -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.211.230  -> 144.82.104.5    uclinst-gw5.uclinst

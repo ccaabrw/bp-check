@@ -1,0 +1,8 @@
+*** /tmp/dy6Ybya	Thu Jan  4 13:49:45 2007
+--- /tmp/bp_check.auto.700658	Thu Jan  4 13:49:45 2007
+***************
+*** 46,48 ****
+  MAC   XXXXXXXXXXXX  exam-ws9.exam           128.40.181.9    uclinst-gw20.uclinst
+- MAC   XXXXXXXXXXXX  french-ws1.french       128.40.68.99    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  french-ws10.french      128.40.68.106   uclinst-gw23.uclinst
+--- 46,47 ----

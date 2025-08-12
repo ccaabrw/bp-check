@@ -1,0 +1,29 @@
+*** /tmp/dsDEbqa	Thu Sep 13 16:44:10 2012
+--- /tmp/bp_check.auto.880768	Thu Sep 13 16:44:10 2012
+***************
+*** 1 ****
+--- 1,9 ----
++ NAME  dpu-ws48.dpu            <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  dpu-ws49.dpu            <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  dpu-ws50.dpu            <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  dpu-ws51.dpu            <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  dpu-ws52.dpu            <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  dpu-ws53.dpu            <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  dpu-ws54.dpu            <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  dpu-ws55.dpu            <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
+  HELP  128.40.101.254  -> 144.82.117.120  bccusers-gw3.bccusers
+***************
+*** 213,216 ****
+  HELP  128.40.223.254  -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.223.254  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.223.254  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.223.254  -> 144.82.104.20   uclinst-gw20.uclinst
+--- 221,222 ----
+***************
+*** 314,318 ****
+  HELP  128.40.60.245   -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.60.245   -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.60.245   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.60.245   -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.60.245   -> 144.82.104.8    uclinst-gw8.uclinst
+--- 320,322 ----

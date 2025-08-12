@@ -1,0 +1,8 @@
+*** /tmp/dzLmiqa	Fri Jun 25 10:29:27 2010
+--- /tmp/bp_check.auto.909386	Fri Jun 25 10:29:27 2010
+***************
+*** 386,388 ****
+  HELP  144.82.124.245  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  144.82.125.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  144.82.125.245  -> 144.82.104.1    uclinst-gw1.uclinst
+--- 387,388 ----

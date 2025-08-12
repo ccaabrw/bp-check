@@ -1,0 +1,26 @@
+*** /tmp/dg-Ulia	Thu Apr 19 16:39:43 2007
+--- /tmp/bp_check.auto.1458426	Thu Apr 19 16:39:42 2007
+***************
+*** 75,77 ****
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  med-ws52.med            128.40.253.228  uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  npsa.ccrm               128.40.37.186   uclusers-slp4.uclusers
+--- 75,76 ----
+***************
+*** 95,97 ****
+  MAC   XXXXXXXXXXXX  npsc.mancen             128.40.180.34   uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsc.slade              128.40.189.168  uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsc.telref             128.40.179.152  uclusers-slp4.uclusers
+--- 94,95 ----
+***************
+*** 110,112 ****
+  MAC   XXXXXXXXXXXX  npsl.cloist             128.40.170.47   uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsm.studuni            193.60.230.55   uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npsn.med                128.40.253.165  uclusers-slp3.uclusers
+--- 108,109 ----
+***************
+*** 121,123 ****
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  scand-ws6.scand         128.40.191.169  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 118,119 ----

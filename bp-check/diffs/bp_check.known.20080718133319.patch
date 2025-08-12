@@ -1,0 +1,8 @@
+*** /tmp/dClaiMa	Fri Jul 18 13:32:55 2008
+--- /tmp/bp_check.auto.852048	Fri Jul 18 13:32:55 2008
+***************
+*** 131,132 ****
+--- 131,133 ----
+  HELP  128.40.163.206  -> 144.82.104.1    uclinst-gw1.uclinst
++ HELP  128.40.163.46   -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.163.62   -> 144.82.103.129  uclusers-slp2.uclusers

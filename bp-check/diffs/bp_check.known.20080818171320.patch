@@ -1,0 +1,14 @@
+*** /tmp/dpz7jEa	Mon Aug 18 16:08:21 2008
+--- /tmp/bp_check.auto.1605858	Mon Aug 18 16:08:20 2008
+***************
+*** 130,131 ****
+--- 130,132 ----
+  HELP  128.40.163.206  -> 144.82.104.1    uclinst-gw1.uclinst
++ HELP  128.40.163.30   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.163.46   -> 144.82.104.8    uclinst-gw8.uclinst
+***************
+*** 132,134 ****
+  HELP  128.40.163.62   -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  128.40.163.62   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.163.62   -> 144.82.104.23   uclinst-gw23.uclinst
+--- 133,134 ----

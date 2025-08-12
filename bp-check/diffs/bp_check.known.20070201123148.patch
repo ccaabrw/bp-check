@@ -1,0 +1,14 @@
+*** /tmp/dNRycUa	Thu Feb  1 12:23:58 2007
+--- /tmp/bp_check.auto.590028	Thu Feb  1 12:23:58 2007
+***************
+*** 70,72 ****
+  MAC   XXXXXXXXXXXX  lib-wsdms88.lib         128.40.60.238   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  lib-wsmain61.lib        128.40.212.142  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsmain62.lib        128.40.212.143  uclinst-gw5.uclinst
+--- 70,71 ----
+***************
+*** 74,76 ****
+  MAC   XXXXXXXXXXXX  lib-wsmain65.lib        128.40.212.146  uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  lib-wsstor18.lib        128.40.89.198   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
+--- 73,74 ----

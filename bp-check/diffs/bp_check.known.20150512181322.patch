@@ -1,0 +1,8 @@
+*** /tmp/d-2anya	Tue May 12 18:13:11 2015
+--- /tmp/bp_check.auto.10223728	Tue May 12 18:13:11 2015
+***************
+*** 77,79 ****
+  HELP  128.40.169.14   -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.169.174  -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.169.22   -> 144.82.104.17   uclinst-gw17.uclinst
+--- 77,78 ----

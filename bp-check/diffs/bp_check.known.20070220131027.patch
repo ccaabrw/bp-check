@@ -1,0 +1,14 @@
+*** /tmp/dGwmnaa	Tue Feb 20 13:10:06 2007
+--- /tmp/bp_check.auto.1363976	Tue Feb 20 13:10:06 2007
+***************
+*** 136,138 ****
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl42-ws10.ucl42        128.40.142.10   uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  ucl45-ws6.ucl45         128.40.145.156  uclinst-gw6.uclinst
+--- 136,137 ----
+***************
+*** 536,537 ****
+--- 535,537 ----
+  HELP  128.40.98.245   -> 144.82.104.8    uclinst-gw8.uclinst
++ HELP  144.82.117.126  -> 144.82.117.43   ucl17-gw7.ucl17
+  HELP  144.82.119.245  -> 144.82.103.3    uclclust-lp3.uclclust

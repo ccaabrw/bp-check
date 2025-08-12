@@ -1,0 +1,37 @@
+*** -	2006-10-04 11:52:20.166867257 +0100
+--- /tmp/bp_check.auto.28295	2006-10-04 11:52:20.000000000 +0100
+***************
+*** 3,4 ****
+--- 3,8 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  psychiat-ws135.psychiat <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ NAME  psychiat-ws136.psychiat <not in DNS>    XXXXXXXXXXXX  uclinst-gw21.uclinst
++ HOST  laws-ws14.laws          128.40.66.46    000475DD0163  uclinst-gw15.uclinst
++ HOST  laws-ws14.laws          128.40.66.46    XXXXXXXXXXXX  uclinst-gw22.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 20,21 ****
+--- 24,26 ----
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
++ MAC   XXXXXXXXXXXX  bwlt-ws1.bwlt           128.40.163.201  uclinst-gw1.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws27.cloist      128.40.170.202  uclinst-gw10.uclinst
+***************
+*** 66,67 ****
+--- 71,73 ----
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws14.laws          128.40.66.46    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+***************
+*** 120,121 ****
+--- 126,130 ----
+  MAC   XXXXXXXXXXXX  psychiat-ws125.psychiat 128.40.204.45   uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  psychiat-ws135.psychiat <not in DNS>    uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  psychiat-ws136.psychiat <not in DNS>    uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  psychiat-ws38.psychiat  128.40.240.98   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  psychiat-ws7.psychiat   128.40.240.64   uclinst-gw21.uclinst
+***************
+*** 377,378 ****
+--- 386,388 ----
+  HELP  128.40.222.245  -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.222.245  -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.222.245  -> 144.82.117.43   ucl17-gw7.ucl17

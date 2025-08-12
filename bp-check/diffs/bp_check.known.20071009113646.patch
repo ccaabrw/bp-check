@@ -1,0 +1,8 @@
+*** /tmp/dsnydUa	Tue Oct  9 11:36:24 2007
+--- /tmp/bp_check.auto.671744	Tue Oct  9 11:36:24 2007
+***************
+*** 31,33 ****
+  HELP  128.40.117.245  -> 144.82.103.4    uclclust-lp4.uclclust
+- HELP  128.40.117.245  -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.127.245  -> 144.82.100.187  cbds-a.ucl0
+--- 31,32 ----

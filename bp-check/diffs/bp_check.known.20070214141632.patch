@@ -1,0 +1,32 @@
+*** /tmp/ddTydia	Wed Feb 14 14:16:07 2007
+--- /tmp/bp_check.auto.192682	Wed Feb 14 14:16:07 2007
+***************
+*** 20,22 ****
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws1.cbss           128.40.240.160  uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  cbss-ws10.cbss          128.40.240.170  uclinst-gw21.uclinst
+--- 20,21 ----
+***************
+*** 23,29 ****
+  MAC   XXXXXXXXXXXX  cbss-ws11.cbss          128.40.240.171  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws2.cbss           128.40.240.161  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws3.cbss           128.40.240.163  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws4.cbss           128.40.240.164  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws5.cbss           128.40.240.165  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  cbss-ws6.cbss           128.40.240.166  uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  cbss-ws7.cbss           128.40.240.167  uclinst-gw21.uclinst
+--- 22,23 ----
+***************
+*** 117,121 ****
+  MAC   XXXXXXXXXXXX  npsk.cloist             128.40.170.46   uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsk.psychiat           128.40.240.128  uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsl.cloist             128.40.170.47   uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsl.psychiat           128.40.240.129  uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsn.med                128.40.253.165  uclusers-slp3.uclusers
+--- 111,113 ----
+***************
+*** 136,138 ****
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  surg-ws11.surg          128.40.251.122  uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  ucl12-ws22.ucl12        128.40.161.22   uclinst-gw22.uclinst
+--- 128,129 ----

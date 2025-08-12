@@ -1,0 +1,8 @@
+*** /tmp/d-Xakaa	Fri Jul 10 09:38:28 2015
+--- /tmp/bp_check.auto.6488156	Fri Jul 10 09:38:28 2015
+***************
+*** 225,227 ****
+  HELP  128.40.37.126   -> 144.82.104.7    uclinst-gw7.uclinst
+- HELP  128.40.37.174   -> 144.82.104.17   uclinst-gw17.uclinst
+  HELP  128.40.37.190   -> 144.82.103.131  uclusers-slp4.uclusers
+--- 225,226 ----

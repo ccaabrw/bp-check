@@ -1,0 +1,10 @@
+*** /tmp/diLMcaa	Mon Sep 18 11:25:59 2006
+--- /tmp/bp_check.auto.544890	Mon Sep 18 11:25:59 2006
+***************
+*** 98,102 ****
+  MAC   XXXXXXXXXXXX  iseisd-wstest1.is-eisd  128.40.222.11   uclinst-gw20.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws11.laws          128.40.66.124   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws12.laws          128.40.66.5     uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws13.laws          128.40.66.33    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+--- 98,99 ----

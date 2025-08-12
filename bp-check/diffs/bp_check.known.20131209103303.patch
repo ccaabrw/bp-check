@@ -1,0 +1,9 @@
+*** /tmp/dD-Ac7a	Mon Dec  9 10:32:56 2013
+--- /tmp/bp_check.auto.557100	Mon Dec  9 10:32:56 2013
+***************
+*** 407,410 ****
+  HELP  193.60.245.245  -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  193.60.246.14   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  193.60.246.14   -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  193.60.248.245  -> 144.82.103.129  uclusers-slp2.uclusers
+--- 407,408 ----

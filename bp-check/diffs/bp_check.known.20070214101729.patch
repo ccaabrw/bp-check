@@ -1,0 +1,8 @@
+*** /tmp/dwT3dqa	Wed Feb 14 10:14:39 2007
+--- /tmp/bp_check.auto.1577120	Wed Feb 14 10:14:39 2007
+***************
+*** 270,271 ****
+--- 270,272 ----
+  HELP  128.40.163.14   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.163.14   -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.163.198  -> 144.82.104.10   uclinst-gw10.uclinst

@@ -1,0 +1,8 @@
+*** /tmp/dT6aaya	Fri Jan 18 16:48:07 2013
+--- /tmp/bp_check.auto.516250	Fri Jan 18 16:48:07 2013
+***************
+*** 166,167 ****
+--- 168,170 ----
+  HELP  128.40.190.94   -> 144.82.103.3    uclclust-lp3.uclclust
++ HELP  128.40.190.94   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.191.245  -> 144.82.103.131  uclusers-slp4.uclusers

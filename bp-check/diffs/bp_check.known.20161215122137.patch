@@ -1,0 +1,14 @@
+*** /tmp/d2Xaoia	Thu Dec 15 12:21:31 2016
+--- /tmp/bp_check.auto.9502956	Thu Dec 15 12:21:31 2016
+***************
+*** 150,152 ****
+  HELP  128.40.228.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.228.245  -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.23.254   -> 144.82.103.129  uclusers-slp2.uclusers
+--- 150,151 ----
+***************
+*** 245,247 ****
+  HELP  128.40.68.94    -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.74.245   -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.76.245   -> 144.82.104.21   uclinst-gw21.uclinst
+--- 244,245 ----

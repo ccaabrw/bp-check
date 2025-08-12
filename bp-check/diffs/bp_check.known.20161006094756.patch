@@ -1,0 +1,8 @@
+*** /tmp/d-Zafia	Thu Oct  6 09:47:44 2016
+--- /tmp/bp_check.auto.12058742	Thu Oct  6 09:47:44 2016
+***************
+*** 330,332 ****
+  HELP  193.60.248.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  193.60.253.94   -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  194.66.92.245   -> 144.82.103.130  uclusers-slp3.uclusers
+--- 330,331 ----

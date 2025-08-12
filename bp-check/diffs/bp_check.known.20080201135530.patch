@@ -1,0 +1,8 @@
+*** /tmp/d_-IgMa	Fri Feb  1 13:55:14 2008
+--- /tmp/bp_check.auto.9953302	Fri Feb  1 13:55:14 2008
+***************
+*** 65,66 ****
+--- 67,69 ----
+  HELP  128.40.139.245  -> 144.82.103.2    uclclust-lp2.uclclust
++ HELP  128.40.139.245  -> 144.82.104.6    uclinst-gw6.uclinst
+  HELP  128.40.140.245  -> 144.82.100.187  cbds-a.ucl0

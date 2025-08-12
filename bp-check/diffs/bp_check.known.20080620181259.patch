@@ -1,0 +1,8 @@
+*** /tmp/d7puiMa	Fri Jun 20 18:12:36 2008
+--- /tmp/bp_check.auto.708668	Fri Jun 20 18:12:36 2008
+***************
+*** 406,408 ****
+  HELP  128.40.89.62    -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.89.78    -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.89.78    -> 144.82.104.4    uclinst-gw4.uclinst
+--- 406,407 ----

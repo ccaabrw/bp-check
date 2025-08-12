@@ -1,0 +1,4 @@
+#!/bin/sh
+
+/home/ccsposg/bp_check/netbootlist > /home/ccsposg/bp_check/image-servers.txt
+chown ccsposg:staff                  /home/ccsposg/bp_check/image-servers.txt

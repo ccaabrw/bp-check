@@ -1,0 +1,8 @@
+*** /tmp/d-Tahya	Tue Jun 24 08:54:55 2014
+--- /tmp/bp_check.auto.13762732	Tue Jun 24 08:54:55 2014
+***************
+*** 256,258 ****
+  HELP  128.40.44.245   -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.45.222   -> 144.82.104.3    uclinst-gw3.uclinst
+  HELP  128.40.45.254   -> 144.82.103.129  uclusers-slp2.uclusers
+--- 260,261 ----

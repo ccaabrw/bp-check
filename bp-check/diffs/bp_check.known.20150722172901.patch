@@ -1,0 +1,8 @@
+*** /tmp/dfLajMa	Wed Jul 22 17:28:48 2015
+--- /tmp/bp_check.auto.8585408	Wed Jul 22 17:28:48 2015
+***************
+*** 7,8 ****
+--- 7,9 ----
+  HELP  128.40.114.245  -> 144.82.104.4    uclinst-gw4.uclinst
++ HELP  128.40.115.142  -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.116.126  -> 144.82.103.1    uclclust-lp1.uclclust

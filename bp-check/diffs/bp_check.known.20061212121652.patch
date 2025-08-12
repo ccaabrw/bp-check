@@ -1,0 +1,27 @@
+*** /tmp/d-KQkaa	Tue Dec 12 12:15:48 2006
+--- /tmp/bp_check.auto.393452	Tue Dec 12 12:15:48 2006
+***************
+*** 383,393 ****
+  HELP  128.40.214.245  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.222.245  -> 128.40.222.3    agwa.is-eisd
+  HELP  128.40.222.245  -> 144.82.100.187  cbds-a.ucl0
+- HELP  128.40.222.245  -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.222.245  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.222.245  -> 144.82.104.15   uclinst-gw15.uclinst
+- HELP  128.40.222.245  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.222.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.222.245  -> 144.82.117.43   ucl17-gw7.ucl17
+  HELP  128.40.223.245  -> 144.82.100.187  cbds-a.ucl0
+  HELP  128.40.228.245  -> 144.82.103.3    uclclust-lp3.uclclust
+--- 390,400 ----
+  HELP  128.40.214.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.222.245  -> 144.82.100.187  cbds-a.ucl0
+  HELP  128.40.223.245  -> 144.82.100.187  cbds-a.ucl0
++ HELP  128.40.223.254  -> 128.40.222.3    agwa.is-eisd
++ HELP  128.40.223.254  -> 144.82.103.128  uclusers-slp1.uclusers
++ HELP  128.40.223.254  -> 144.82.104.1    uclinst-gw1.uclinst
++ HELP  128.40.223.254  -> 144.82.104.15   uclinst-gw15.uclinst
++ HELP  128.40.223.254  -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  128.40.223.254  -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.223.254  -> 144.82.117.43   ucl17-gw7.ucl17
+  HELP  128.40.228.245  -> 144.82.103.3    uclclust-lp3.uclclust

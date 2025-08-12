@@ -1,0 +1,8 @@
+*** /tmp/d82mcqa	Tue Sep 19 12:56:47 2006
+--- /tmp/bp_check.auto.381106	Tue Sep 19 12:56:47 2006
+***************
+*** 46,47 ****
+--- 56,58 ----
+  MAC   XXXXXXXXXXXX  dpu-ws21.dpu            128.40.183.57   uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  dpu-ws30.dpu            128.40.183.66   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  dsachslt-ws1.dsachslt   128.40.89.76    uclinst-gw4.uclinst

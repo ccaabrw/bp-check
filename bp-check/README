@@ -1,0 +1,37 @@
+How to use bp_check.pl and it's friends
+---------------------------------------
+
+[ This is just a summary - see ~ccsposg/docs/general/bp_check ]
+[ for more info.                                              ]
+
+Quick guide:
+
+Edit some bootptab's, run bp_check.auto it will give you a list
+of new inconsistencies which show up.
+
+Stuff that appears:
+
+NAME  <hostname>	<not in DNS>	<MAC>	<server>
+	Machine has no entry in DNS
+
+HOST  <hostname>	<ipaddr>	<MAC>	<server>
+	Multiple entries for the same hostname
+
+MAC   <MAC>	<hostname>	<ipaddr>	<server>
+	Multiple entries for the same hardware address
+
+HELP  <gw-ipaddr> -> <serv-ipaddr>	<server>
+	This gateway needs this helper address
+
+MAC?  <MAC>	<hostname>
+	Invalid MAC address (bad chars or length)
+
+NET?  <hostname>	<ipaddr>	<gw> <sm> <server>
+	Subnet mismatch between ip and gw addr's
+
+
+Known stuff is listed in the bp_check.known file.
+This file is updated using the bp_check.update script -
+it uses the fuzzy mode of 'patch' so that manually entered
+comments in the file remain intact.
+

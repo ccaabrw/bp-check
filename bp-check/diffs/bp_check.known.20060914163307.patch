@@ -1,0 +1,84 @@
+*** /tmp/dy6Ymaa	Thu Sep 14 16:21:29 2006
+--- /tmp/bp_check.auto.1061048	Thu Sep 14 16:21:29 2006
+***************
+*** 1 ****
+--- 1,2 ----
++ NAME  arts-ws3                <not in DNS>    00188B053D5B  uclinst-gw23.uclinst
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+***************
+*** 3,4 ****
+--- 4,13 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  histart-ws26            <not in DNS>    XXXXXXXXXXXX  uclinst-gw23.uclinst
++ NAME  histart-ws31            <not in DNS>    XXXXXXXXXXXX  uclinst-gw23.uclinst
++ NAME  histart-ws33            <not in DNS>    XXXXXXXXXXXX  uclinst-gw23.uclinst
++ NAME  laws-ws11.laws          <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
++ NAME  laws-ws2.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
++ NAME  laws-ws3.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
++ NAME  laws-ws6.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
++ NAME  laws-ws8.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 94,96 ****
+--- 103,108 ----
+  MAC   XXXXXXXXXXXX  hist-ws8.hist           128.40.88.95    uclinst-gw14.uclinst
++ MAC   XXXXXXXXXXXX  histart-ws26            <not in DNS>    uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  histart-ws31            <not in DNS>    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  histart-ws32.histart    128.40.187.32   uclinst-gw16.uclinst
++ MAC   XXXXXXXXXXXX  histart-ws33            <not in DNS>    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws102.is-eisd    128.40.222.52   uclinst-gw20.uclinst
+***************
+*** 103,105 ****
+--- 115,131 ----
+  MAC   XXXXXXXXXXXX  iseisd-wstest1.is-eisd  128.40.222.11   uclinst-gw20.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws1.laws           128.40.66.23    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws10.laws          128.40.66.31    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws11.laws          <not in DNS>    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws12.laws          128.40.66.5     uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws13.laws          128.40.66.33    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws2.laws           <not in DNS>    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws27.laws          128.40.66.40    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws3.laws           <not in DNS>    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws4.laws           128.40.66.25    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws6.laws           <not in DNS>    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws7.laws           128.40.66.28    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws8.laws           <not in DNS>    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws9.laws           128.40.66.30    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsdms10.lib         128.40.60.160   uclinst-gw8.uclinst
+***************
+*** 114,116 ****
+--- 140,145 ----
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  medadm-ws20.medadm      193.60.248.170  uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  medadm-ws40.medadm      193.60.248.190  uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  medadm-ws43.medadm      193.60.248.194  uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  npsa.cloist             128.40.170.36   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsa.exam               128.40.181.12   uclusers-slp4.uclusers
+***************
+*** 128,129 ****
+--- 157,159 ----
+  MAC   XXXXXXXXXXXX  npsc.arts               128.40.29.22    uclclust-lp2.uclclust
++ MAC   XXXXXXXXXXXX  npsc.cloist             128.40.170.38   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsc.exam               128.40.181.15   uclusers-slp4.uclusers
+***************
+*** 134,136 ****
+--- 164,168 ----
+  MAC   XXXXXXXXXXXX  npsc.vpoff              128.40.83.121   uclusers-slp2.uclusers
++ MAC   XXXXXXXXXXXX  npsd.cloist             128.40.170.39   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsd.exam               128.40.181.20   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npsd.vpoff              128.40.207.31   uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npse.cloist             128.40.170.40   uclusers-slp4.uclusers
+***************
+*** 138,139 ****
+--- 170,172 ----
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers
++ MAC   XXXXXXXXXXXX  npsf.cloist             128.40.170.41   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsf.prov               128.40.83.27    uclusers-slp2.uclusers
+***************
+*** 370,371 ****
+--- 403,405 ----
+  HELP  128.40.207.245  -> 144.82.103.128  uclusers-slp1.uclusers
++ HELP  128.40.207.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.207.245  -> 144.82.103.130  uclusers-slp3.uclusers

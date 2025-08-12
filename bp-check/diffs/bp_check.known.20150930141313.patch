@@ -1,0 +1,8 @@
+*** /tmp/d--anya	Wed Sep 30 14:12:56 2015
+--- /tmp/bp_check.auto.8061036	Wed Sep 30 14:12:55 2015
+***************
+*** 61,63 ****
+  HELP  128.40.156.254  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.156.62   -> 144.82.104.11   uclinst-gw11.uclinst
+  HELP  128.40.157.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 61,62 ----

@@ -1,0 +1,8 @@
+*** /tmp/dyTinEa	Fri Apr  1 14:42:22 2011
+--- /tmp/bp_check.auto.295014	Fri Apr  1 14:42:22 2011
+***************
+*** 278,280 ****
+  HELP  128.40.37.254   -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.37.254   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.37.254   -> 144.82.104.21   uclinst-gw21.uclinst
+--- 278,279 ----

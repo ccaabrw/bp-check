@@ -1,0 +1,8 @@
+*** /tmp/dohybUa	Tue Sep 12 10:50:06 2006
+--- /tmp/bp_check.auto.458822	Tue Sep 12 10:50:06 2006
+***************
+*** 511,512 ****
+--- 513,515 ----
+  HELP  128.40.66.245   -> 144.82.104.8    uclinst-gw8.uclinst
++ HELP  128.40.68.62    -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.68.62    -> 144.82.104.8    uclinst-gw8.uclinst

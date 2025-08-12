@@ -1,0 +1,8 @@
+*** /tmp/dyJaeUa	Fri Jun  9 10:19:32 2017
+--- /tmp/bp_check.auto.18940010	Fri Jun  9 10:19:31 2017
+***************
+*** 23,27 ****
+- HELP  128.40.140.245  -> 144.82.104.14   uclinst-gw14.uclinst
+- HELP  128.40.141.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.141.245  -> 144.82.104.12   uclinst-gw12.uclinst
+--- 23,24 ----

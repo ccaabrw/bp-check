@@ -1,0 +1,63 @@
+#!/usr/bin/perl
+#
+# bp_syn					Apr 2006	Bri
+#
+# Parses a bootptab file on standard input and expands any template
+# entries inline. For example:
+#
+#	# Simple bootptab file
+#	
+#	.template:sn=255.255.255.128:
+#	host.net:hn:tc=.template:ha=0123456789ab:
+#
+# becomes
+#
+#	# Simple bootptab file
+#
+#	.template:sn=255.255.255.128:
+#	host.net:hn:sn=255.255.255.128:ha=0123456789ab:
+#
+# This script should be used as a wrapper for reading bootptab files
+# into other programs, to allow for the wide use of templates in the
+# netboot infrastructure.
+
+while ($line=<ARGV>) {
+	chomp ($line);
+	if ($line =~ /^#/ || $line =~ /^$/) {
+		# Comment or blank line - just fall through
+
+	} elsif ($line =~ /^\./) {
+		# Found a template definition
+
+		($temp, $data) = split(/:/, $line, 2);
+		$template{$temp} = $data;
+
+	} else {
+		# Normal line
+
+		my (%data, @tagnames);
+
+		# Replace any templates
+		foreach $temp (keys %template) {
+			$line =~ s/:tc=$temp:/:$template{$temp}/g;
+		}
+
+		# Parse each item (in order) to remove duplicates
+		($hn, @tags) = split(/:/, $line);
+		foreach $tag (@tags) {
+			($id) = split(/=/, $tag);
+			if (!exists $data{$id}) {
+				push @tagnames, $id;
+			}
+			$data{$id} = $tag;
+		}
+
+		# Reassemble data
+		$line = $hn . ":";
+		foreach $id (@tagnames) {
+			$line .= $data{$id} . ":";
+		}
+
+	}
+	print "$line\n";
+}

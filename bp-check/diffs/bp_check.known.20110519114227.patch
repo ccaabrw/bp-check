@@ -1,0 +1,21 @@
+*** /tmp/dP_Ei7a	Thu May 19 11:42:21 2011
+--- /tmp/bp_check.auto.495650	Thu May 19 11:42:20 2011
+***************
+*** 31,34 ****
+  HELP  128.40.132.245  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.133.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.133.245  -> 144.82.104.3    uclinst-gw3.uclinst
+  HELP  128.40.136.245  -> 144.82.103.2    uclclust-lp2.uclclust
+--- 31,32 ----
+***************
+*** 103,104 ****
+--- 101,103 ----
+  HELP  128.40.163.62   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.168.14   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.169.102  -> 144.82.104.10   uclinst-gw10.uclinst
+***************
+*** 206,207 ****
+--- 205,207 ----
+  HELP  128.40.211.78   -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.211.86   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.212.245  -> 144.82.103.128  uclusers-slp1.uclusers

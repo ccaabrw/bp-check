@@ -1,0 +1,8 @@
+*** /tmp/d3JYmia	Sat Jun  5 11:47:21 2010
+--- /tmp/bp_check.auto.2322472	Sat Jun  5 11:47:21 2010
+***************
+*** 408,409 ****
+--- 408,410 ----
+  HELP  193.60.232.245  -> 144.82.103.129  uclusers-slp2.uclusers
++ HELP  193.60.232.245  -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  193.60.233.245  -> 144.82.103.1    uclclust-lp1.uclclust

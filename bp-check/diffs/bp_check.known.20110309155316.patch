@@ -1,0 +1,8 @@
+*** /tmp/dd6Ud7a	Wed Mar  9 15:53:13 2011
+--- /tmp/bp_check.auto.577540	Wed Mar  9 15:53:13 2011
+***************
+*** 237,239 ****
+  HELP  128.40.24.245   -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.24.245   -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.240.245  -> 144.82.103.130  uclusers-slp3.uclusers
+--- 237,238 ----

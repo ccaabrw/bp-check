@@ -1,0 +1,9 @@
+*** /tmp/dlUAnUa	Thu Aug 25 16:48:48 2011
+--- /tmp/bp_check.auto.1142836	Thu Aug 25 16:48:48 2011
+***************
+*** 40,41 ****
+--- 41,44 ----
+  HELP  128.40.141.245  -> 144.82.104.12   uclinst-gw12.uclinst
++ HELP  128.40.142.254  -> 144.82.103.3    uclclust-lp3.uclclust
++ HELP  128.40.142.254  -> 144.82.104.17   uclinst-gw17.uclinst
+  HELP  128.40.142.30   -> 144.82.103.1    uclclust-lp1.uclclust

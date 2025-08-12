@@ -1,0 +1,9 @@
+*** -	2006-09-25 17:39:54.927239000 +0100
+--- /tmp/bp_check.auto.24734	2006-09-25 17:39:54.000000000 +0100
+***************
+*** 1,4 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- MAC   0004761B4EDA  ccrm-ws1.ccrm           128.40.37.188   uclinst-gw16.uclinst
+- MAC   0004761B4EDA  iseisd-ws112.is-eisd    128.40.222.62   uclinst-gw1.uclinst
+  NAME  crucilib-ws18.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+--- 1,2 ----

@@ -1,0 +1,13 @@
+*** /tmp/d3L3paa	Thu Dec  6 09:23:41 2012
+--- /tmp/bp_check.auto.946410	Thu Dec  6 09:23:41 2012
+***************
+*** 254,257 ****
+  HELP  128.40.28.245   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.29.245   -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.29.245   -> 144.82.103.2    uclclust-lp2.uclclust
+  HELP  128.40.29.245   -> 144.82.104.15   uclinst-gw15.uclinst
+--- 254,257 ----
+  HELP  128.40.28.245   -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  128.40.29.245   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.29.245   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.29.245   -> 144.82.104.15   uclinst-gw15.uclinst

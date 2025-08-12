@@ -1,0 +1,16 @@
+*** /tmp/dh-akaa	Fri Jun 27 09:56:16 2008
+--- /tmp/bp_check.auto.1216632	Fri Jun 27 09:56:15 2008
+***************
+*** 4,6 ****
+  MAC   FFFFFFFFFFFF  ucl41-wybook1.ucl-41.ucl.ac.uk128.40.141.150  cbds-a.ucl0
+- MAC   FFFFFFFFFFFF  ucl43-wybook1.ucl-43.ucl.ac.uk128.40.143.150  cbds-a.ucl0
+  MAC   FFFFFFFFFFFF  ucl45-wybook1.ucl-45.ucl.ac.uk128.40.145.150  cbds-a.ucl0
+--- 4,5 ----
+***************
+*** 76,80 ****
+  HELP  128.40.142.30   -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.143.245  -> 144.82.100.187  cbds-a.ucl0
+- HELP  128.40.143.245  -> 144.82.103.4    uclclust-lp4.uclclust
+- HELP  128.40.143.245  -> 144.82.104.12   uclinst-gw12.uclinst
+  HELP  128.40.145.245  -> 144.82.100.187  cbds-a.ucl0
+--- 75,76 ----

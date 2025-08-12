@@ -1,0 +1,22 @@
+*** /tmp/dy5ibaa	Tue Apr  3 15:42:37 2007
+--- /tmp/bp_check.auto.651300	Tue Apr  3 15:42:37 2007
+***************
+*** 17,18 ****
+--- 18,20 ----
+  MAC   XXXXXXXXXXXX  arts-ws53.arts          128.40.29.153   uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  arts-ws9.arts           128.40.29.109   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
+***************
+*** 64,68 ****
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws19.laws          128.40.66.51    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws20.laws          128.40.66.52    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws29.laws          128.40.66.129   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws39.laws          128.40.66.29    uclinst-gw22.uclinst
+--- 66,67 ----
+***************
+*** 126,127 ****
+--- 125,127 ----
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  scand-ws6.scand         128.40.191.169  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst

@@ -1,0 +1,27 @@
+*** /tmp/dF5ejMa	Fri May 18 11:47:44 2007
+--- /tmp/bp_check.auto.1613858	Fri May 18 11:47:44 2007
+***************
+*** 65,66 ****
+--- 69,75 ----
+  MAC   XXXXXXXXXXXX  iseisd-ws33.is-eisd     128.40.223.134  uclinst-gw1.uclinst
++ MAC   XXXXXXXXXXXX  isloan-ws1.isloan       128.40.211.133  uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  isloan-ws2.isloan       128.40.89.58    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  isloan-ws3.isloan       128.40.89.59    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  isloan-ws4.isloan       128.40.89.60    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  isloan-ws5.isloan       128.40.89.61    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+***************
+*** 117,119 ****
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+! MAC   XXXXXXXXXXXX  slade-ws17.slade        <not in DNS>    uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 126,128 ----
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+! MAC   XXXXXXXXXXXX  slade-ws17.slade        128.40.189.169  uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+***************
+*** 508,509 ****
+--- 517,519 ----
+  HELP  128.40.89.206   -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.89.222   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.89.222   -> 144.82.103.3    uclclust-lp3.uclclust

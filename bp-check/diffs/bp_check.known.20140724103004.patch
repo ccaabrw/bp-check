@@ -1,0 +1,72 @@
+*** /tmp/d_XaiMa	Thu Jul 24 10:29:18 2014
+--- /tmp/bp_check.auto.22937698	Thu Jul 24 10:29:18 2014
+***************
+*** 11,14 ****
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.118.126  -> <not in DNS>    udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.121.254  -> 144.82.103.128  uclusers-slp1.uclusers
+--- 11,14 ----
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.118.126  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.121.254  -> 144.82.103.128  uclusers-slp1.uclusers
+***************
+*** 53,54 ****
+--- 53,55 ----
+  HELP  128.40.148.245  -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.15.254   -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.15.254   -> 144.82.104.11   uclinst-gw11.uclinst
+***************
+*** 55,57 ****
+  HELP  128.40.15.254   -> 144.82.104.7    uclinst-gw7.uclinst
+- HELP  128.40.15.254   -> <not in DNS>    udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.150.126  -> 144.82.104.4    uclinst-gw4.uclinst
+--- 56,57 ----
+***************
+*** 165,166 ****
+--- 165,167 ----
+  HELP  128.40.196.245  -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.198.254  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.198.254  -> 144.82.103.128  uclusers-slp1.uclusers
+***************
+*** 168,170 ****
+  HELP  128.40.198.254  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.198.254  -> <not in DNS>    udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.2.245    -> 144.82.104.23   uclinst-gw23.uclinst
+--- 169,170 ----
+***************
+*** 194,195 ****
+--- 194,196 ----
+  HELP  128.40.218.245  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.223.254  -> 10.10.115.7     udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.223.254  -> 144.82.103.128  uclusers-slp1.uclusers
+***************
+*** 196,198 ****
+  HELP  128.40.223.254  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.223.254  -> <not in DNS>    udxpvs01d.addev.ucl.ac.uk
+  HELP  128.40.228.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 197,198 ----
+***************
+*** 295,297 ****
+  HELP  128.40.63.245   -> 144.82.104.23   uclinst-gw23.uclinst
+! HELP  128.40.65.126   -> <not in DNS>    uddhcp02t.adtest.bcc.ac.uk
+  HELP  128.40.66.245   -> 144.82.103.129  uclusers-slp2.uclusers
+--- 295,298 ----
+  HELP  128.40.63.245   -> 144.82.104.23   uclinst-gw23.uclinst
+! HELP  128.40.65.126   -> 10.60.64.61     uddhcp01t.adtest.bcc.ac.uk
+! HELP  128.40.65.126   -> 10.60.65.61     uddhcp02t.adtest.bcc.ac.uk
+  HELP  128.40.66.245   -> 144.82.103.129  uclusers-slp2.uclusers
+***************
+*** 347,350 ****
+  HELP  128.41.4.254    -> 144.82.104.21   uclinst-gw21.uclinst
+! HELP  128.41.7.254    -> <not in DNS>    uddhcp02t.adtest.bcc.ac.uk
+! HELP  128.41.8.254    -> <not in DNS>    uddhcp02t.adtest.bcc.ac.uk
+  HELP  144.82.117.126  -> 144.82.104.20   uclinst-gw20.uclinst
+--- 348,353 ----
+  HELP  128.41.4.254    -> 144.82.104.21   uclinst-gw21.uclinst
+! HELP  128.41.7.254    -> 10.60.64.61     uddhcp01t.adtest.bcc.ac.uk
+! HELP  128.41.7.254    -> 10.60.65.61     uddhcp02t.adtest.bcc.ac.uk
+! HELP  128.41.8.254    -> 10.60.64.61     uddhcp01t.adtest.bcc.ac.uk
+! HELP  128.41.8.254    -> 10.60.65.61     uddhcp02t.adtest.bcc.ac.uk
+  HELP  144.82.117.126  -> 144.82.104.20   uclinst-gw20.uclinst

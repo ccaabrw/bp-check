@@ -1,0 +1,22 @@
+*** /tmp/dnMUgaa	Fri Nov 15 14:19:25 2013
+--- /tmp/bp_check.auto.860236	Fri Nov 15 14:19:25 2013
+***************
+*** 92,94 ****
+  HELP  128.40.161.222  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.161.30   -> 144.82.103.2    uclclust-lp2.uclclust
+  HELP  128.40.161.30   -> 144.82.104.22   uclinst-gw22.uclinst
+--- 92,93 ----
+***************
+*** 303,305 ****
+  HELP  128.40.48.30    -> 144.82.104.12   uclinst-gw12.uclinst
+- HELP  128.40.49.245   -> 144.82.103.4    uclclust-lp4.uclclust
+  HELP  128.40.49.245   -> 144.82.104.14   uclinst-gw14.uclinst
+--- 302,303 ----
+***************
+*** 355,359 ****
+  HELP  128.40.89.238   -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.89.30    -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.89.30    -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.89.46    -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.89.46    -> 144.82.104.20   uclinst-gw20.uclinst
+--- 353,355 ----

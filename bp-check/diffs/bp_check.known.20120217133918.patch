@@ -1,0 +1,9 @@
+*** /tmp/d043aMa	Fri Feb 17 13:39:03 2012
+--- /tmp/bp_check.auto.655586	Fri Feb 17 13:39:03 2012
+***************
+*** 57,60 ****
+  HELP  128.40.150.126  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.152.245  -> 144.82.104.15   uclinst-gw15.uclinst
+- HELP  128.40.152.245  -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.154.190  -> 144.82.103.128  uclusers-slp1.uclusers
+--- 57,58 ----

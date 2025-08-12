@@ -1,0 +1,7 @@
+*** /tmp/dOYmo7a	Tue May 24 18:34:48 2011
+--- /tmp/bp_check.auto.1101870	Tue May 24 18:34:48 2011
+***************
+*** 405,406 ****
+--- 405,408 ----
++ HELP  193.60.234.158  -> 144.82.103.129  uclusers-slp2.uclusers
++ HELP  193.60.234.158  -> 144.82.104.10   uclinst-gw10.uclinst

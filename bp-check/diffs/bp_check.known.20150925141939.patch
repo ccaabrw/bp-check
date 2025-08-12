@@ -1,0 +1,8 @@
+*** /tmp/d-kapqa	Fri Sep 25 14:18:49 2015
+--- /tmp/bp_check.auto.12386356	Fri Sep 25 14:18:49 2015
+***************
+*** 61,63 ****
+  HELP  128.40.156.254  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.156.62   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.156.62   -> 144.82.104.11   uclinst-gw11.uclinst
+--- 61,62 ----

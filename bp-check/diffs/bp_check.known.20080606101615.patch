@@ -1,0 +1,8 @@
+*** /tmp/dg-AcMa	Fri Jun  6 10:14:56 2008
+--- /tmp/bp_check.auto.14073958	Fri Jun  6 10:14:56 2008
+***************
+*** 149,150 ****
+--- 149,151 ----
+  HELP  128.40.170.245  -> 144.82.103.131  uclusers-slp4.uclusers
++ HELP  128.40.170.245  -> 144.82.103.2    uclclust-lp2.uclclust
+  HELP  128.40.170.245  -> 144.82.104.10   uclinst-gw10.uclinst

@@ -1,0 +1,8 @@
+*** /tmp/dSSigUa	Wed Oct 24 14:38:32 2012
+--- /tmp/bp_check.auto.745472	Wed Oct 24 14:38:32 2012
+***************
+*** 305,307 ****
+  HELP  128.40.48.222   -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.48.222   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.48.30    -> 144.82.103.4    uclclust-lp4.uclclust
+--- 305,306 ----

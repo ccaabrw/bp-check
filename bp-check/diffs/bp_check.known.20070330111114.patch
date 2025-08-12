@@ -1,0 +1,8 @@
+*** /tmp/dVnQfEa	Fri Mar 30 11:10:58 2007
+--- /tmp/bp_check.auto.1339618	Fri Mar 30 11:10:58 2007
+***************
+*** 113,114 ****
+--- 113,115 ----
+  MAC   XXXXXXXXXXXX  npsn.sopps              128.40.176.33   uclusers-slp4.uclusers
++ MAC   XXXXXXXXXXXX  npss.is-eisd            128.40.222.38   uclusers-slp1.uclusers
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers

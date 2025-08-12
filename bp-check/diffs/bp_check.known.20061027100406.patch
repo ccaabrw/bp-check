@@ -1,0 +1,66 @@
+*** /tmp/dXRYoMa	Fri Oct 27 10:03:05 2006
+--- /tmp/bp_check.auto.1257494	Fri Oct 27 10:03:05 2006
+***************
+*** 51,52 ****
+--- 68,73 ----
+  MAC   XXXXXXXXXXXX  geog-ws158.geog         128.40.32.31    uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  geog-ws160.geog         128.40.33.220   uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  geog-ws60.geog          128.40.32.123   uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  geog-ws61.geog          128.40.32.124   uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  geog-ws63.geog          <not in DNS>    uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  german-ws20.german      128.40.191.186  uclinst-gw22.uclinst
+***************
+*** 125,131 ****
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  studuni-tc1.studuni     128.40.37.161   uclinst-gw17.uclinst
+- MAC   XXXXXXXXXXXX  studuni-tc2.studuni     128.40.37.162   uclinst-gw17.uclinst
+- MAC   XXXXXXXXXXXX  studuni-tc3.studuni     128.40.37.163   uclinst-gw17.uclinst
+- MAC   XXXXXXXXXXXX  studuni-tc5.studuni     128.40.37.165   uclinst-gw17.uclinst
+- MAC   XXXXXXXXXXXX  studuni-tc6.studuni     128.40.37.166   uclinst-gw17.uclinst
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+--- 146,147 ----
+***************
+*** 139,149 ****
+  MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws17.ucl20        128.40.156.87   uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws19.ucl20        128.40.156.89   uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws3.ucl20         128.40.156.73   uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws34.ucl20        128.40.156.104  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws35.ucl20        128.40.156.105  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws4.ucl20         128.40.156.74   uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws6.ucl20         128.40.156.76   uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws7.ucl20         128.40.156.77   uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.156.78   uclinst-gw12.uclinst
+  MAC   XXXXXXXXXXXX  ucl28-ws125.ucl28       128.40.128.205  uclinst-gw23.uclinst
+--- 155,179 ----
+  MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws1.ucl20         128.40.161.225  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws10.ucl20        128.40.161.234  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws11.ucl20        128.40.161.235  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws12.ucl20        128.40.161.236  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws13.ucl20        128.40.161.237  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws14.ucl20        128.40.161.238  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws15.ucl20        128.40.161.239  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws16.ucl20        128.40.161.240  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws17.ucl20        128.40.161.241  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws18.ucl20        128.40.161.242  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws19.ucl20        128.40.161.243  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws2.ucl20         128.40.161.226  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws20.ucl20        128.40.161.244  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws3.ucl20         128.40.161.227  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws34.ucl20        <not in DNS>    uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws35.ucl20        <not in DNS>    uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws4.ucl20         128.40.161.228  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws5.ucl20         128.40.161.229  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws6.ucl20         128.40.161.230  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws7.ucl20         128.40.161.231  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.161.232  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-ws9.ucl20         128.40.161.233  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl20-wspr1.ucl20       128.40.161.250  uclinst-gw12.uclinst
+  MAC   XXXXXXXXXXXX  ucl28-ws125.ucl28       128.40.128.205  uclinst-gw23.uclinst
+***************
+*** 265,266 ****
+--- 295,297 ----
+  HELP  128.40.161.222  -> 144.82.104.8    uclinst-gw8.uclinst
++ HELP  128.40.161.254  -> 144.82.104.12   uclinst-gw12.uclinst
+  HELP  128.40.161.30   -> 144.82.103.2    uclclust-lp2.uclclust

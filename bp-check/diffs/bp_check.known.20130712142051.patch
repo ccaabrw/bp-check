@@ -1,0 +1,8 @@
+*** /tmp/dI5eiUa	Fri Jul 12 14:20:35 2013
+--- /tmp/bp_check.auto.335882	Fri Jul 12 14:20:35 2013
+***************
+*** 344,346 ****
+  HELP  128.40.68.62    -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.68.94    -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.68.94    -> 144.82.104.21   uclinst-gw21.uclinst
+--- 344,345 ----

@@ -1,0 +1,9 @@
+*** /tmp/dnH3iaa	Fri May 11 10:06:53 2007
+--- /tmp/bp_check.auto.1994946	Fri May 11 10:06:53 2007
+***************
+*** 56,59 ****
+  MAC   XXXXXXXXXXXX  german-ws24.german      128.40.191.190  uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws48.hist          128.40.88.173   uclinst-gw14.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws49.hist          128.40.88.174   uclinst-gw14.uclinst
+  MAC   XXXXXXXXXXXX  hist-ws8.hist           128.40.88.95    uclinst-gw14.uclinst
+--- 56,57 ----

@@ -1,0 +1,14 @@
+*** /tmp/de6mlaa	Thu Oct 18 11:48:53 2012
+--- /tmp/bp_check.auto.254108	Thu Oct 18 11:48:53 2012
+***************
+*** 3,5 ****
+  HELP  128.40.108.245  -> 144.82.104.14   uclinst-gw14.uclinst
+- HELP  128.40.111.126  -> 144.82.103.4    uclclust-lp4.uclclust
+  HELP  128.40.111.126  -> 144.82.104.17   uclinst-gw17.uclinst
+--- 5,6 ----
+***************
+*** 184,185 ****
+--- 185,187 ----
+  HELP  128.40.196.245  -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.198.254  -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.2.245    -> 144.82.104.23   uclinst-gw23.uclinst

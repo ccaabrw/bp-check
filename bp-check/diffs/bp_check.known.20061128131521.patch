@@ -1,0 +1,20 @@
+*** /tmp/dL47iUa	Tue Nov 28 13:10:34 2006
+--- /tmp/bp_check.auto.524352	Tue Nov 28 13:10:34 2006
+***************
+*** 3,4 ****
+--- 3,6 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  lib-wsdms26.lib         <not in DNS>    001871889209  uclinst-gw8.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 68,70 ****
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  jour1stor-stor.lib      128.40.89.138   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws14.laws          128.40.66.46    uclinst-gw22.uclinst
+--- 70,71 ----
+***************
+*** 578,579 ****
+--- 580,582 ----
+  HELP  193.60.253.94   -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  194.66.92.245   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  195.195.96.254  -> 144.82.103.2    uclclust-lp2.uclclust

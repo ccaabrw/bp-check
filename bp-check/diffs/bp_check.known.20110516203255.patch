@@ -1,0 +1,14 @@
+*** /tmp/dqrYhia	Mon May 16 20:29:46 2011
+--- /tmp/bp_check.auto.1237134	Mon May 16 20:29:46 2011
+***************
+*** 7,9 ****
+  HELP  128.40.111.62   -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.114.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.114.245  -> 144.82.104.4    uclinst-gw4.uclinst
+--- 7,8 ----
+***************
+*** 296,298 ****
+  HELP  128.40.47.30    -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.47.30    -> 144.82.104.5    uclinst-gw5.uclinst
+  HELP  128.40.48.158   -> 144.82.103.4    uclclust-lp4.uclclust
+--- 295,296 ----

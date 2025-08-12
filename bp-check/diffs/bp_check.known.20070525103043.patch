@@ -1,0 +1,8 @@
+*** /tmp/d3x3kaa	Fri May 25 10:28:37 2007
+--- /tmp/bp_check.auto.1605768	Fri May 25 10:28:37 2007
+***************
+*** 123,124 ****
+--- 123,125 ----
+  MAC   XXXXXXXXXXXX  prov-ws8.prov           128.40.83.62    uclinst-gw11.uclinst
++ MAC   XXXXXXXXXXXX  reg-ws15.reg            128.40.87.165   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst

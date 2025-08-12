@@ -1,0 +1,8 @@
+*** /tmp/dP2mnya	Wed Nov  8 09:48:16 2006
+--- /tmp/bp_check.auto.1359970	Wed Nov  8 09:48:16 2006
+***************
+*** 109,111 ****
+  MAC   XXXXXXXXXXXX  npsc.telref             128.40.179.152  uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsd.cemi               128.40.23.5     uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsd.exam               128.40.181.20   uclusers-slp4.uclusers
+--- 109,110 ----

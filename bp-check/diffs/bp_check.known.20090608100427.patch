@@ -1,0 +1,8 @@
+*** /tmp/dD-Enya	Mon Jun  8 10:04:21 2009
+--- /tmp/bp_check.auto.15630366	Mon Jun  8 10:04:21 2009
+***************
+*** 77,78 ****
+--- 77,79 ----
+  HELP  128.40.154.78   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.155.158  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.156.62   -> 144.82.103.3    uclclust-lp3.uclclust

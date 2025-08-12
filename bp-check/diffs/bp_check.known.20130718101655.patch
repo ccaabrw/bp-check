@@ -1,0 +1,8 @@
+*** /tmp/dbfuf7a	Thu Jul 18 10:16:41 2013
+--- /tmp/bp_check.auto.1356024	Thu Jul 18 10:16:40 2013
+***************
+*** 428,429 ****
+--- 428,430 ----
+  HELP  193.60.242.245  -> 144.82.103.129  uclusers-slp2.uclusers
++ HELP  193.60.243.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  193.60.244.245  -> 144.82.103.129  uclusers-slp2.uclusers

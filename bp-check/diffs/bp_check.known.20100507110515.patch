@@ -1,0 +1,8 @@
+*** /tmp/dQWAaya	Fri May  7 11:05:11 2010
+--- /tmp/bp_check.auto.4034784	Fri May  7 11:05:11 2010
+***************
+*** 335,336 ****
+--- 335,337 ----
+  HELP  128.40.78.245   -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.79.254   -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.80.245   -> 144.82.104.20   uclinst-gw20.uclinst

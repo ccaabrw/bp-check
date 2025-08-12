@@ -1,0 +1,8 @@
+*** /tmp/dpRymUa	Thu Jun 23 17:02:54 2011
+--- /tmp/bp_check.auto.1929460	Thu Jun 23 17:02:54 2011
+***************
+*** 36,38 ****
+  HELP  128.40.139.245  -> 144.82.103.2    uclclust-lp2.uclclust
+- HELP  128.40.139.245  -> 144.82.104.6    uclinst-gw6.uclinst
+  HELP  128.40.140.245  -> 144.82.103.4    uclclust-lp4.uclclust
+--- 36,37 ----

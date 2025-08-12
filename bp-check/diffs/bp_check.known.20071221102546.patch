@@ -1,0 +1,8 @@
+*** /tmp/djsepia	Fri Dec 21 10:25:42 2007
+--- /tmp/bp_check.auto.696414	Fri Dec 21 10:25:42 2007
+***************
+*** 342,344 ****
+  HELP  128.40.60.245   -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.62.245   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.62.245   -> 144.82.104.15   uclinst-gw15.uclinst
+--- 342,343 ----

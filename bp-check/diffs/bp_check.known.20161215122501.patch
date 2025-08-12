@@ -1,0 +1,8 @@
+*** /tmp/dzDahMa	Thu Dec 15 12:24:55 2016
+--- /tmp/bp_check.auto.8978654	Thu Dec 15 12:24:55 2016
+***************
+*** 3,5 ****
+  HELP  128.40.108.245  -> 144.82.104.14   uclinst-gw14.uclinst
+- HELP  128.40.111.126  -> 144.82.104.17   uclinst-gw17.uclinst
+  HELP  128.40.114.245  -> 144.82.104.4    uclinst-gw4.uclinst
+--- 3,4 ----

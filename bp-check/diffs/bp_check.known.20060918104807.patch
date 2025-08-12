@@ -1,0 +1,23 @@
+*** /tmp/dwhmhqa	Mon Sep 18 10:47:54 2006
+--- /tmp/bp_check.auto.544826	Mon Sep 18 10:47:54 2006
+***************
+*** 107,110 ****
+  MAC   XXXXXXXXXXXX  iseisd-wstest1.is-eisd  128.40.222.11   uclinst-gw20.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws1.laws           128.40.66.23    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws10.laws          128.40.66.31    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws11.laws          128.40.66.124   uclinst-gw22.uclinst
+--- 107,108 ----
+***************
+*** 113,123 ****
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws2.laws           128.40.66.113   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws27.laws          128.40.66.40    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws3.laws           128.40.66.114   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws4.laws           128.40.66.25    uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws6.laws           128.40.66.116   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws7.laws           128.40.66.28    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws8.laws           128.40.66.118   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws9.laws           128.40.66.30    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsdms10.lib         128.40.60.160   uclinst-gw8.uclinst
+--- 111,114 ----

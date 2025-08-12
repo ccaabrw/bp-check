@@ -1,0 +1,8 @@
+*** /tmp/d15Mlqa	Fri Oct  4 14:46:07 2013
+--- /tmp/bp_check.auto.741612	Fri Oct  4 14:46:07 2013
+***************
+*** 334,336 ****
+  HELP  128.40.78.245   -> 144.82.104.15   uclinst-gw15.uclinst
+- HELP  128.40.78.245   -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.79.254   -> 144.82.104.22   uclinst-gw22.uclinst
+--- 334,335 ----

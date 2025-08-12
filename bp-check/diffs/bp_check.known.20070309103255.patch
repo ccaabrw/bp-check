@@ -1,0 +1,16 @@
+*** /tmp/do_QpEa	Fri Mar  9 10:31:44 2007
+--- /tmp/bp_check.auto.1400930	Fri Mar  9 10:31:44 2007
+***************
+*** 1,2 ****
+- NAME  npsv.med                <not in DNS>    XXXXXXXXXXXX  uclusers-slp4.uclusers
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+--- 1 ----
+***************
+*** 117,119 ****
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+! MAC   XXXXXXXXXXXX  npsv.med                <not in DNS>    uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+--- 116,118 ----
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+! MAC   XXXXXXXXXXXX  npsv.med                128.40.238.151  uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst

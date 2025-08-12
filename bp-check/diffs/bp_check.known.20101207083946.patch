@@ -1,0 +1,8 @@
+*** /tmp/dBxQcMa	Tue Dec  7 08:39:31 2010
+--- /tmp/bp_check.auto.598210	Tue Dec  7 08:39:31 2010
+***************
+*** 147,149 ****
+  HELP  128.40.184.30   -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.184.94   -> 144.82.104.15   uclinst-gw15.uclinst
+  HELP  128.40.186.254  -> 144.82.103.131  uclusers-slp4.uclusers
+--- 147,148 ----

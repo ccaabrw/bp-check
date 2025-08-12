@@ -1,0 +1,8 @@
+*** /tmp/d-DaiMa	Fri Feb 20 10:44:50 2015
+--- /tmp/bp_check.auto.8781906	Fri Feb 20 10:44:49 2015
+***************
+*** 240,242 ****
+  HELP  128.40.45.254   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.47.158   -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.47.222   -> 144.82.103.129  uclusers-slp2.uclusers
+--- 240,241 ----

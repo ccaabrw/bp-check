@@ -1,0 +1,8 @@
+*** /tmp/d0lagya	Thu Jan  6 11:10:06 2011
+--- /tmp/bp_check.auto.667752	Thu Jan  6 11:10:06 2011
+***************
+*** 382,384 ****
+  HELP  144.82.122.245  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  144.82.124.245  -> 144.82.103.3    uclclust-lp3.uclclust
+  HELP  144.82.131.245  -> 144.82.103.2    uclclust-lp2.uclclust
+--- 382,383 ----

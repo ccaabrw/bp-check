@@ -1,0 +1,21 @@
+*** /tmp/di4Qpia	Tue Mar 20 13:27:38 2007
+--- /tmp/bp_check.auto.737312	Tue Mar 20 13:27:38 2007
+***************
+*** 73,74 ****
+--- 74,77 ----
+  MAC   XXXXXXXXXXXX  lib-wsdms88.lib         128.40.60.238   uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  lib-wsilo7.lib          128.40.248.60   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  lib-wsilo8.lib          128.40.248.61   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsmain63.lib        128.40.212.144  uclinst-gw5.uclinst
+***************
+*** 75,76 ****
+--- 78,80 ----
+  MAC   XXXXXXXXXXXX  lib-wsmain65.lib        128.40.212.146  uclinst-gw5.uclinst
++ MAC   XXXXXXXXXXXX  lib-wspr1.lib           128.40.248.62   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
+***************
+*** 110,111 ****
+--- 114,116 ----
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
++ MAC   XXXXXXXXXXXX  npsilob.lib             128.40.248.63   uclclust-lp3.uclclust
+  MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers

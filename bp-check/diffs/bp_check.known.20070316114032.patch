@@ -1,0 +1,27 @@
+*** /tmp/d-6QoUa	Fri Mar 16 11:38:41 2007
+--- /tmp/bp_check.auto.1667290	Fri Mar 16 11:38:41 2007
+***************
+*** 76,77 ****
+--- 82,85 ----
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
++ MAC   XXXXXXXXXXXX  maps-ws4.maps           128.40.154.184  uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  maps-ws5.maps           128.40.154.185  uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  med-ws122.med           128.40.253.226  uclinst-gw8.uclinst
+***************
+*** 116,118 ****
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+- MAC   XXXXXXXXXXXX  npsv.med                128.40.238.151  uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+--- 124,125 ----
+***************
+*** 123,124 ****
+--- 130,132 ----
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  slade-ws8.slade         128.40.189.158  uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+***************
+*** 133,134 ****
+--- 141,143 ----
+  MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
++ MAC   XXXXXXXXXXXX  ucl27-ws39.ucl27        128.40.127.189  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst

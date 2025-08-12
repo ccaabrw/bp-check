@@ -1,0 +1,8 @@
+*** /tmp/dapIdqa	Mon Sep 22 16:43:21 2008
+--- /tmp/bp_check.auto.516256	Mon Sep 22 16:43:20 2008
+***************
+*** 314,315 ****
+--- 314,316 ----
+  HELP  128.40.45.245   -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.47.230   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.47.30    -> 144.82.103.3    uclclust-lp3.uclclust

@@ -1,0 +1,9 @@
+*** /tmp/d-Tahaa	Fri Oct 24 10:15:41 2014
+--- /tmp/bp_check.auto.7143464	Fri Oct 24 10:15:41 2014
+***************
+*** 78,81 ****
+  HELP  128.40.168.14   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.169.102  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.169.102  -> 144.82.104.4    uclinst-gw4.uclinst
+  HELP  128.40.169.14   -> 144.82.104.10   uclinst-gw10.uclinst
+--- 78,79 ----

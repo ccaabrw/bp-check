@@ -1,0 +1,53 @@
+*** -	2006-09-22 13:02:38.014259000 +0100
+--- /tmp/bp_check.auto.16488	2006-09-22 13:02:37.000000000 +0100
+***************
+*** 21,23 ****
+  MAC   XXXXXXXXXXXX  ccrm-ws2.ccrm           128.40.37.189   uclinst-gw16.uclinst
+- MAC   XXXXXXXXXXXX  cloist-ws26.cloist      128.40.170.201  uclinst-gw10.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws27.cloist      128.40.170.202  uclinst-gw10.uclinst
+--- 21,22 ----
+***************
+*** 56,59 ****
+  MAC   XXXXXXXXXXXX  german-ws24.german      128.40.191.190  uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws18.hist          128.40.88.107   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws19.hist          128.40.88.108   uclinst-gw14.uclinst
+  MAC   XXXXXXXXXXXX  hist-ws8.hist           128.40.88.95    uclinst-gw14.uclinst
+--- 55,56 ----
+***************
+*** 73,75 ****
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  laws-ws8.laws           128.40.66.118   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsdms10.lib         128.40.60.160   uclinst-gw8.uclinst
+--- 70,71 ----
+***************
+*** 106,108 ****
+  MAC   XXXXXXXXXXXX  npsc.telref             128.40.179.152  uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsc.vpoff              128.40.83.121   uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npsd.exam               128.40.181.20   uclusers-slp4.uclusers
+--- 102,103 ----
+***************
+*** 113,115 ****
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
+- MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsk.cloist             128.40.170.46   uclusers-slp4.uclusers
+--- 108,109 ----
+***************
+*** 145,152 ****
+  MAC   XXXXXXXXXXXX  ucl22-ws1.ucl22         144.82.122.151  uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  ucl22-ws19.ucl22        144.82.122.169  uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  ucl22-ws20.ucl22        144.82.122.170  uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  ucl22-ws21.ucl22        144.82.122.171  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst
+- MAC   XXXXXXXXXXXX  ucl27-ws38.ucl27        128.40.127.188  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws8.ucl27         128.40.127.158  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl43-ws2.ucl43         128.40.143.152  uclinst-gw12.uclinst
+--- 139,147 ----
+  MAC   XXXXXXXXXXXX  ucl22-ws1.ucl22         144.82.122.151  uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws8.ucl27         128.40.127.158  uclinst-gw15.uclinst
++ MAC   XXXXXXXXXXXX  ucl31-ws21.ucl31        128.40.131.171  uclinst-gw7.uclinst
++ MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
++ MAC   XXXXXXXXXXXX  ucl31-ws49.ucl31        128.40.131.199  uclinst-gw7.uclinst
++ MAC   XXXXXXXXXXXX  ucl31-ws54.ucl31        128.40.131.204  uclinst-gw7.uclinst
++ MAC   XXXXXXXXXXXX  ucl31-ws62.ucl31        128.40.131.212  uclinst-gw7.uclinst
+  MAC   XXXXXXXXXXXX  ucl43-ws2.ucl43         128.40.143.152  uclinst-gw12.uclinst

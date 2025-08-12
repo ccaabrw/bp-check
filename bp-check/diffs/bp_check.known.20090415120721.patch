@@ -1,0 +1,8 @@
+*** /tmp/d0-Id7a	Wed Apr 15 12:07:13 2009
+--- /tmp/bp_check.auto.811234	Wed Apr 15 12:07:13 2009
+***************
+*** 356,357 ****
+--- 356,358 ----
+  HELP  128.40.89.30    -> 144.82.103.1    uclclust-lp1.uclclust
++ HELP  128.40.89.30    -> 144.82.104.1    uclinst-gw1.uclinst
+  HELP  128.40.89.46    -> 144.82.103.1    uclclust-lp1.uclclust

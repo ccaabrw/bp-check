@@ -1,0 +1,8 @@
+*** /tmp/dqTAc7a	Wed Feb 10 16:34:10 2010
+--- /tmp/bp_check.auto.569576	Wed Feb 10 16:34:10 2010
+***************
+*** 242,243 ****
+--- 242,244 ----
+  HELP  128.40.248.245  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.250.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.250.245  -> 144.82.104.22   uclinst-gw22.uclinst

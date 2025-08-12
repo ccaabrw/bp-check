@@ -1,0 +1,16 @@
+*** -	2006-12-12 15:58:09.367728995 +0000
+--- /tmp/bp_check.auto.14515	2006-12-12 15:58:09.000000000 +0000
+***************
+*** 4,7 ****
+  MAC   00C0EE730E58  npss.is-eisd            128.40.222.38   uclusers-slp1.uclusers
+- NAME  crucilib-ws18.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+- NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+--- 4,5 ----
+***************
+*** 52,55 ****
+  MAC   XXXXXXXXXXXX  cloist-ws30.cloist      128.40.170.205  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  crucilib-ws18.crucilib  <not in DNS>    uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  crucilib-ws19.crucilib  <not in DNS>    uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  econ-ws7.econ           128.40.90.30    uclinst-gw22.uclinst
+--- 50,51 ----

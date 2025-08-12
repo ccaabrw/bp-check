@@ -1,0 +1,14 @@
+*** /tmp/djJMoia	Mon Oct 23 14:58:32 2006
+--- /tmp/bp_check.auto.667694	Mon Oct 23 14:58:32 2006
+***************
+*** 3,4 ****
+--- 3,5 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  nps-a.medsch.ucl.ac.uk  <not in DNS>    0030C15F6CE3  uclclust-lp4.uclclust
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 144,146 ****
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl40-ws6.ucl40         128.40.140.156  uclinst-gw14.uclinst
+  MAC   XXXXXXXXXXXX  ucl42-ws10.ucl42        128.40.142.10   uclinst-gw5.uclinst
+--- 145,146 ----

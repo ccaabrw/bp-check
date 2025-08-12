@@ -1,0 +1,13 @@
+*** /tmp/duKAdaa	Wed Aug  1 17:05:31 2012
+--- /tmp/bp_check.auto.1306704	Wed Aug  1 17:05:31 2012
+***************
+*** 1 ****
+--- 1,2 ----
++ NAME  cps-wsmy1.cpsisd        <not in DNS>    XXXXXXXXXXXX  uclinst-gw16.uclinst
+  HELP  128.40.101.254  -> 144.82.117.120  bccusers-gw3.bccusers
+***************
+*** 16,17 ****
+--- 17,19 ----
+  HELP  128.40.117.245  -> 144.82.103.4    uclclust-lp4.uclclust
++ HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.127.245  -> 144.82.103.1    uclclust-lp1.uclclust

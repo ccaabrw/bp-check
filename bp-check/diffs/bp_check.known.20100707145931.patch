@@ -1,0 +1,7 @@
+*** /tmp/d0WUoya	Wed Jul  7 14:55:50 2010
+--- /tmp/bp_check.auto.2805974	Wed Jul  7 14:55:50 2010
+***************
+*** 383,386 ****
+- HELP  144.82.124.245  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  144.82.125.245  -> 144.82.104.1    uclinst-gw1.uclinst
+--- 383,384 ----

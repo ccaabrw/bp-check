@@ -1,0 +1,8 @@
+*** /tmp/dVLmfMa	Wed Dec  5 09:37:54 2012
+--- /tmp/bp_check.auto.868508	Wed Dec  5 09:37:54 2012
+***************
+*** 40,41 ****
+--- 40,42 ----
+  HELP  128.40.141.245  -> 144.82.104.12   uclinst-gw12.uclinst
++ HELP  128.40.141.245  -> 144.82.104.4    uclinst-gw4.uclinst
+  HELP  128.40.142.110  -> 144.82.103.131  uclusers-slp4.uclusers

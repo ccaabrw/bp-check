@@ -1,0 +1,17 @@
+*** /tmp/dmRakUa	Fri Nov 14 11:08:45 2008
+--- /tmp/bp_check.auto.1515582	Fri Nov 14 11:08:45 2008
+***************
+*** 158,160 ****
+  HELP  128.40.19.245   -> 144.82.103.128  uclusers-slp1.uclusers
+! HELP  128.40.190.30   -> 144.82.104.8    uclinst-gw8.uclinst
+  HELP  128.40.190.62   -> 144.82.103.2    uclclust-lp2.uclclust
+--- 158,160 ----
+  HELP  128.40.19.245   -> 144.82.103.128  uclusers-slp1.uclusers
+! HELP  128.40.190.30   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.190.62   -> 144.82.103.2    uclclust-lp2.uclclust
+***************
+*** 176,178 ****
+  HELP  128.40.196.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.198.245  -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.2.245    -> 144.82.104.23   uclinst-gw23.uclinst
+--- 176,177 ----

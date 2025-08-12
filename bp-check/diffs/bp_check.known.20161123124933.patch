@@ -1,0 +1,9 @@
+*** /tmp/df-ap7a	Wed Nov 23 12:49:29 2016
+--- /tmp/bp_check.auto.10747912	Wed Nov 23 12:49:29 2016
+***************
+*** 14,17 ****
+  HELP  128.40.121.254  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.127.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.127.245  -> 144.82.104.15   uclinst-gw15.uclinst
+  HELP  128.40.128.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 14,15 ----

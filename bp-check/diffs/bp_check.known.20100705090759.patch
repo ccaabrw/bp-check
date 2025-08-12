@@ -1,0 +1,14 @@
+*** /tmp/dP5igMa	Mon Jul  5 09:07:56 2010
+--- /tmp/bp_check.auto.684180	Mon Jul  5 09:07:56 2010
+***************
+*** 79,81 ****
+  HELP  128.40.155.158  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.155.94   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.156.62   -> 144.82.103.3    uclclust-lp3.uclclust
+--- 79,80 ----
+***************
+*** 132,134 ****
+  HELP  128.40.176.245  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.177.126  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.177.62   -> 144.82.103.128  uclusers-slp1.uclusers
+--- 131,132 ----

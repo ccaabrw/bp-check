@@ -1,0 +1,9 @@
+*** /tmp/dczUpya	Fri May  4 09:38:35 2007
+--- /tmp/bp_check.auto.979034	Fri May  4 09:38:34 2007
+***************
+*** 56,57 ****
+--- 56,59 ----
+  MAC   XXXXXXXXXXXX  german-ws24.german      128.40.191.190  uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  hist-ws48.hist          128.40.88.173   uclinst-gw14.uclinst
++ MAC   XXXXXXXXXXXX  hist-ws49.hist          128.40.88.174   uclinst-gw14.uclinst
+  MAC   XXXXXXXXXXXX  hist-ws8.hist           128.40.88.95    uclinst-gw14.uclinst

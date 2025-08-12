@@ -1,0 +1,35 @@
+#!/bin/csh
+
+# script to be called from cron to compare output from bp_check.pl
+# with a list of known duplicates/helpers (bp_check.known)
+
+# set environment
+umask 022
+unalias rm
+cd ~ccsposg/bp_check
+setenv NSORDER nis
+
+# pick a unique temp file
+set temp_file = /tmp/bp_check.auto.$$
+
+# run job to produce current data
+./bp_check.pl data > $temp_file
+
+# compare with existing and note differences (ignore comments)
+grep -v '^#' bp_check.known | diff - $temp_file | sed 's/^/ /' > $temp_file.out
+
+# exit if no differences found
+if (`wc -l $temp_file.out | awk '{ print $1 }' ` == 0) exit 0
+
+# send a message
+cat > $temp_file.intro << EOF
+Possible inconsistencies have been detected in the central bootptab files
+(see ~ccsposg/docs/general/bp_check for information)
+
+EOF
+
+#cat $temp_file.intro $temp_file.out | mail -v -s "Output from bp_check" ccaabrw
+cat $temp_file.intro $temp_file.out | mail -s "Output from bp_check" isd-dcs-lob-sos@ucl.ac.uk
+
+# remove temp files
+rm -f $temp_file $temp_file.intro $temp_file.out

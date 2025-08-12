@@ -1,0 +1,28 @@
+*** /tmp/ddXyhaa	Tue Oct 24 12:19:49 2006
+--- /tmp/bp_check.auto.1364132	Tue Oct 24 12:19:49 2006
+***************
+*** 1,3 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- NAME  nps-a.medsch.ucl.ac.uk  <not in DNS>    0030C15F6CE3  uclclust-lp4.uclclust
+  NAME  crucilib-ws18.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+--- 1,2 ----
+***************
+*** 20,22 ****
+--- 19,23 ----
+  MAC   XXXXXXXXXXXX  arts-ws48.arts          128.40.29.148   uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  arts-ws53.arts          128.40.29.153   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
++ MAC   XXXXXXXXXXXX  careers-ws1.careers     128.40.184.162  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws27.cloist      128.40.170.202  uclinst-gw10.uclinst
+***************
+*** 66,68 ****
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+--- 67,72 ----
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws13.laws          128.40.66.126   uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.125   uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws16.laws          128.40.66.43    uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws5.laws           128.40.66.122   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst

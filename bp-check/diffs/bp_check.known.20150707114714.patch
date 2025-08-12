@@ -1,0 +1,8 @@
+*** /tmp/d_LaoUa	Tue Jul  7 11:47:06 2015
+--- /tmp/bp_check.auto.5373998	Tue Jul  7 11:47:06 2015
+***************
+*** 365,366 ****
+--- 365,367 ----
+  HELP  194.66.92.245   -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  195.195.96.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  195.195.96.254  -> 144.82.103.1    uclclust-lp1.uclclust

@@ -1,0 +1,14 @@
+*** /tmp/d-xMgaa	Mon Jun  9 12:51:58 2008
+--- /tmp/bp_check.auto.7909454	Mon Jun  9 12:51:58 2008
+***************
+*** 447,450 ****
+  HELP  144.82.52.245   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  144.82.61.254   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  144.82.61.254   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  193.60.229.245  -> 144.82.103.130  uclusers-slp3.uclusers
+--- 447,451 ----
+  HELP  144.82.52.245   -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  144.82.61.254   -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  144.82.64.30    -> 144.82.103.130  uclusers-slp3.uclusers
++ HELP  144.82.64.30    -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  193.60.229.245  -> 144.82.103.130  uclusers-slp3.uclusers

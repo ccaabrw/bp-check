@@ -1,0 +1,8 @@
+*** /tmp/dIXElUa	Fri Mar 14 09:15:13 2008
+--- /tmp/bp_check.auto.9539618	Fri Mar 14 09:15:13 2008
+***************
+*** 239,241 ****
+  HELP  128.40.223.254  -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.223.254  -> 144.82.103.5    uclclust-lp5.uclclust
+  HELP  128.40.223.254  -> 144.82.104.1    uclinst-gw1.uclinst
+--- 239,240 ----

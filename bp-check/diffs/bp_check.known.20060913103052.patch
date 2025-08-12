@@ -1,0 +1,8 @@
+*** -	2006-09-13 10:30:20.906087000 +0100
+--- /tmp/bp_check.auto.21908	2006-09-13 10:30:20.000000000 +0100
+***************
+*** 142,144 ****
+  MAC   XXXXXXXXXXXX  npsd.exam               128.40.181.20   uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsdmsk.lib             128.40.60.30    uclusers-slp1.uclusers
+  MAC   XXXXXXXXXXXX  npse.cloist             128.40.170.40   uclusers-slp4.uclusers
+--- 142,143 ----

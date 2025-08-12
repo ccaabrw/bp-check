@@ -1,0 +1,8 @@
+*** /tmp/dSmikqa	Mon Apr 20 10:40:04 2009
+--- /tmp/bp_check.auto.1122408	Mon Apr 20 10:40:04 2009
+***************
+*** 359,360 ****
+--- 362,364 ----
+  HELP  128.40.89.46    -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.89.62    -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.89.62    -> 144.82.104.22   uclinst-gw22.uclinst

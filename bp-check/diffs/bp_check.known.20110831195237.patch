@@ -1,0 +1,14 @@
+*** /tmp/dzlYoaa	Wed Aug 31 19:50:42 2011
+--- /tmp/bp_check.auto.532716	Wed Aug 31 19:50:42 2011
+***************
+*** 145,146 ****
+--- 145,147 ----
+  HELP  128.40.185.254  -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.185.254  -> 144.82.104.11   uclinst-gw11.uclinst
+  HELP  128.40.186.254  -> 144.82.103.131  uclusers-slp4.uclusers
+***************
+*** 308,309 ****
+--- 308,310 ----
+  HELP  128.40.58.245   -> 144.82.103.1    uclclust-lp1.uclclust
++ HELP  128.40.59.245   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.59.245   -> 144.82.104.4    uclinst-gw4.uclinst

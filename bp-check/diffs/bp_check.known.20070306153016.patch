@@ -1,0 +1,8 @@
+*** /tmp/dKLYbqa	Tue Mar  6 15:29:08 2007
+--- /tmp/bp_check.auto.1191974	Tue Mar  6 15:29:08 2007
+***************
+*** 73,75 ****
+  MAC   XXXXXXXXXXXX  lib-wsdms10.lib         128.40.60.160   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  lib-wsdms27.lib         128.40.60.177   uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  lib-wsdms48.lib         128.40.60.198   uclinst-gw19.uclinst
+--- 73,74 ----

@@ -1,0 +1,8 @@
+*** /tmp/d6-ecaa	Wed Jan  7 11:28:52 2009
+--- /tmp/bp_check.auto.4894892	Wed Jan  7 11:28:52 2009
+***************
+*** 108,109 ****
+--- 108,110 ----
+  HELP  128.40.169.22   -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.169.22   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.169.30   -> 144.82.104.10   uclinst-gw10.uclinst

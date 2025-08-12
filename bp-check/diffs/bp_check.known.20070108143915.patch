@@ -1,0 +1,24 @@
+*** /tmp/dg_YmUa	Mon Jan  8 14:39:02 2007
+--- /tmp/bp_check.auto.430296	Mon Jan  8 14:39:02 2007
+***************
+*** 51,54 ****
+  MAC   XXXXXXXXXXXX  french-ws18.french      128.40.68.112   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  french-ws2.french       128.40.68.100   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  french-ws3.french       128.40.68.101   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  french-ws5.french       128.40.68.102   uclinst-gw23.uclinst
+--- 51,52 ----
+***************
+*** 73,74 ****
+--- 71,82 ----
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws14.laws          128.40.66.74    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws18.laws          128.40.66.87    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws22.laws          128.40.66.54    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws23.laws          128.40.66.2     uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws25.laws          128.40.66.27    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws26.laws          128.40.66.39    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws27.laws          128.40.66.32    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws35.laws          128.40.66.35    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws36.laws          128.40.66.36    uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  laws-ws39.laws          128.40.66.29    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst

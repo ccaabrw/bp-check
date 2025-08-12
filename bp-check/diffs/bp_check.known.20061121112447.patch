@@ -1,0 +1,28 @@
+*** /tmp/dIpIpEa	Tue Nov 21 11:24:32 2006
+--- /tmp/bp_check.auto.888964	Tue Nov 21 11:24:32 2006
+***************
+*** 18,19 ****
+--- 18,20 ----
+  MAC   XXXXXXXXXXXX  anat-ws34.anat          128.40.152.168  uclinst-gw15.uclinst
++ MAC   XXXXXXXXXXXX  arch-ws77.arch          128.40.195.21   uclinst-gw11.uclinst
+  MAC   XXXXXXXXXXXX  arts-ws48.arts          128.40.29.148   uclinst-gw23.uclinst
+***************
+*** 32,36 ****
+  MAC   XXXXXXXXXXXX  ellt-ws1.ellt           128.40.169.33   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  epd-ws10.epd            128.40.98.160   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  epd-ws44.epd            128.40.98.210   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  epd-ws45.epd            128.40.98.211   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  exam-ws1.exam           128.40.181.1    uclinst-gw20.uclinst
+--- 33,35 ----
+***************
+*** 260,261 ****
+--- 259,261 ----
+  HELP  128.40.162.245  -> 144.82.104.11   uclinst-gw11.uclinst
++ HELP  128.40.162.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  128.40.162.245  -> 144.82.104.23   uclinst-gw23.uclinst
+***************
+*** 472,474 ****
+  HELP  128.40.59.245   -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.60.245   -> 128.40.60.1     s2.lib
+  HELP  128.40.60.245   -> 144.82.103.128  uclusers-slp1.uclusers
+--- 472,473 ----

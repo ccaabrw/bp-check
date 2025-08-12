@@ -1,0 +1,14 @@
+*** /tmp/del7mEa	Wed Nov 20 10:17:43 2013
+--- /tmp/bp_check.auto.278574	Wed Nov 20 10:17:43 2013
+***************
+*** 189,191 ****
+  HELP  128.40.207.245  -> 144.82.103.130  uclusers-slp3.uclusers
+- HELP  128.40.207.245  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.207.245  -> 144.82.104.5    uclinst-gw5.uclinst
+--- 189,190 ----
+***************
+*** 291,292 ****
+--- 290,292 ----
+  HELP  128.40.47.30    -> 144.82.103.130  uclusers-slp3.uclusers
++ HELP  128.40.47.30    -> 144.82.103.3    uclclust-lp3.uclclust
+  HELP  128.40.47.30    -> 144.82.104.10   uclinst-gw10.uclinst

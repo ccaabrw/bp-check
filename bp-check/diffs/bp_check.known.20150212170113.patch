@@ -1,0 +1,8 @@
+*** /tmp/d--adaa	Thu Feb 12 17:01:00 2015
+--- /tmp/bp_check.auto.11993240	Thu Feb 12 17:01:00 2015
+***************
+*** 226,227 ****
+--- 226,228 ----
+  HELP  128.40.35.245   -> 144.82.104.23   uclinst-gw23.uclinst
++ HELP  128.40.36.190   -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.37.126   -> 144.82.104.7    uclinst-gw7.uclinst

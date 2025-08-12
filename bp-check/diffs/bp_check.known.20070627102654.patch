@@ -1,0 +1,26 @@
+*** /tmp/d867nEa	Wed Jun 27 10:26:08 2007
+--- /tmp/bp_check.auto.1859710	Wed Jun 27 10:26:08 2007
+***************
+*** 63,65 ****
+  MAC   XXXXXXXXXXXX  iseisd-ws33.is-eisd     128.40.223.134  uclinst-gw1.uclinst
+- MAC   XXXXXXXXXXXX  iseisd-wsmy5.is-eisd    128.40.223.139  uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-wsmy6.is-eisd    128.40.223.140  uclinst-gw20.uclinst
+--- 67,68 ----
+***************
+*** 137,138 ****
+--- 140,142 ----
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  sts-ws30.sts            128.40.49.180   uclinst-gw14.uclinst
+  MAC   XXXXXXXXXXXX  studuni-ws24.studuni    193.60.230.174  uclinst-gw23.uclinst
+***************
+*** 323,325 ****
+  HELP  128.40.184.94   -> 144.82.104.15   uclinst-gw15.uclinst
+- HELP  128.40.186.126  -> 144.82.104.3    uclinst-gw3.uclinst
+  HELP  128.40.186.222  -> 144.82.103.131  uclusers-slp4.uclusers
+--- 327,328 ----
+***************
+*** 463,465 ****
+  HELP  128.40.45.245   -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.47.230   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.47.30    -> 144.82.103.3    uclclust-lp3.uclclust
+--- 466,467 ----

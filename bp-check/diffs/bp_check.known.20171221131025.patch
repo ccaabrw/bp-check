@@ -1,0 +1,8 @@
+*** /tmp/dt-ad7a	Thu Dec 21 13:10:08 2017
+--- /tmp/bp_check.auto.6750258	Thu Dec 21 13:10:08 2017
+***************
+*** 111,113 ****
+  HELP  128.40.195.245  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.195.245  -> 144.82.104.11   uclinst-gw11.uclinst
+  HELP  128.40.195.245  -> 144.82.104.23   uclinst-gw23.uclinst
+--- 111,112 ----

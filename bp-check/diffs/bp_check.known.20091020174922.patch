@@ -1,0 +1,8 @@
+*** /tmp/dlDInMa	Tue Oct 20 17:49:11 2009
+--- /tmp/bp_check.auto.565404	Tue Oct 20 17:49:11 2009
+***************
+*** 82,83 ****
+--- 82,84 ----
+  HELP  128.40.155.158  -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  128.40.155.94   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.156.62   -> 144.82.103.3    uclclust-lp3.uclclust

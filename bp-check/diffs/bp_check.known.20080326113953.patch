@@ -1,0 +1,8 @@
+*** /tmp/d-JIkqa	Wed Mar 26 11:39:37 2008
+--- /tmp/bp_check.auto.9125906	Wed Mar 26 11:39:37 2008
+***************
+*** 94,95 ****
+--- 94,96 ----
+  HELP  128.40.152.245  -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.154.126  -> 144.82.104.17   uclinst-gw17.uclinst
+  HELP  128.40.154.142  -> 144.82.103.3    uclclust-lp3.uclclust

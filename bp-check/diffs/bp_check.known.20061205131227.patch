@@ -1,0 +1,14 @@
+*** /tmp/diLEpya	Tue Dec  5 13:12:23 2006
+--- /tmp/bp_check.auto.741618	Tue Dec  5 13:12:23 2006
+***************
+*** 65,67 ****
+  MAC   XXXXXXXXXXXX  iseisd-ws232.is-eisd    128.40.223.135  uclinst-gw1.uclinst
+- MAC   XXXXXXXXXXXX  iseisd-wstest1.is-eisd  128.40.222.11   uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  istrain-ws12.istrain    128.40.174.162  uclinst-gw12.uclinst
+--- 65,66 ----
+***************
+*** 109,111 ****
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers
+- MAC   XXXXXXXXXXXX  npse.vpoff              128.40.83.126   uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npsf.cloist             128.40.170.41   uclusers-slp4.uclusers
+--- 108,109 ----

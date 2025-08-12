@@ -1,0 +1,24 @@
+*** /tmp/dZZqnMa	Tue Sep 19 09:56:52 2006
+--- /tmp/bp_check.auto.806964	Tue Sep 19 09:56:51 2006
+***************
+*** 1,10 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- NAME  ucl27-ws31.ucl27        <not in DNS>    0013729FEA70  uclinst-gw15.uclinst
+- NAME  ucl27-ws32.ucl27        <not in DNS>    0013729FE9F4  uclinst-gw15.uclinst
+- NAME  ucl27-ws33.ucl27        <not in DNS>    0013729FE2CC  uclinst-gw15.uclinst
+- NAME  ucl27-ws34.ucl27        <not in DNS>    0013729FEB53  uclinst-gw15.uclinst
+- NAME  ucl27-ws35.ucl27        <not in DNS>    0013729FEA4E  uclinst-gw15.uclinst
+- NAME  ucl27-ws36.ucl27        <not in DNS>    0013729FEA6F  uclinst-gw15.uclinst
+- NAME  ucl27-ws37.ucl27        <not in DNS>    001372A03E6C  uclinst-gw15.uclinst
+- NAME  ucl27-ws38.ucl27        <not in DNS>    XXXXXXXXXXXX  uclinst-gw15.uclinst
+  NAME  crucilib-ws18.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+--- 1,2 ----
+***************
+*** 183,185 ****
+  MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws38.ucl27        <not in DNS>    uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws8.ucl27         128.40.127.158  uclinst-gw15.uclinst
+--- 175,177 ----
+  MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws38.ucl27        128.40.127.188  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws8.ucl27         128.40.127.158  uclinst-gw15.uclinst

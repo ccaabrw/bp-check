@@ -1,0 +1,14 @@
+*** -	2007-03-26 17:30:16.489660749 +0100
+--- /tmp/bp_check.auto.15776	2007-03-26 17:30:16.000000000 +0100
+***************
+*** 28,30 ****
+  MAC   XXXXXXXXXXXX  cloist-ws30.cloist      128.40.170.205  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  dpu-ws31.dpu            128.40.183.67   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  econ-ws7.econ           128.40.90.30    uclinst-gw22.uclinst
+--- 28,29 ----
+***************
+*** 118,120 ****
+  MAC   XXXXXXXXXXXX  npsn.sopps              128.40.176.33   uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npss.is-eisd            128.40.222.38   uclusers-slp1.uclusers
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+--- 117,118 ----

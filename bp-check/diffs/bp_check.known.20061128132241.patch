@@ -1,0 +1,15 @@
+*** /tmp/dP5acUa	Tue Nov 28 13:22:13 2006
+--- /tmp/bp_check.auto.884940	Tue Nov 28 13:22:13 2006
+***************
+*** 1,4 ****
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+- NAME  lib-wsdms26.lib         <not in DNS>    001871889209  uclinst-gw8.uclinst
+- NAME  maps-ws6.maps           <not in DNS>    XXXXXXXXXXXX  uclinst-gw19.uclinst
+  NAME  crucilib-ws18.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+--- 1,2 ----
+***************
+*** 5,6 ****
+--- 3,5 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  maps-ws6.maps           <not in DNS>    XXXXXXXXXXXX  uclinst-gw19.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust

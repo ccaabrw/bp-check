@@ -1,0 +1,14 @@
+*** /tmp/d2xEbia	Thu Nov  9 15:33:19 2006
+--- /tmp/bp_check.auto.487662	Thu Nov  9 15:33:19 2006
+***************
+*** 95,96 ****
+--- 95,97 ----
+  MAC   XXXXXXXXXXXX  npsa.med                128.40.253.220  uclusers-slp3.uclusers
++ MAC   XXXXXXXXXXXX  npsa.ucl20              128.40.161.251  uclclust-lp2.uclclust
+  MAC   XXXXXXXXXXXX  npsa.ucl47              144.82.147.20   uclclust-lp1.uclclust
+***************
+*** 277,278 ****
+--- 278,280 ----
+  HELP  128.40.161.222  -> 144.82.104.8    uclinst-gw8.uclinst
++ HELP  128.40.161.254  -> 144.82.103.2    uclclust-lp2.uclclust
+  HELP  128.40.161.254  -> 144.82.104.12   uclinst-gw12.uclinst

@@ -1,0 +1,28 @@
+*** /tmp/dK1Ibia	Mon Mar  5 15:23:15 2007
+--- /tmp/bp_check.auto.1548426	Mon Mar  5 15:23:15 2007
+***************
+*** 1,2 ****
+--- 1,4 ----
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
++ MAC   0001E6A0B687  npsi.studuni            193.60.230.50   uclusers-slp2.uclusers
++ MAC   0001E6A0B687  npsm.studuni            193.60.230.55   uclusers-slp2.uclusers
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 29,30 ****
+--- 31,33 ----
+  MAC   XXXXXXXXXXXX  cloist-ws30.cloist      128.40.170.205  uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  dpu-ws31.dpu            128.40.183.67   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  econ-ws7.econ           128.40.90.30    uclinst-gw22.uclinst
+***************
+*** 121,124 ****
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws83.reg            128.40.87.241   uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  reg-ws85.reg            128.40.87.242   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 124,125 ----
+***************
+*** 125,127 ****
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  surg-ws14.surg          128.40.251.79   uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  ucl12-ws22.ucl12        128.40.161.22   uclinst-gw22.uclinst
+--- 126,127 ----

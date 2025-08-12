@@ -1,0 +1,14 @@
+*** /tmp/d9_IfUa	Thu Nov 16 09:31:05 2006
+--- /tmp/bp_check.auto.868500	Thu Nov 16 09:31:05 2006
+***************
+*** 57,59 ****
+  MAC   XXXXXXXXXXXX  hist-ws16.hist          128.40.88.105   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws2.hist           128.40.88.52    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  hist-ws23.hist          128.40.88.112   uclinst-gw23.uclinst
+--- 57,58 ----
+***************
+*** 87,88 ****
+--- 86,88 ----
+  MAC   XXXXXXXXXXXX  medadm-ws43.medadm      193.60.248.194  uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  npsa.ccrm               128.40.37.186   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsa.crucilib           128.40.23.252   uclclust-lp1.uclclust

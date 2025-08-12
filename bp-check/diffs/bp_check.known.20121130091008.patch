@@ -1,0 +1,9 @@
+*** /tmp/dW4YbMa	Fri Nov 30 09:09:51 2012
+--- /tmp/bp_check.auto.868458	Fri Nov 30 09:09:51 2012
+***************
+*** 357,360 ****
+  HELP  128.40.89.142   -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.89.206   -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.89.206   -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.40.89.222   -> 144.82.103.130  uclusers-slp3.uclusers
+--- 357,358 ----

@@ -1,0 +1,20 @@
+*** /tmp/d0x3mEa	Fri Mar 30 11:09:22 2007
+--- /tmp/bp_check.auto.643204	Fri Mar 30 11:09:22 2007
+***************
+*** 76,78 ****
+  MAC   XXXXXXXXXXXX  lib-wsstor5.lib         128.40.37.195   uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  maps-ws7.maps           128.40.154.187  uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
+--- 78,79 ----
+***************
+*** 123,125 ****
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  studuni-ws29.studuni    193.60.230.179  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+--- 124,125 ----
+***************
+*** 133,135 ****
+  MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
+- MAC   XXXXXXXXXXXX  ucl27-ws39.ucl27        128.40.127.189  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
+--- 133,134 ----

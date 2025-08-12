@@ -1,0 +1,385 @@
+*** /tmp/d-Tah7a	Tue Jan  9 11:23:48 2018
+--- /tmp/bp_check.auto.7799008	Tue Jan  9 11:23:48 2018
+***************
+*** 1,3 ****
+  HELP  128.40.101.254  -> 144.82.117.120  bccusers-gw3.bccusers
+- HELP  128.40.108.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.108.245  -> 144.82.104.14   uclinst-gw14.uclinst
+--- 1,2 ----
+***************
+*** 6,8 ****
+  HELP  128.40.115.142  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.116.126  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.116.126  -> 144.82.104.2    uclinst-gw2.uclinst
+--- 5,6 ----
+***************
+*** 10,14 ****
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.121.254  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.121.254  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.128.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.128.245  -> 144.82.104.23   uclinst-gw23.uclinst
+--- 8,10 ----
+***************
+*** 15,30 ****
+  HELP  128.40.128.245  -> 144.82.104.9    uclinst-gw9.uclinst
+- HELP  128.40.129.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.136.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.136.245  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.137.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.137.245  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.139.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.142.30   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.142.30   -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.142.62   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.142.62   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.142.62   -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.145.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.145.245  -> 144.82.104.6    uclinst-gw6.uclinst
+- HELP  128.40.146.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.146.245  -> 144.82.104.1    uclinst-gw1.uclinst
+--- 11,17 ----
+***************
+*** 31,33 ****
+  HELP  128.40.146.245  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.148.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.148.245  -> 144.82.104.11   uclinst-gw11.uclinst
+--- 18,19 ----
+***************
+*** 37,39 ****
+  HELP  128.40.150.126  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.154.190  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.154.190  -> 144.82.104.19   uclinst-gw19.uclinst
+--- 23,24 ----
+***************
+*** 41,47 ****
+  HELP  128.40.154.78   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.156.254  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.156.254  -> 144.82.104.4    uclinst-gw4.uclinst
+- HELP  128.40.157.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.157.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.161.190  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.161.190  -> 144.82.104.21   uclinst-gw21.uclinst
+--- 26,29 ----
+***************
+*** 48,50 ****
+  HELP  128.40.161.190  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.161.222  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.161.222  -> 144.82.104.8    uclinst-gw8.uclinst
+--- 30,31 ----
+***************
+*** 66,70 ****
+  HELP  128.40.169.94   -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.170.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.170.245  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.174.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.174.245  -> 144.82.104.12   uclinst-gw12.uclinst
+--- 47,49 ----
+***************
+*** 71,73 ****
+  HELP  128.40.174.245  -> 144.82.104.17   uclinst-gw17.uclinst
+- HELP  128.40.176.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.176.245  -> 144.82.104.15   uclinst-gw15.uclinst
+--- 50,51 ----
+***************
+*** 75,81 ****
+  HELP  128.40.176.245  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.181.254  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.181.254  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.181.254  -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.183.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.183.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.183.245  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 53,55 ----
+***************
+*** 82,84 ****
+  HELP  128.40.183.245  -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.184.190  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.184.190  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 56,57 ----
+***************
+*** 85,89 ****
+  HELP  128.40.184.190  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.184.30   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.184.30   -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.185.254  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.185.254  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 58,60 ----
+***************
+*** 90,94 ****
+  HELP  128.40.185.254  -> 144.82.104.11   uclinst-gw11.uclinst
+- HELP  128.40.186.94   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.186.94   -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.187.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.187.245  -> 144.82.104.16   uclinst-gw16.uclinst
+--- 61,63 ----
+***************
+*** 95,97 ****
+  HELP  128.40.187.245  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.189.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.189.245  -> 144.82.104.15   uclinst-gw15.uclinst
+--- 64,65 ----
+***************
+*** 101,103 ****
+  HELP  128.40.190.222  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.191.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.191.245  -> 144.82.104.15   uclinst-gw15.uclinst
+--- 69,70 ----
+***************
+*** 105,109 ****
+  HELP  128.40.191.245  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.192.254  -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  128.40.193.222  -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  128.40.194.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.194.245  -> 144.82.104.15   uclinst-gw15.uclinst
+--- 72,73 ----
+***************
+*** 110,114 ****
+  HELP  128.40.194.245  -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.195.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.195.245  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.196.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.196.245  -> 144.82.104.20   uclinst-gw20.uclinst
+--- 74,76 ----
+***************
+*** 115,120 ****
+  HELP  128.40.2.245    -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.207.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.207.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.207.245  -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.210.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.210.245  -> 144.82.104.22   uclinst-gw22.uclinst
+--- 77,79 ----
+***************
+*** 130,132 ****
+  HELP  128.40.211.86   -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.212.245  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.212.245  -> 144.82.104.19   uclinst-gw19.uclinst
+--- 89,90 ----
+***************
+*** 135,140 ****
+  HELP  128.40.218.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.223.254  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.223.254  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.228.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.23.254   -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.23.254   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 93,95 ----
+***************
+*** 142,145 ****
+  HELP  128.40.236.245  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.238.245  -> 144.82.103.130  uclusers-slp3.uclusers
+- HELP  128.40.238.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.238.245  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 97,98 ----
+***************
+*** 146,148 ****
+  HELP  128.40.238.245  -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.239.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.239.245  -> 144.82.104.15   uclinst-gw15.uclinst
+--- 99,100 ----
+***************
+*** 150,152 ****
+  HELP  128.40.24.245   -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.240.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.240.245  -> 144.82.104.21   uclinst-gw21.uclinst
+--- 102,103 ----
+***************
+*** 156,162 ****
+  HELP  128.40.248.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.250.245  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.250.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.251.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.251.245  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.252.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.252.245  -> 144.82.104.19   uclinst-gw19.uclinst
+--- 107,110 ----
+***************
+*** 163,165 ****
+  HELP  128.40.252.245  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.253.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.253.245  -> 144.82.104.21   uclinst-gw21.uclinst
+--- 111,112 ----
+***************
+*** 166,168 ****
+  HELP  128.40.253.245  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.29.245   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.29.245   -> 144.82.104.15   uclinst-gw15.uclinst
+--- 113,114 ----
+***************
+*** 169,172 ****
+  HELP  128.40.29.245   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.32.245   -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.32.245   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.32.245   -> 144.82.104.10   uclinst-gw10.uclinst
+--- 115,116 ----
+***************
+*** 173,176 ****
+  HELP  128.40.32.245   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.33.245   -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.40.33.245   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.33.245   -> 144.82.104.10   uclinst-gw10.uclinst
+--- 117,118 ----
+***************
+*** 177,179 ****
+  HELP  128.40.33.245   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.34.245   -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.34.245   -> 144.82.104.11   uclinst-gw11.uclinst
+--- 119,120 ----
+***************
+*** 180,192 ****
+  HELP  128.40.34.245   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.35.245   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.35.245   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.36.254   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.36.254   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.37.190   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.37.190   -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.37.206   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.37.206   -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.37.254   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.37.254   -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.37.30    -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.37.30    -> 144.82.104.22   uclinst-gw22.uclinst
+--- 121,127 ----
+***************
+*** 193,196 ****
+  HELP  128.40.44.245   -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.45.254   -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  128.40.47.222   -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.47.222   -> 144.82.104.20   uclinst-gw20.uclinst
+--- 128,129 ----
+***************
+*** 198,201 ****
+  HELP  128.40.47.238   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.47.30    -> 144.82.103.130  uclusers-slp3.uclusers
+- HELP  128.40.48.158   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.48.158   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 131,132 ----
+***************
+*** 203,210 ****
+  HELP  128.40.48.190   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.48.222   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.48.222   -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.48.30    -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.48.30    -> 144.82.104.12   uclinst-gw12.uclinst
+- HELP  128.40.49.245   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.49.245   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.49.245   -> 144.82.104.14   uclinst-gw14.uclinst
+--- 134,137 ----
+***************
+*** 213,215 ****
+  HELP  128.40.56.245   -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.57.245   -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.59.245   -> 144.82.104.4    uclinst-gw4.uclinst
+--- 140,141 ----
+***************
+*** 216,218 ****
+  HELP  128.40.6.245    -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.60.245   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.60.245   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 142,143 ----
+***************
+*** 220,222 ****
+  HELP  128.40.60.245   -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.63.245   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.63.245   -> 144.82.104.10   uclinst-gw10.uclinst
+--- 145,146 ----
+***************
+*** 223,227 ****
+  HELP  128.40.63.245   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.68.126   -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.68.126   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.68.62    -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.68.62    -> 144.82.104.8    uclinst-gw8.uclinst
+--- 147,149 ----
+***************
+*** 231,233 ****
+  HELP  128.40.80.245   -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.83.245   -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.83.245   -> 144.82.104.11   uclinst-gw11.uclinst
+--- 153,154 ----
+***************
+*** 237,240 ****
+  HELP  128.40.89.142   -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.89.222   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.89.222   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.89.222   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 158,159 ----
+***************
+*** 242,244 ****
+  HELP  128.40.89.222   -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.89.238   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.89.238   -> 144.82.104.22   uclinst-gw22.uclinst
+--- 161,162 ----
+***************
+*** 247,254 ****
+  HELP  128.40.89.62    -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.91.245   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.91.245   -> 144.82.104.11   uclinst-gw11.uclinst
+- HELP  128.40.96.245   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.96.245   -> 144.82.104.5    uclinst-gw5.uclinst
+- HELP  128.40.98.245   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.98.245   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  128.40.98.245   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 165,168 ----
+***************
+*** 258,262 ****
+  HELP  144.82.117.254  -> 144.82.117.40   ucl17-gw1.ucl17
+- HELP  144.82.119.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  144.82.119.245  -> 144.82.104.3    uclinst-gw3.uclinst
+- HELP  144.82.122.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  144.82.122.245  -> 144.82.104.5    uclinst-gw5.uclinst
+--- 172,174 ----
+***************
+*** 263,269 ****
+  HELP  144.82.131.245  -> 144.82.104.7    uclinst-gw7.uclinst
+- HELP  144.82.132.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  144.82.132.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  144.82.140.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  144.82.140.245  -> 144.82.104.6    uclinst-gw6.uclinst
+- HELP  144.82.147.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  144.82.147.245  -> 144.82.104.3    uclinst-gw3.uclinst
+--- 175,178 ----
+***************
+*** 271,275 ****
+  HELP  144.82.52.245   -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  144.82.64.30    -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  144.82.64.30    -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  193.60.229.245  -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  193.60.229.245  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 180,182 ----
+***************
+*** 276,278 ****
+  HELP  193.60.229.245  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  193.60.230.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  193.60.230.245  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 183,184 ----
+***************
+*** 279,284 ****
+  HELP  193.60.230.245  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  193.60.232.245  -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  193.60.233.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  193.60.233.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  193.60.234.190  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  193.60.234.190  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 185,187 ----
+***************
+*** 285,289 ****
+  HELP  193.60.242.245  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  193.60.243.245  -> 144.82.103.129  uclusers-slp2.uclusers
+- HELP  193.60.245.245  -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  193.60.248.245  -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  193.60.248.245  -> 144.82.104.10   uclinst-gw10.uclinst
+--- 188,189 ----
+***************
+*** 290,292 ****
+  HELP  193.60.248.245  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  194.66.92.245   -> 144.82.103.130  uclusers-slp3.uclusers
+  HELP  194.66.92.245   -> 144.82.104.19   uclinst-gw19.uclinst
+--- 190,191 ----
+***************
+*** 293,294 ****
+  HELP  195.195.96.245  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  195.195.96.254  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 192 ----

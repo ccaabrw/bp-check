@@ -1,0 +1,8 @@
+*** /tmp/d-HacUa	Fri Sep 11 15:08:02 2015
+--- /tmp/bp_check.auto.12648522	Fri Sep 11 15:08:02 2015
+***************
+*** 122,124 ****
+  HELP  128.40.189.245  -> 144.82.104.20   uclinst-gw20.uclinst
+- HELP  128.40.19.245   -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.190.126  -> 144.82.104.11   uclinst-gw11.uclinst
+--- 122,123 ----

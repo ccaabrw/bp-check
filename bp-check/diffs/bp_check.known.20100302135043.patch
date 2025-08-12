@@ -1,0 +1,15 @@
+*** /tmp/dmXicqa	Tue Mar  2 13:50:34 2010
+--- /tmp/bp_check.auto.1601738	Tue Mar  2 13:50:34 2010
+***************
+*** 16,19 ****
+  HELP  128.40.117.245  -> 144.82.103.4    uclclust-lp4.uclclust
+- HELP  128.40.118.126  -> 144.82.103.131  uclusers-slp4.uclusers
+- HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.127.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 16,17 ----
+***************
+*** 291,292 ****
+--- 289,291 ----
+  HELP  128.40.47.158   -> 144.82.103.128  uclusers-slp1.uclusers
++ HELP  128.40.47.158   -> 144.82.104.16   uclinst-gw16.uclinst
+  HELP  128.40.47.230   -> 144.82.104.10   uclinst-gw10.uclinst

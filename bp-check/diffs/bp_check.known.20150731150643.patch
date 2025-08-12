@@ -1,0 +1,10 @@
+*** /tmp/d-JafEa	Fri Jul 31 15:06:11 2015
+--- /tmp/bp_check.auto.11337758	Fri Jul 31 15:06:11 2015
+***************
+*** 315,319 ****
+  HELP  128.40.98.245   -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.41.1.254    -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.41.3.254    -> 144.82.103.128  uclusers-slp1.uclusers
+- HELP  128.41.4.254    -> 144.82.104.21   uclinst-gw21.uclinst
+  HELP  128.41.7.254    -> 10.60.64.61     uddhcp01t.adtest.bcc.ac.uk
+--- 315,316 ----

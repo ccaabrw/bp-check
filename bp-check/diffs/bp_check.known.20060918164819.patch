@@ -1,0 +1,30 @@
+*** /tmp/dUCykEa	Mon Sep 18 16:48:02 2006
+--- /tmp/bp_check.auto.561352	Mon Sep 18 16:48:02 2006
+***************
+*** 3,4 ****
+--- 3,12 ----
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
++ NAME  ucl27-ws31.ucl27        <not in DNS>    0013729FEA70  uclinst-gw15.uclinst
++ NAME  ucl27-ws32.ucl27        <not in DNS>    0013729FE9F4  uclinst-gw15.uclinst
++ NAME  ucl27-ws33.ucl27        <not in DNS>    0013729FE2CC  uclinst-gw15.uclinst
++ NAME  ucl27-ws34.ucl27        <not in DNS>    0013729FEB53  uclinst-gw15.uclinst
++ NAME  ucl27-ws35.ucl27        <not in DNS>    0013729FEA4E  uclinst-gw15.uclinst
++ NAME  ucl27-ws36.ucl27        <not in DNS>    0013729FEA6F  uclinst-gw15.uclinst
++ NAME  ucl27-ws37.ucl27        <not in DNS>    001372A03E6C  uclinst-gw15.uclinst
++ NAME  ucl27-ws38.ucl27        <not in DNS>    XXXXXXXXXXXX  uclinst-gw15.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+***************
+*** 174,180 ****
+  MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.156.78   uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws13.ucl27        128.40.127.163  uclinst-gw15.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws17.ucl27        128.40.127.167  uclinst-gw15.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws18.ucl27        128.40.127.168  uclinst-gw15.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws28.ucl27        128.40.127.178  uclinst-gw15.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws29.ucl27        128.40.127.179  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl43-ws2.ucl43         128.40.143.152  uclinst-gw12.uclinst
+--- 182,186 ----
+  MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.156.78   uclinst-gw12.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws38.ucl27        <not in DNS>    uclinst-gw15.uclinst
+! MAC   XXXXXXXXXXXX  ucl27-ws8.ucl27         128.40.127.158  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl43-ws2.ucl43         128.40.143.152  uclinst-gw12.uclinst

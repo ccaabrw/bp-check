@@ -1,0 +1,20 @@
+*** /tmp/dU6QjEa	Tue Mar 20 10:18:22 2007
+--- /tmp/bp_check.auto.598270	Tue Mar 20 10:18:22 2007
+***************
+*** 78,79 ****
+--- 79,81 ----
+  MAC   XXXXXXXXXXXX  maps-ws5.maps           128.40.154.185  uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  maps-ws7.maps           128.40.154.187  uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  med-ws122.med           128.40.253.226  uclinst-gw8.uclinst
+***************
+*** 81,83 ****
+  MAC   XXXXXXXXXXXX  npsa.ccrm               128.40.37.186   uclusers-slp4.uclusers
+- MAC   XXXXXXXXXXXX  npsa.crucilib           <not in DNS>    uclclust-lp1.uclclust
+  MAC   XXXXXXXXXXXX  npsa.eisd               128.40.163.50   uclusers-slp2.uclusers
+--- 83,84 ----
+***************
+*** 378,380 ****
+  HELP  128.40.23.222   -> 144.82.104.14   uclinst-gw14.uclinst
+- HELP  128.40.23.254   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.23.254   -> 144.82.103.129  uclusers-slp2.uclusers
+--- 379,380 ----

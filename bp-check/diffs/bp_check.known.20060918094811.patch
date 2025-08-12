@@ -1,0 +1,14 @@
+*** /tmp/dP6QoMa	Mon Sep 18 09:48:08 2006
+--- /tmp/bp_check.auto.503886	Mon Sep 18 09:48:08 2006
+***************
+*** 179,180 ****
+--- 179,187 ----
+  MAC   XXXXXXXXXXXX  ucl12-ws22.ucl12        128.40.161.22   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  ucl19-ws11.ucl19        144.82.119.161  uclinst-gw3.uclinst
++ MAC   XXXXXXXXXXXX  ucl19-ws13.ucl19        144.82.119.163  uclinst-gw3.uclinst
++ MAC   XXXXXXXXXXXX  ucl19-ws2.ucl19         144.82.119.152  uclinst-gw3.uclinst
++ MAC   XXXXXXXXXXXX  ucl19-ws21.ucl19        144.82.119.171  uclinst-gw3.uclinst
++ MAC   XXXXXXXXXXXX  ucl19-ws25.ucl19        144.82.119.175  uclinst-gw3.uclinst
++ MAC   XXXXXXXXXXXX  ucl19-ws6.ucl19         144.82.119.156  uclinst-gw3.uclinst
++ MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
+  MAC   XXXXXXXXXXXX  ucl20-ws3.ucl20         128.40.156.73   uclinst-gw12.uclinst

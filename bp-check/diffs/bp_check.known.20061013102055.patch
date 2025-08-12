@@ -1,0 +1,32 @@
+*** /tmp/dVYejEa	Fri Oct 13 10:20:27 2006
+--- /tmp/bp_check.auto.1310814	Fri Oct 13 10:20:27 2006
+***************
+*** 88,89 ****
+--- 88,90 ----
+  MAC   XXXXXXXXXXXX  npsaj.is-eisd           128.40.223.28   uclusers-slp1.uclusers
++ MAC   XXXXXXXXXXXX  npsas.reg               128.40.87.125   uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsb.english            128.40.34.178   uclusers-slp2.uclusers
+***************
+*** 119,126 ****
+  MAC   XXXXXXXXXXXX  psychiat-ws125.psychiat 128.40.204.45   uclinst-gw8.uclinst
+- MAC   XXXXXXXXXXXX  psychiat-ws135.psychiat 128.40.240.125  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  psychiat-ws136.psychiat 128.40.240.126  uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  psychiat-ws38.psychiat  128.40.240.98   uclinst-gw21.uclinst
+- MAC   XXXXXXXXXXXX  psychiat-ws7.psychiat   128.40.240.64   uclinst-gw21.uclinst
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  slade-ws16.slade        128.40.189.167  uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
+--- 120,122 ----
+***************
+*** 141,142 ****
+--- 137,140 ----
+  MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
++ MAC   XXXXXXXXXXXX  ucl20-ws17.ucl20        128.40.156.87   uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  ucl20-ws19.ucl20        128.40.156.89   uclinst-gw12.uclinst
+  MAC   XXXXXXXXXXXX  ucl20-ws3.ucl20         128.40.156.73   uclinst-gw12.uclinst
+***************
+*** 144,145 ****
+--- 142,144 ----
+  MAC   XXXXXXXXXXXX  ucl20-ws35.ucl20        128.40.156.105  uclinst-gw12.uclinst
++ MAC   XXXXXXXXXXXX  ucl20-ws4.ucl20         128.40.156.74   uclinst-gw12.uclinst
+  MAC   XXXXXXXXXXXX  ucl20-ws6.ucl20         128.40.156.76   uclinst-gw12.uclinst

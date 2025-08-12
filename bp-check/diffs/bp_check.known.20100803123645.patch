@@ -1,0 +1,8 @@
+*** /tmp/d2P7iaa	Tue Aug  3 12:36:24 2010
+--- /tmp/bp_check.auto.6148244	Tue Aug  3 12:36:24 2010
+***************
+*** 167,168 ****
+--- 170,172 ----
+  HELP  128.40.193.190  -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.193.222  -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.193.254  -> 144.82.104.7    uclinst-gw7.uclinst

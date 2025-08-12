@@ -1,0 +1,9 @@
+*** /tmp/d-4ajqa	Mon Aug 15 11:26:06 2016
+--- /tmp/bp_check.auto.15859878	Mon Aug 15 11:26:06 2016
+***************
+*** 4,7 ****
+  HELP  128.40.111.126  -> 144.82.104.17   uclinst-gw17.uclinst
+- HELP  128.40.111.62   -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.111.62   -> 144.82.104.1    uclinst-gw1.uclinst
+  HELP  128.40.114.245  -> 144.82.104.4    uclinst-gw4.uclinst
+--- 4,5 ----

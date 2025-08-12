@@ -1,0 +1,14 @@
+*** /tmp/dfXqoMa	Fri Nov 24 12:28:52 2006
+--- /tmp/bp_check.auto.954614	Fri Nov 24 12:28:52 2006
+***************
+*** 22,23 ****
+--- 22,24 ----
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
++ MAC   XXXXXXXXXXXX  cetl1.cetl              128.40.111.65   uclinst-gw17.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws27.cloist      128.40.170.202  uclinst-gw10.uclinst
+***************
+*** 146,147 ****
+--- 147,149 ----
+  HELP  128.40.108.245  -> 144.82.104.14   uclinst-gw14.uclinst
++ HELP  128.40.111.126  -> 144.82.104.17   uclinst-gw17.uclinst
+  HELP  128.40.111.62   -> 144.82.103.3    uclclust-lp3.uclclust

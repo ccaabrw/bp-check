@@ -1,0 +1,22 @@
+*** /tmp/dmhmoUa	Thu Apr 22 14:59:53 2010
+--- /tmp/bp_check.auto.889020	Thu Apr 22 14:59:53 2010
+***************
+*** 1 ****
+--- 1,5 ----
++ NAME  bhlt-wsmy1.bhlt         <not in DNS>    XXXXXXXXXXXX  uclinst-gw10.uclinst
++ NAME  bhlt-wsmy2.bhlt         <not in DNS>    XXXXXXXXXXXX  uclinst-gw10.uclinst
++ NAME  bhlt-wsmy3.bhlt         <not in DNS>    XXXXXXXXXXXX  uclinst-gw10.uclinst
++ NAME  bhlt-wsmy4.bhlt         <not in DNS>    XXXXXXXXXXXX  uclinst-gw10.uclinst
+  HELP  128.40.108.245  -> 144.82.103.4    uclclust-lp4.uclclust
+***************
+*** 199,200 ****
+--- 203,205 ----
+  HELP  128.40.211.30   -> 144.82.104.10   uclinst-gw10.uclinst
++ HELP  128.40.211.46   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.211.78   -> 144.82.104.10   uclinst-gw10.uclinst
+***************
+*** 332,334 ****
+  HELP  128.40.76.245   -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.78.245   -> 144.82.103.4    uclclust-lp4.uclclust
+  HELP  128.40.78.245   -> 144.82.104.15   uclinst-gw15.uclinst
+--- 337,338 ----

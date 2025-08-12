@@ -1,0 +1,36 @@
+*** /tmp/dSrAoia	Tue Oct  3 13:59:29 2006
+--- /tmp/bp_check.auto.413786	Tue Oct  3 13:59:29 2006
+***************
+*** 18,21 ****
+--- 18,24 ----
+  MAC   XXXXXXXXXXXX  anat-ws34.anat          128.40.152.168  uclinst-gw15.uclinst
++ MAC   XXXXXXXXXXXX  arts-ws1.arts           128.40.29.101   uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  arts-ws48.arts          128.40.29.148   uclinst-gw23.uclinst
++ MAC   XXXXXXXXXXXX  arts-ws68.arts          128.40.29.169   uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
++ MAC   XXXXXXXXXXXX  bwlt-ws1.bwlt           128.40.163.201  uclinst-gw1.uclinst
+  MAC   XXXXXXXXXXXX  cloist-ws27.cloist      128.40.170.202  uclinst-gw10.uclinst
+***************
+*** 81,82 ****
+--- 84,86 ----
+  MAC   XXXXXXXXXXXX  medadm-ws43.medadm      193.60.248.194  uclinst-gw10.uclinst
++ MAC   XXXXXXXXXXXX  npsa.crucilib           128.40.23.252   uclclust-lp1.uclclust
+  MAC   XXXXXXXXXXXX  npsa.eisd               128.40.163.50   uclusers-slp2.uclusers
+***************
+*** 86,88 ****
+  MAC   XXXXXXXXXXXX  npsa.med                128.40.253.220  uclusers-slp3.uclusers
+- MAC   XXXXXXXXXXXX  npsa.ucl42              128.40.142.20   uclclust-lp1.uclclust
+  MAC   XXXXXXXXXXXX  npsa.ucl47              144.82.147.20   uclclust-lp1.uclclust
+--- 90,91 ----
+***************
+*** 138,140 ****
+  MAC   XXXXXXXXXXXX  ucl20-ws8.ucl20         128.40.156.78   uclinst-gw12.uclinst
+- MAC   XXXXXXXXXXXX  ucl27-ws12.ucl27        128.40.127.162  uclinst-gw15.uclinst
+  MAC   XXXXXXXXXXXX  ucl27-ws8.ucl27         128.40.127.158  uclinst-gw15.uclinst
+--- 141,142 ----
+***************
+*** 147,149 ****
+  MAC   XXXXXXXXXXXX  ucl42-ws10.ucl42        128.40.142.10   uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  ucl43-ws2.ucl43         128.40.143.152  uclinst-gw12.uclinst
+  MAC   XXXXXXXXXXXX  ucl45-ws6.ucl45         128.40.145.156  uclinst-gw6.uclinst
+--- 149,150 ----

@@ -1,0 +1,8 @@
+*** /tmp/dSpMjaa	Tue Mar 27 12:41:09 2007
+--- /tmp/bp_check.auto.991366	Tue Mar 27 12:41:09 2007
+***************
+*** 79,81 ****
+  MAC   XXXXXXXXXXXX  maps-ws7.maps           128.40.154.187  uclinst-gw19.uclinst
+- MAC   XXXXXXXXXXXX  med-ws122.med           128.40.253.226  uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  med-ws42.med            128.40.238.46   uclinst-gw10.uclinst
+--- 79,80 ----

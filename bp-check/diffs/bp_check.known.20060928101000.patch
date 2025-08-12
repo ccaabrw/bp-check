@@ -1,0 +1,10 @@
+*** -	2006-09-28 10:09:48.884241000 +0100
+--- /tmp/bp_check.auto.11616	2006-09-28 10:09:48.000000000 +0100
+***************
+*** 143,144 ****
+--- 143,147 ----
+  MAC   XXXXXXXXXXXX  ucl31-ws62.ucl31        128.40.131.212  uclinst-gw7.uclinst
++ MAC   XXXXXXXXXXXX  ucl40-ws1.ucl40         128.40.140.151  uclinst-gw14.uclinst
++ MAC   XXXXXXXXXXXX  ucl40-ws5.ucl40         128.40.140.155  uclinst-gw14.uclinst
++ MAC   XXXXXXXXXXXX  ucl40-ws6.ucl40         128.40.140.156  uclinst-gw14.uclinst
+  MAC   XXXXXXXXXXXX  ucl42-ws10.ucl42        128.40.142.10   uclinst-gw5.uclinst

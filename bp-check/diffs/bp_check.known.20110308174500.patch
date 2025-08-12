@@ -1,0 +1,8 @@
+*** /tmp/dgyecaa	Tue Mar  8 17:44:47 2011
+--- /tmp/bp_check.auto.389372	Tue Mar  8 17:44:47 2011
+***************
+*** 296,297 ****
+--- 296,298 ----
+  HELP  128.40.48.158   -> 144.82.103.4    uclclust-lp4.uclclust
++ HELP  128.40.48.158   -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.48.158   -> 144.82.104.20   uclinst-gw20.uclinst

@@ -1,0 +1,8 @@
+*** /tmp/d-Xafqa	Thu Jun 30 12:53:41 2016
+--- /tmp/bp_check.auto.8716452	Thu Jun 30 12:53:41 2016
+***************
+*** 110,112 ****
+  HELP  128.40.185.254  -> 144.82.104.11   uclinst-gw11.uclinst
+- HELP  128.40.186.254  -> 144.82.103.131  uclusers-slp4.uclusers
+  HELP  128.40.186.94   -> 144.82.103.1    uclclust-lp1.uclclust
+--- 110,111 ----

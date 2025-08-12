@@ -1,0 +1,10 @@
+*** /tmp/drLagia	Wed Jul 30 15:00:41 2014
+--- /tmp/bp_check.auto.9175136	Wed Jul 30 15:00:40 2014
+***************
+*** 37,41 ****
+  HELP  128.40.142.110  -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.142.254  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.142.254  -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.142.254  -> 144.82.104.17   uclinst-gw17.uclinst
+  HELP  128.40.142.30   -> 144.82.103.1    uclclust-lp1.uclclust
+--- 37,38 ----

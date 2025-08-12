@@ -1,0 +1,17 @@
+*** -	2006-11-23 13:36:57.423367000 +0000
+--- /tmp/bp_check.auto.18560	2006-11-23 13:36:57.000000000 +0000
+***************
+*** 56,61 ****
+  MAC   XXXXXXXXXXXX  german-ws24.german      128.40.191.190  uclinst-gw22.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws16.hist          128.40.88.105   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws23.hist          128.40.88.112   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws25.hist          128.40.88.115   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  hist-ws6.hist           128.40.88.75    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  hist-ws8.hist           128.40.88.95    uclinst-gw14.uclinst
+--- 56,57 ----
+***************
+*** 113,114 ****
+--- 109,111 ----
+  MAC   XXXXXXXXXXXX  npse.medadm             193.60.248.23   uclusers-slp2.uclusers
++ MAC   XXXXXXXXXXXX  npse.vpoff              128.40.83.126   uclusers-slp2.uclusers
+  MAC   XXXXXXXXXXXX  npsf.cloist             128.40.170.41   uclusers-slp4.uclusers

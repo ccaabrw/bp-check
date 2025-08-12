@@ -1,0 +1,8 @@
+*** /tmp/dH6aaEa	Fri Sep  3 17:20:49 2010
+--- /tmp/bp_check.auto.3739856	Fri Sep  3 17:20:49 2010
+***************
+*** 385,387 ****
+  HELP  144.82.124.245  -> 144.82.103.3    uclclust-lp3.uclclust
+- HELP  144.82.125.245  -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  144.82.131.245  -> 144.82.103.2    uclclust-lp2.uclclust
+--- 385,386 ----

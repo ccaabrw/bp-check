@@ -1,0 +1,8 @@
+*** /tmp/d-WmnUa	Wed May 29 12:00:03 2013
+--- /tmp/bp_check.auto.929804	Wed May 29 12:00:03 2013
+***************
+*** 407,409 ****
+  HELP  144.82.132.245  -> 144.82.103.130  uclusers-slp3.uclusers
+- HELP  144.82.132.245  -> 144.82.104.19   uclinst-gw19.uclinst
+  HELP  144.82.132.245  -> 144.82.104.22   uclinst-gw22.uclinst
+--- 407,408 ----

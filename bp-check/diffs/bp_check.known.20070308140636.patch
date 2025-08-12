@@ -1,0 +1,14 @@
+*** /tmp/d3xieUa	Thu Mar  8 14:04:27 2007
+--- /tmp/bp_check.auto.655488	Thu Mar  8 14:04:27 2007
+***************
+*** 108,110 ****
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
+- MAC   XXXXXXXXXXXX  npsh.surg               128.40.251.22   uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers
+--- 108,109 ----
+***************
+*** 125,127 ****
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+- MAC   XXXXXXXXXXXX  surg-ws4.surg           128.40.251.91   uclinst-gw8.uclinst
+  MAC   XXXXXXXXXXXX  ucl12-ws22.ucl12        128.40.161.22   uclinst-gw22.uclinst
+--- 124,125 ----

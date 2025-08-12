@@ -1,0 +1,23 @@
+*** /tmp/dDPQiMa	Wed Mar 21 12:44:42 2007
+--- /tmp/bp_check.auto.712828	Wed Mar 21 12:44:40 2007
+***************
+*** 127,128 ****
+--- 128,133 ----
+  MAC   XXXXXXXXXXXX  psychiat-ws125.psychiat 128.40.204.45   uclinst-gw8.uclinst
++ MAC   XXXXXXXXXXXX  reg-ws119.reg           128.40.87.115   uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  reg-ws120.reg           128.40.87.116   uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  reg-ws121.reg           128.40.87.117   uclinst-gw19.uclinst
++ MAC   XXXXXXXXXXXX  reg-ws122.reg           128.40.87.118   uclinst-gw19.uclinst
+  MAC   XXXXXXXXXXXX  reg-ws42.reg            128.40.87.192   uclinst-gw10.uclinst
+***************
+*** 130,131 ****
+--- 135,137 ----
+  MAC   XXXXXXXXXXXX  sts-ws20.sts            128.40.49.170   uclinst-gw22.uclinst
++ MAC   XXXXXXXXXXXX  studuni-ws29.studuni    193.60.230.179  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  studuni-ws66.studuni    193.60.230.216  uclinst-gw10.uclinst
+***************
+*** 356,357 ****
+--- 362,364 ----
+  HELP  128.40.210.245  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.211.102  -> 144.82.104.10   uclinst-gw10.uclinst
+  HELP  128.40.211.126  -> 144.82.104.10   uclinst-gw10.uclinst

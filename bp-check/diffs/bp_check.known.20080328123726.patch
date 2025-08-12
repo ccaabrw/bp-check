@@ -1,0 +1,8 @@
+*** /tmp/d0nqe7a	Fri Mar 28 12:36:11 2008
+--- /tmp/bp_check.auto.499760	Fri Mar 28 12:36:11 2008
+***************
+*** 94,95 ****
+--- 94,96 ----
+  HELP  128.40.152.245  -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.154.126  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.154.126  -> 144.82.104.17   uclinst-gw17.uclinst

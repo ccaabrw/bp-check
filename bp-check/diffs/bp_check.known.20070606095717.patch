@@ -1,0 +1,7 @@
+*** /tmp/d75mdya	Wed Jun  6 09:56:50 2007
+--- /tmp/bp_check.auto.1511522	Wed Jun  6 09:56:50 2007
+***************
+*** 1 ****
+--- 1,2 ----
++ NAME  gen_c15                 <not in DNS>                  uclinst-gw22.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust

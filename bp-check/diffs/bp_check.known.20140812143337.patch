@@ -1,0 +1,8 @@
+*** /tmp/d_racaa	Tue Aug 12 14:33:29 2014
+--- /tmp/bp_check.auto.6553620	Tue Aug 12 14:33:29 2014
+***************
+*** 79,81 ****
+  HELP  128.40.163.206  -> 144.82.104.10   uclinst-gw10.uclinst
+- HELP  128.40.163.30   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.163.46   -> 144.82.104.8    uclinst-gw8.uclinst
+--- 79,80 ----

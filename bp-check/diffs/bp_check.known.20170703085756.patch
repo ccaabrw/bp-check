@@ -1,0 +1,8 @@
+*** /tmp/d_-ad7a	Mon Jul  3 08:57:53 2017
+--- /tmp/bp_check.auto.15401036	Mon Jul  3 08:57:53 2017
+***************
+*** 52,54 ****
+  HELP  128.40.161.222  -> 144.82.104.8    uclinst-gw8.uclinst
+- HELP  128.40.161.30   -> 144.82.104.22   uclinst-gw22.uclinst
+  HELP  128.40.162.245  -> 144.82.104.23   uclinst-gw23.uclinst
+--- 52,53 ----

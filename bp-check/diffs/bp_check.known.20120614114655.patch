@@ -1,0 +1,8 @@
+*** /tmp/djxUkaa	Thu Jun 14 11:46:51 2012
+--- /tmp/bp_check.auto.1499172	Thu Jun 14 11:46:51 2012
+***************
+*** 310,311 ****
+--- 310,312 ----
+  HELP  128.40.59.245   -> 144.82.104.4    uclinst-gw4.uclinst
++ HELP  128.40.6.245    -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.60.245   -> 144.82.103.128  uclusers-slp1.uclusers

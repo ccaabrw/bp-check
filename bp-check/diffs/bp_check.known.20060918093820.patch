@@ -1,0 +1,61 @@
+*** /tmp/d63unUa	Mon Sep 18 09:32:55 2006
+--- /tmp/bp_check.auto.901322	Mon Sep 18 09:32:54 2006
+***************
+*** 3,11 ****
+  NAME  crucilib-ws19.crucilib  <not in DNS>    XXXXXXXXXXXX  uclinst-gw5.uclinst
+- NAME  laws-ws11.laws          <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
+- NAME  laws-ws2.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
+- NAME  laws-ws3.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
+- MAC   000C76BD5E1A  pharm-wspr1.pharm       128.40.96.211   uclinst-gw5.uclinst
+- MAC   000C76BD5E1A  ucl36-wspr1.ucl36       128.40.136.100  uclinst-gw4.uclinst
+- NAME  laws-ws6.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
+- NAME  laws-ws8.laws           <not in DNS>    XXXXXXXXXXXX  uclinst-gw22.uclinst
+  MAC   FFFFFFFFFFFF  npsb.ucl25              144.82.125.21   uclclust-lp1.uclclust
+--- 3,4 ----
+***************
+*** 116,118 ****
+  MAC   XXXXXXXXXXXX  laws-ws10.laws          128.40.66.31    uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws11.laws          <not in DNS>    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws12.laws          128.40.66.5     uclinst-gw22.uclinst
+--- 109,111 ----
+  MAC   XXXXXXXXXXXX  laws-ws10.laws          128.40.66.31    uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws11.laws          128.40.66.124   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws12.laws          128.40.66.5     uclinst-gw22.uclinst
+***************
+*** 120,126 ****
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws2.laws           <not in DNS>    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws27.laws          128.40.66.40    uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws3.laws           <not in DNS>    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws4.laws           128.40.66.25    uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws6.laws           <not in DNS>    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws7.laws           128.40.66.28    uclinst-gw22.uclinst
+--- 113,119 ----
+  MAC   XXXXXXXXXXXX  laws-ws15.laws          128.40.66.47    uclinst-gw8.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws2.laws           128.40.66.113   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws27.laws          128.40.66.40    uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws3.laws           128.40.66.114   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws4.laws           128.40.66.25    uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws6.laws           128.40.66.116   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws7.laws           128.40.66.28    uclinst-gw22.uclinst
+***************
+*** 127,129 ****
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws8.laws           <not in DNS>    uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws9.laws           128.40.66.30    uclinst-gw22.uclinst
+--- 120,122 ----
+  MAC   XXXXXXXXXXXX  laws-ws71.laws          128.40.66.164   uclinst-gw22.uclinst
+! MAC   XXXXXXXXXXXX  laws-ws8.laws           128.40.66.118   uclinst-gw22.uclinst
+  MAC   XXXXXXXXXXXX  laws-ws9.laws           128.40.66.30    uclinst-gw22.uclinst
+***************
+*** 177,178 ****
+--- 170,172 ----
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
++ MAC   XXXXXXXXXXXX  pharm-wspr1.pharm       128.40.96.211   uclinst-gw5.uclinst
+  MAC   XXXXXXXXXXXX  prov-ws7.prov           128.40.83.61    uclinst-gw11.uclinst
+***************
+*** 296,298 ****
+  HELP  128.40.154.78   -> 144.82.104.23   uclinst-gw23.uclinst
+- HELP  128.40.156.126  -> 144.82.103.2    uclclust-lp2.uclclust
+  HELP  128.40.156.126  -> 144.82.104.12   uclinst-gw12.uclinst
+--- 290,291 ----

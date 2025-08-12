@@ -1,0 +1,65 @@
+*** /tmp/dESujEa	Fri Jun 22 17:26:00 2007
+--- /tmp/bp_check.auto.1827070	Fri Jun 22 17:26:00 2007
+***************
+*** 63,67 ****
+  MAC   XXXXXXXXXXXX  iseisd-ws33.is-eisd     128.40.223.134  uclinst-gw1.uclinst
+! MAC   XXXXXXXXXXXX  iseisd-wsmy5.is-eisd    128.40.223.139  uclinst-gw20.uclinst
+! MAC   XXXXXXXXXXXX  iseisd-wsmy6.is-eisd    128.40.223.140  uclinst-gw20.uclinst
+! MAC   XXXXXXXXXXXX  iseisd-wsmy7.is-eisd    128.40.223.141  uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  isloan-ws3.isloan       128.40.89.59    uclinst-gw22.uclinst
+--- 63,67 ----
+  MAC   XXXXXXXXXXXX  iseisd-ws33.is-eisd     128.40.223.134  uclinst-gw1.uclinst
+! MAC   XXXXXXXXXXXX  iseisd-wsmy5.is-eisd    128.40.223.139  uclinst-gw7.uclinst
+! MAC   XXXXXXXXXXXX  iseisd-wsmy6.is-eisd    128.40.223.140  uclinst-gw7.uclinst
+! MAC   XXXXXXXXXXXX  iseisd-wsmy7.is-eisd    128.40.223.141  uclinst-gw7.uclinst
+  MAC   XXXXXXXXXXXX  isloan-ws3.isloan       128.40.89.59    uclinst-gw22.uclinst
+***************
+*** 95,97 ****
+  MAC   XXXXXXXXXXXX  npsa.med                128.40.253.220  uclusers-slp3.uclusers
+- MAC   XXXXXXXXXXXX  npsa.ucl23              144.82.131.210  uclclust-lp2.uclclust
+  MAC   XXXXXXXXXXXX  npsa.ucl47              144.82.147.20   uclclust-lp1.uclclust
+--- 95,96 ----
+***************
+*** 125,127 ****
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+! MAC   XXXXXXXXXXXX  olc-wsmy1.olc           128.40.37.106   uclinst-gw20.uclinst
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+--- 124,126 ----
+  MAC   XXXXXXXXXXXX  npsu.is-eisd            128.40.222.40   uclusers-slp1.uclusers
+! MAC   XXXXXXXXXXXX  olc-wsmy1.olc           128.40.37.106   uclinst-gw7.uclinst
+  MAC   XXXXXXXXXXXX  pc9.senit               128.40.48.140   uclinst-gw20.uclinst
+***************
+*** 151,155 ****
+  MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
+- MAC   XXXXXXXXXXXX  ucl23-ws1.ucl23         144.82.131.207  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl23-ws2.ucl23         144.82.131.208  uclinst-gw7.uclinst
+- MAC   XXXXXXXXXXXX  ucl23-ws3.ucl23         144.82.131.209  uclinst-gw7.uclinst
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
+--- 150,151 ----
+***************
+*** 214,215 ****
+--- 210,212 ----
+  HELP  128.40.138.245  -> 144.82.104.22   uclinst-gw22.uclinst
++ HELP  128.40.138.245  -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.139.245  -> 144.82.100.187  cbds-a.ucl0
+***************
+*** 394,395 ****
+--- 391,393 ----
+  HELP  128.40.223.254  -> 144.82.104.20   uclinst-gw20.uclinst
++ HELP  128.40.223.254  -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.223.254  -> 144.82.117.43   ucl17-gw7.ucl17
+***************
+*** 454,456 ****
+  HELP  128.40.37.110   -> 144.82.103.131  uclusers-slp4.uclusers
+! HELP  128.40.37.110   -> 144.82.104.20   uclinst-gw20.uclinst
+  HELP  128.40.37.174   -> 144.82.104.17   uclinst-gw17.uclinst
+--- 452,454 ----
+  HELP  128.40.37.110   -> 144.82.103.131  uclusers-slp4.uclusers
+! HELP  128.40.37.110   -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.37.174   -> 144.82.104.17   uclinst-gw17.uclinst
+***************
+*** 463,464 ****
+--- 461,463 ----
+  HELP  128.40.37.254   -> 144.82.104.21   uclinst-gw21.uclinst
++ HELP  128.40.37.254   -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.44.245   -> 144.82.103.4    uclclust-lp4.uclclust

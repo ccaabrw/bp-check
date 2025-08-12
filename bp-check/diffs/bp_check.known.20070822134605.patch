@@ -1,0 +1,8 @@
+*** /tmp/dU4QgUa	Wed Aug 22 13:45:39 2007
+--- /tmp/bp_check.auto.626842	Wed Aug 22 13:45:39 2007
+***************
+*** 344,345 ****
+--- 344,346 ----
+  HELP  128.40.62.245   -> 144.82.104.15   uclinst-gw15.uclinst
++ HELP  128.40.63.245   -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.63.245   -> 144.82.103.131  uclusers-slp4.uclusers

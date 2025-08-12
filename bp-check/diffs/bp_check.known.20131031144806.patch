@@ -1,0 +1,8 @@
+*** /tmp/dx2QhUa	Thu Oct 31 14:48:01 2013
+--- /tmp/bp_check.auto.1036382	Thu Oct 31 14:48:01 2013
+***************
+*** 328,330 ****
+  HELP  128.40.68.94    -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.74.245   -> 144.82.103.129  uclusers-slp2.uclusers
+  HELP  128.40.74.245   -> 144.82.104.20   uclinst-gw20.uclinst
+--- 328,329 ----

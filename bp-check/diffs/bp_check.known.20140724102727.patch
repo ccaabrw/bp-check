@@ -1,0 +1,13 @@
+*** /tmp/d-Talqa	Thu Jul 24 10:27:01 2014
+--- /tmp/bp_check.auto.15007838	Thu Jul 24 10:27:01 2014
+***************
+*** 1,2 ****
+- NAME  nps-a.medsch.ucl.ac.uk  <not in DNS>    0030C15F6CE3  uclclust-lp1.uclclust
+  HELP  128.40.101.254  -> 144.82.117.120  bccusers-gw3.bccusers
+--- 1 ----
+***************
+*** 12,14 ****
+  HELP  128.40.116.254  -> 144.82.104.22   uclinst-gw22.uclinst
+- HELP  128.40.117.245  -> 144.82.103.1    uclclust-lp1.uclclust
+  HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
+--- 11,12 ----

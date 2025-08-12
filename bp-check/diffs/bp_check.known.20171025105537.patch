@@ -1,0 +1,9 @@
+*** /tmp/d-Laaaa	Wed Oct 25 10:55:16 2017
+--- /tmp/bp_check.auto.7798840	Wed Oct 25 10:55:16 2017
+***************
+*** 16,19 ****
+  HELP  128.40.129.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.130.245  -> 144.82.103.1    uclclust-lp1.uclclust
+- HELP  128.40.130.245  -> 144.82.104.1    uclinst-gw1.uclinst
+  HELP  128.40.136.245  -> 144.82.103.1    uclclust-lp1.uclclust
+--- 16,17 ----

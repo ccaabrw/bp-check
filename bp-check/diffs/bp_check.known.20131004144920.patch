@@ -1,0 +1,14 @@
+*** /tmp/dxTyhaa	Fri Oct  4 14:48:50 2013
+--- /tmp/bp_check.auto.741626	Fri Oct  4 14:48:50 2013
+***************
+*** 277,279 ****
+  HELP  128.40.37.78    -> 144.82.104.16   uclinst-gw16.uclinst
+- HELP  128.40.44.245   -> 144.82.104.15   uclinst-gw15.uclinst
+  HELP  128.40.44.245   -> 144.82.104.8    uclinst-gw8.uclinst
+--- 277,278 ----
+***************
+*** 333,335 ****
+  HELP  128.40.76.245   -> 144.82.104.21   uclinst-gw21.uclinst
+- HELP  128.40.78.245   -> 144.82.104.15   uclinst-gw15.uclinst
+  HELP  128.40.79.254   -> 144.82.104.22   uclinst-gw22.uclinst
+--- 332,333 ----

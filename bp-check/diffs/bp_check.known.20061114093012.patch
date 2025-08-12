@@ -1,0 +1,11 @@
+*** /tmp/d6Zemqa	Tue Nov 14 09:29:33 2006
+--- /tmp/bp_check.auto.479400	Tue Nov 14 09:29:33 2006
+***************
+*** 140,145 ****
+  MAC   XXXXXXXXXXXX  ucl19-ws7.ucl19         144.82.119.157  uclinst-gw3.uclinst
+- MAC   XXXXXXXXXXXX  ucl28-ws125.ucl28       128.40.128.205  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  ucl28-ws57.ucl28        128.40.128.137  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  ucl28-ws58.ucl28        128.40.128.138  uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  ucl28-ws59.ucl28        128.40.128.139  uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  ucl31-ws40.ucl31        128.40.131.190  uclinst-gw7.uclinst
+--- 143,144 ----

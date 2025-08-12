@@ -1,0 +1,9 @@
+*** /tmp/dXXagEa	Fri Feb 16 16:50:23 2018
+--- /tmp/bp_check.auto.7143546	Fri Feb 16 16:50:22 2018
+***************
+*** 24,27 ****
+  HELP  128.40.154.190  -> 144.82.104.19   uclinst-gw19.uclinst
+- HELP  128.40.154.78   -> 144.82.104.1    uclinst-gw1.uclinst
+- HELP  128.40.154.78   -> 144.82.104.23   uclinst-gw23.uclinst
+  HELP  128.40.156.254  -> 144.82.104.4    uclinst-gw4.uclinst
+--- 24,25 ----

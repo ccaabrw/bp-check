@@ -1,0 +1,8 @@
+*** /tmp/dIp7bqa	Wed Jun 19 14:26:35 2013
+--- /tmp/bp_check.auto.983168	Wed Jun 19 14:26:35 2013
+***************
+*** 19,20 ****
+--- 19,21 ----
+  HELP  128.40.118.126  -> 144.82.104.16   uclinst-gw16.uclinst
++ HELP  128.40.121.254  -> 144.82.103.128  uclusers-slp1.uclusers
+  HELP  128.40.121.254  -> 144.82.104.5    uclinst-gw5.uclinst

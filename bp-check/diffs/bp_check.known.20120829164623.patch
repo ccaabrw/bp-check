@@ -1,0 +1,8 @@
+*** /tmp/dpXqcia	Wed Aug 29 16:45:11 2012
+--- /tmp/bp_check.auto.1495066	Wed Aug 29 16:45:11 2012
+***************
+*** 58,59 ****
+--- 60,62 ----
+  HELP  128.40.15.254   -> 144.82.104.11   uclinst-gw11.uclinst
++ HELP  128.40.15.254   -> 144.82.104.7    uclinst-gw7.uclinst
+  HELP  128.40.150.126  -> 144.82.104.4    uclinst-gw4.uclinst

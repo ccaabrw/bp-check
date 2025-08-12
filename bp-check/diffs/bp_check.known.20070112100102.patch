@@ -1,0 +1,16 @@
+*** /tmp/d3ZMkMa	Fri Jan 12 10:00:52 2007
+--- /tmp/bp_check.auto.852064	Fri Jan 12 10:00:52 2007
+***************
+*** 1,2 ****
+- NAME  arts-ws79.arts          <not in DNS>    XXXXXXXXXXXX  uclinst-gw23.uclinst
+  NAME  cee-ws20.cee            <not in DNS>    0080C857967D  uclinst-gw19.uclinst
+--- 1 ----
+***************
+*** 20,22 ****
+  MAC   XXXXXXXXXXXX  arts-ws69.arts          128.40.29.216   uclinst-gw23.uclinst
+! MAC   XXXXXXXXXXXX  arts-ws79.arts          <not in DNS>    uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst
+--- 19,21 ----
+  MAC   XXXXXXXXXXXX  arts-ws69.arts          128.40.29.216   uclinst-gw23.uclinst
+! MAC   XXXXXXXXXXXX  arts-ws79.arts          128.40.29.179   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  bart-ws2.bart           128.40.58.74    uclinst-gw4.uclinst

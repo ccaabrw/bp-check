@@ -1,0 +1,8 @@
+*** /tmp/dvKIkqa	Tue Oct 17 12:12:19 2006
+--- /tmp/bp_check.auto.524406	Tue Oct 17 12:12:19 2006
+***************
+*** 88,90 ****
+  MAC   XXXXXXXXXXXX  npsaj.is-eisd           128.40.223.28   uclusers-slp1.uclusers
+- MAC   XXXXXXXXXXXX  npsas.reg               128.40.87.125   uclusers-slp3.uclusers
+  MAC   XXXXXXXXXXXX  npsb.english            128.40.34.178   uclusers-slp2.uclusers
+--- 88,89 ----

@@ -1,0 +1,9 @@
+*** /tmp/d-0abUa	Tue Jul  7 12:46:58 2015
+--- /tmp/bp_check.auto.6619200	Tue Jul  7 12:46:58 2015
+***************
+*** 365,366 ****
+--- 365,368 ----
+  HELP  194.66.92.245   -> 144.82.104.19   uclinst-gw19.uclinst
++ HELP  195.195.96.245  -> 10.50.58.7      slmsdhcp01.ad.ucl.ac.uk
++ HELP  195.195.96.245  -> 10.50.58.8      slmsdhcp02.ad.ucl.ac.uk
+  HELP  195.195.96.245  -> 144.82.104.19   uclinst-gw19.uclinst

@@ -1,0 +1,23 @@
+*** /tmp/dapabMa	Thu Sep 21 09:27:41 2006
+--- /tmp/bp_check.auto.614490	Thu Sep 21 09:27:41 2006
+***************
+*** 28,30 ****
+  MAC   XXXXXXXXXXXX  crucilib-ws19.crucilib  <not in DNS>    uclinst-gw5.uclinst
+- MAC   XXXXXXXXXXXX  dsachslt-ws1.dsachslt   128.40.89.76    uclinst-gw4.uclinst
+  MAC   XXXXXXXXXXXX  econ-ws7.econ           128.40.90.30    uclinst-gw22.uclinst
+--- 28,29 ----
+***************
+*** 60,65 ****
+  MAC   XXXXXXXXXXXX  hist-ws8.hist           128.40.88.95    uclinst-gw14.uclinst
+- MAC   XXXXXXXXXXXX  histart-ws26.histart    128.40.187.26   uclinst-gw23.uclinst
+- MAC   XXXXXXXXXXXX  histart-ws31.histart    128.40.187.31   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  histart-ws32.histart    128.40.187.32   uclinst-gw16.uclinst
+- MAC   XXXXXXXXXXXX  histart-ws33.histart    128.40.187.33   uclinst-gw23.uclinst
+  MAC   XXXXXXXXXXXX  iseisd-ws102.is-eisd    128.40.222.52   uclinst-gw20.uclinst
+--- 59,61 ----
+***************
+*** 117,119 ****
+  MAC   XXXXXXXXXXXX  npsh.psychiat           128.40.240.116  uclusers-slp3.uclusers
+- MAC   XXXXXXXXXXXX  npsi.cloist             128.40.170.44   uclusers-slp4.uclusers
+  MAC   XXXXXXXXXXXX  npsj.cloist             128.40.170.45   uclusers-slp4.uclusers
+--- 113,114 ----
